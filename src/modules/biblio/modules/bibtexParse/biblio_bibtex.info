@@ -1,0 +1,14 @@
+name = Biblio - BibTex
+description = Provides BibTex import and export to the Biblio module.
+core = 7.x
+package = Biblio
+dependencies[] = biblio
+files[] = PARSEENTRIES.php
+files[] = views/biblio_handler_field_export_link_bibtex.inc
+
+; Information added by Drupal.org packaging script on 2016-01-27
+version = "7.x-1.0-rc7+28-dev"
+core = "7.x"
+project = "biblio"
+datestamp = "1453865066"
+
