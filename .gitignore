@@ -36,4 +36,4 @@ xmlrpc.php
 /themes
 
 # NO NO NO DO NOT COMMIT NO
-ssh/*
+ssh/id_rsa*
