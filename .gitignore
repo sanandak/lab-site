@@ -34,3 +34,6 @@ xmlrpc.php
 /profiles
 /scripts
 /themes
+
+# NO NO NO DO NOT COMMIT NO
+ssh/*
