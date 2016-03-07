@@ -1,3 +1,0 @@
-host github.com
-  user git
-  identityfile /root/.ssh/id_rsa
