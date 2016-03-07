@@ -1,20 +1,24 @@
-version: '1'
+version: '2'
 
 services:
-  docker:
+  drupal:
     build: .
     ports:
       - "8080:80"
       - "22"
     depends_on:
-      - mysql
+      - db
     volumes:
-      - .:/var/www
+      - ./src:/var/www/html/
   
-  mysql:
+  db:
     image: mysql
     environment:
-      MYSQL_ROOT_PASSWORD: <Put the password here>
+      MYSQL_ROOT_PASSWORD
       MYSQL_DATABASE: drupal
+      MYSQL_USER: rpal_drupal
+      MYSQL_PASSWORD
     volumes:
       - ./conf/mysql/conf.d:/etc/mysql/conf.d
+    ports:
+      - "3306:3306"
