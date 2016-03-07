@@ -1,0 +1,20 @@
+version: '1'
+
+services:
+  docker:
+    build: .
+    ports:
+      - "8080:80"
+      - "22"
+    depends_on:
+      - mysql
+    volumes:
+      - .:/var/www
+  
+  mysql:
+    image: mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: <Put the password here>
+      MYSQL_DATABASE: drupal
+    volumes:
+      - ./conf/mysql/conf.d:/etc/mysql/conf.d
