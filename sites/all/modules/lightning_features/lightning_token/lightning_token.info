@@ -1,0 +1,14 @@
+name = Lightning Token
+description = Enable the rich tokenization of data objects.
+package = Lightning
+core = 7.x
+
+dependencies[] = features
+dependencies[] = token
+
+; Information added by Drupal.org packaging script on 2016-08-18
+version = "7.x-1.0-beta16"
+core = "7.x"
+project = "lightning_features"
+datestamp = "1471528448"
+

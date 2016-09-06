@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blurb on Foundations of Robotics</title>
+    <link>https://rpal.cs.cornell.edu/teaching/foundations/blurb/</link>
+    <description>Recent content in Blurb on Foundations of Robotics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Aug 2016 16:15:02 -0400</lastBuildDate>
+    <atom:link href="https://rpal.cs.cornell.edu/teaching/foundations/blurb/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>resources</title>
+      <link>https://rpal.cs.cornell.edu/teaching/foundations/blurb/resources/</link>
+      <pubDate>Fri, 26 Aug 2016 16:15:02 -0400</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/teaching/foundations/blurb/resources/</guid>
+      <description>&lt;p&gt;This site primarily serves as a collection of course notes, which may be found
+in the &lt;a href=&#34;notes&#34;&gt;notes section&lt;/a&gt;, as well as hosting the course &lt;a href=&#34;syllabus&#34;&gt;syllabus and
+calendar&lt;/a&gt;. There is also a &lt;a href=&#34;https://piazza.com/class/irxwqeyg3z429&#34;&gt;Piazza
+forum&lt;/a&gt; for the class, as well as an
+assignment submission and grading page on
+&lt;a href=&#34;https://cms.csuglab.cornell.edu&#34;&gt;CMS&lt;/a&gt;. Please contact the &lt;a href=&#34;staff&#34;&gt;course staff&lt;/a&gt;
+with any questions which are not suitable for Piazza.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://rpal.cs.cornell.edu/teaching/foundations/blurb/about/</link>
+      <pubDate>Fri, 26 Aug 2016 15:42:30 -0400</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/teaching/foundations/blurb/about/</guid>
+      <description>&lt;p&gt;CS 4750, Foundations of Robotics, is a challenging introduction to basic
+computational concepts used broadly in robotics. Topics include simulation,
+kinematics, dynamics, control, optimization, and probabilistic inference. The
+mathematical basis of each area is emphasized, and concepts are motivated using
+common robotics applications and programming exercises.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

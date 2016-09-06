@@ -1,0 +1,21 @@
+name = Lightning Breakpoints
+description = Basic breakpoint configurations.
+package = Lightning
+core = 7.x
+
+dependencies[] = breakpoints
+dependencies[] = navbar
+
+features[breakpoints][] = breakpoints.module.navbar.wide
+features[breakpoints][] = custom.user.mobile
+features[breakpoints][] = custom.user.narrow
+features[breakpoints][] = custom.user.tablet
+features[ctools][] = breakpoints:default_breakpoints:1
+features[features_api][] = api:2
+
+; Information added by Drupal.org packaging script on 2016-08-18
+version = "7.x-1.0-beta16"
+core = "7.x"
+project = "lightning_features"
+datestamp = "1471528448"
+

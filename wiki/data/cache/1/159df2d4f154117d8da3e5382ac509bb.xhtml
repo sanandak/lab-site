@@ -1,0 +1,201 @@
+
+<h1 class="sectionedit1" id="skynet_jr">Skynet Jr.</h1>
+<div class="level1">
+
+</div>
+<!-- EDIT1 SECTION "Skynet Jr." [1-26] -->
+<h2 class="sectionedit2" id="project_overview">Project Overview</h2>
+<div class="level2">
+
+<p>
+<strong>Status:</strong> Ongoing / Temporarily On Hold
+</p>
+
+</div>
+<!-- EDIT2 SECTION "Project Overview" [27-99] -->
+<h3 class="sectionedit3" id="summary">Summary</h3>
+<div class="level3">
+
+<p>
+The goal of this project is to develop an autonomous, multi-terrain mobile platform for studying control and modeling of complex vehicle dynamics. An off-the-shelf “hobby RC” vehicle (in the present design, a 1/10-scale ECX Ruckus) is being retrofit for autonomous operation with additional interoceptive and exteroceptive sensors, as well as custom control and interface electronics. 
+</p>
+
+<p>
+The computational hardware architecture consists of a primary computational resource (for carrying out high level computation and control) and a real-time coprocessor (for time-critical low-level hardware interfacing). In the current design, an NVIDIA Jetson TX1 (256-core Maxwell GPU + 64-bit ARM A57 CPU) and a Cypress PSoC 5LP (ARM Cortex-M3) fulfill these roles, respectively. 
+</p>
+
+<p>
+To enable use of the system as a robotic research platform, Skynet Jr. uses a ROS-based software architecture (running within a 64-bit Ubuntu-based <abbr title="Operating System">OS</abbr>) on the primary computational resource. Doing so allows for ease of integration with existing software packages as well as the development of a custom <abbr title="Application Programming Interface">API</abbr> for abstracting low-level hardware interfacing (through the real-time coprocessor). 
+</p>
+<hr />
+
+</div>
+<!-- EDIT3 SECTION "Summary" [100-1286] -->
+<h3 class="sectionedit4" id="contacts">Contacts</h3>
+<div class="level3">
+<ul>
+<li class="level1"><div class="li"> Principal Researcher: N/A </div>
+</li>
+<li class="level1"><div class="li"> Legacy Contact: <a href="/wiki/user/avolkov" class="wikilink1" title="user:avolkov">Alexander Volkov</a></div>
+</li>
+</ul>
+<hr />
+
+</div>
+<!-- EDIT4 SECTION "Contacts" [1287-1398] -->
+<h3 class="sectionedit5" id="funding_info">Funding Info</h3>
+<div class="level3">
+
+<p>
+At present this project is funded by means of the RPAL startup account.
+</p>
+<hr />
+
+</div>
+<!-- EDIT5 SECTION "Funding Info" [1399-1501] -->
+<h2 class="sectionedit6" id="project_resources">Project Resources</h2>
+<div class="level2">
+
+</div>
+<!-- EDIT6 SECTION "Project Resources" [1502-1533] -->
+<h3 class="sectionedit7" id="notes_todo">Notes &amp; TODO</h3>
+<div class="level3">
+
+</div>
+
+<h4 id="mechanical_hardware">Mechanical Hardware</h4>
+<div class="level4">
+
+<p>
+To encourage modularity of the custom hardware and electronics, minimal alterations have been made to the off-the-shelf vehicle hardware (ECX Ruckus). The only major additions are a custom chassis plate and enclosure for mounting the control electronics and stereo camera, as well as a custom roll cage designed to replace the stock plastic body and provide collision protection.
+</p>
+
+<p>
+TODO:
+</p>
+<ol>
+<li class="level1 node"><div class="li"> Design the custom roll cage. </div>
+<ul>
+<li class="level2"><div class="li"> Can be constructed of aluminum or carbon-fiber tube struts connected at custom machined aluminum hubs, mounted to the chassis at the suspension posts and outer edge of lower frame.</div>
+</li>
+<li class="level2"><div class="li"> Possibly include mount points for ultrasound proximity sensors and room for a LIDAR module.</div>
+</li>
+</ul>
+</li>
+</ol>
+
+</div>
+
+<h4 id="sensing_and_actuation">Sensing and Actuation</h4>
+<div class="level4">
+
+<p>
+The Skynet Jr. sensing suite is divided into interoceptive (sensing internal system state) and exteroceptive (sensing external, environment state) sensor arrays. At present the sensor suite is as follows:
+</p>
+<ul>
+<li class="level1 node"><div class="li"> <strong><em>Interoceptive</em></strong></div>
+<ul>
+<li class="level2"><div class="li"> <strong>Throttle Actuator Velocity:</strong> Hall-Effect Sensors Built Into BLDC Motor [TODO]</div>
+</li>
+<li class="level2"><div class="li"> <strong>Steering Actuator Position / Velocity:</strong> Modified Hobby RC Servo w/ Internal Position Sensor Tapped [TODO]</div>
+</li>
+<li class="level2"><div class="li"> <strong>Individual Wheel Velocity:</strong> Allegro ATS605LSG (Hall-Effect Gear-Tooth Sensor) [Under Evaluation]</div>
+</li>
+<li class="level2"><div class="li"> <strong>Individual Suspension Deflection Position:</strong> Custom Bracket for TT-Electronics PS45M-0MC2BR10K Linear Potentiometer [Under Design Revision]</div>
+</li>
+<li class="level2 node"><div class="li"> <strong>Temperature:</strong></div>
+<ul>
+<li class="level3"><div class="li"> Jetson TX1 Die Temperature</div>
+</li>
+<li class="level3"><div class="li"> [Optional] Ambient</div>
+</li>
+<li class="level3"><div class="li"> [Optional] Throttle Actuator</div>
+</li>
+<li class="level3"><div class="li"> [Optional] Steering Actuator</div>
+</li>
+</ul>
+</li>
+<li class="level2"><div class="li"> [Optional] Barometer</div>
+</li>
+<li class="level2 node"><div class="li"> <strong>Power / Current Sensing:</strong></div>
+<ul>
+<li class="level3"><div class="li"> …</div>
+</li>
+<li class="level3"><div class="li"> Throttle Actuator Power Draw</div>
+</li>
+<li class="level3"><div class="li"> Steering Actuator Power Draw </div>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="level1 node"><div class="li"> <strong><em>Exteroceptive</em></strong></div>
+<ul>
+<li class="level2"><div class="li"> <strong>Stereo RGB Camera:</strong> ZED Stereo Camera</div>
+</li>
+<li class="level2"><div class="li"> <strong>9-DOF IMU:</strong> Bosch INO055</div>
+</li>
+<li class="level2"><div class="li"> <strong>GPS:</strong> GlobalTop FGPMMOPA6H</div>
+</li>
+<li class="level2"><div class="li"> <strong>[Optional] LIDAR Scanner</strong></div>
+</li>
+<li class="level2"><div class="li"> <strong>[Optional] Ultrasound Proximity Sensor Array</strong></div>
+</li>
+<li class="level2"><div class="li"> <strong>[Optional] Body Collision Detection Sensors</strong></div>
+</li>
+</ul>
+</li>
+</ul>
+
+<p>
+The stock throttle and steering actuation system has been replaced with high-performance alternatives in order to provide greater control authority and ease of sensing feedback. 
+</p>
+
+</div>
+
+<h4 id="electronics">Electronics</h4>
+<div class="level4">
+
+</div>
+
+<h4 id="software">Software</h4>
+<div class="level4">
+
+</div>
+
+<h5 id="primary_computational_resource_jetson_tx1">Primary Computational Resource (Jetson TX1)</h5>
+<div class="level5">
+
+</div>
+
+<h5 id="real-time_coprocessor_cypress_psoc">Real-Time Coprocessor (Cypress PSoC)</h5>
+<div class="level5">
+<hr />
+
+</div>
+<!-- EDIT7 SECTION "Notes & TODO" [1534-3930] -->
+<h3 class="sectionedit8" id="files">Files</h3>
+<div class="level3">
+
+<p>
+All project files are currently stored in the following Cornell Box folder: 
+</p>
+
+<p>
+<a href="https://cornell.box.com/v/RPAL-skynetjr" class="urlextern" target="_tab" title="https://cornell.box.com/v/RPAL-skynetjr"  rel="nofollow">https://cornell.box.com/v/RPAL-skynetjr</a>
+</p>
+
+<p>
+In the future it may be worth creating a GitHub repo for managing the project&#039;s codebase. It may also be good to transfer the electronics development storage to GitHub for easier version control. 
+</p>
+<hr />
+
+</div>
+<!-- EDIT8 SECTION "Files" [3931-4273] -->
+<h3 class="sectionedit9" id="reports">Reports</h3>
+<div class="level3">
+
+</div>
+<!-- EDIT9 SECTION "Reports" [4274-] -->

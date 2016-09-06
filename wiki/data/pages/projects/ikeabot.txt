@@ -1,0 +1,46 @@
+====== IkeaBot ======
+
+===== Project Overview =====
+
+**Status:** Ongoing / Temporarily On Hold
+
+==== Summary ====
+
+
+----
+
+==== Contacts ====
+
+  * Principal Researcher: N/A 
+  * Legacy Contact: [[user:avolkov|Alexander Volkov]]
+
+----
+
+==== Funding Info ====
+
+At present this project is funded by means of the RPAL startup account.
+
+----
+
+===== Project Resources =====
+
+
+==== Notes & TODO ====
+
+=== Mechanical Hardware ===
+
+
+=== Sensing and Actuation ===
+
+
+=== Electronics ===
+
+=== Software ===
+
+
+----
+==== Files ====
+
+
+----
+==== Reports ====

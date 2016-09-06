@@ -1,0 +1,10 @@
+====== Facilities ======
+
+This section pertains to all the physical lab resources available at RPAL. If we get a cool new facility (dedicated lab area, new room, etc.), please create a dedicated page for it and add a link to the list here.
+----
+
+  * [[facilities:tools:root|Lab Tools]]
+  * [[facilities:robots:root|Robots]]
+  * [[facilities:e-bench|Electronics Bench]]
+  * [[facilities:mo-cap|Motion Capture Facility]]
+  * [[facilities:high_volt_lab|High Voltage Lab Facility]]

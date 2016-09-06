@@ -1,0 +1,22 @@
+====== Alexander Volkov ======
+
+**Status:** Lab Tech / Hardware Guy + Wiki Admin
+==== Contact ====
+
+**Phone:** (917) 742 0637
+
+**Email:** [[av333@cornell.edu|av333@cornell.edu]]
+
+**Location:** 325 Gates Hall
+
+----
+
+==== Projects ====
+
+Skynet Jr. System Design
+
+Roboblimp Electronics
+
+IkeaBot Gripper Electronics Design
+
+Social Navigation BEAM Platform Mounting Hardware

@@ -1,0 +1,38 @@
+name = Lightning Media
+description = Media configurations.
+package = Lightning
+core = 7.x
+
+dependencies[] = contextual
+dependencies[] = ctools
+dependencies[] = entity_embed
+dependencies[] = ember_support
+dependencies[] = features
+dependencies[] = file_entity
+dependencies[] = image
+dependencies[] = media
+dependencies[] = media_bulk_upload
+dependencies[] = media_internet
+dependencies[] = media_oembed
+dependencies[] = multiform
+dependencies[] = plupload
+
+features[ctools][] = file_entity:file_default_displays:1
+features[features_api][] = api:2
+features[file_display][] = audio__media_browser__file_field_media_large_icon
+features[file_display][] = audio__media_browser__file_field_file_default
+features[file_display][] = document__media_browser__file_field_media_large_icon
+features[file_display][] = document__media_browser__file_field_file_default
+features[file_display][] = image__media_browser__file_field_image
+features[file_display][] = image__media_browser__file_field_media_large_icon
+features[file_display][] = image__media_browser__file_field_file_default
+features[file_display][] = video__media_browser__file_field_media_large_icon
+features[file_display][] = video__media_browser__file_field_file_default
+features[image][] = media_browser
+
+; Information added by Drupal.org packaging script on 2016-08-18
+version = "7.x-1.0-beta16"
+core = "7.x"
+project = "lightning_features"
+datestamp = "1471528448"
+

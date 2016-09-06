@@ -1,0 +1,35 @@
+name = Lightning Letterbox
+description = Letterbox image styles and picture configurations.
+package = Lightning
+core = 7.x
+
+dependencies[] = breakpoints
+dependencies[] = colorbox
+dependencies[] = ctools
+dependencies[] = file
+dependencies[] = file_entity
+dependencies[] = image
+dependencies[] = lightning_breakpoints
+dependencies[] = picture
+
+features[breakpoint_group][] = letterbox
+features[ctools][] = breakpoints:default_breakpoint_group:1
+features[ctools][] = breakpoints:default_breakpoints:1
+features[ctools][] = file_entity:file_default_displays:1
+features[ctools][] = picture:default_picture_mapping:1
+features[features_api][] = api:2
+features[file_display][] = video__default__file_picture
+features[file_display][] = video__preview__file_picture
+features[file_display][] = video__teaser__file_picture
+features[image][] = letterbox-mobile
+features[image][] = letterbox-narrow
+features[image][] = letterbox-tablet
+features[image][] = letterbox-wide
+features[picture_mapping][] = letterbox
+
+; Information added by Drupal.org packaging script on 2016-08-18
+version = "7.x-1.0-beta16"
+core = "7.x"
+project = "lightning_features"
+datestamp = "1471528448"
+

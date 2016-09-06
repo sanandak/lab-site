@@ -1,0 +1,93 @@
+====== Skynet Jr. ======
+
+===== Project Overview =====
+
+**Status:** Ongoing / Temporarily On Hold
+
+==== Summary ====
+
+The goal of this project is to develop an autonomous, multi-terrain mobile platform for studying control and modeling of complex vehicle dynamics. An off-the-shelf "hobby RC" vehicle (in the present design, a 1/10-scale ECX Ruckus) is being retrofit for autonomous operation with additional interoceptive and exteroceptive sensors, as well as custom control and interface electronics. 
+
+The computational hardware architecture consists of a primary computational resource (for carrying out high level computation and control) and a real-time coprocessor (for time-critical low-level hardware interfacing). In the current design, an NVIDIA Jetson TX1 (256-core Maxwell GPU + 64-bit ARM A57 CPU) and a Cypress PSoC 5LP (ARM Cortex-M3) fulfill these roles, respectively. 
+
+To enable use of the system as a robotic research platform, Skynet Jr. uses a ROS-based software architecture (running within a 64-bit Ubuntu-based OS) on the primary computational resource. Doing so allows for ease of integration with existing software packages as well as the development of a custom API for abstracting low-level hardware interfacing (through the real-time coprocessor). 
+
+----
+
+==== Contacts ====
+
+  * Principal Researcher: N/A 
+  * Legacy Contact: [[user:avolkov|Alexander Volkov]]
+
+----
+
+==== Funding Info ====
+
+At present this project is funded by means of the RPAL startup account.
+
+----
+
+===== Project Resources =====
+
+
+==== Notes & TODO ====
+
+=== Mechanical Hardware ===
+
+To encourage modularity of the custom hardware and electronics, minimal alterations have been made to the off-the-shelf vehicle hardware (ECX Ruckus). The only major additions are a custom chassis plate and enclosure for mounting the control electronics and stereo camera, as well as a custom roll cage designed to replace the stock plastic body and provide collision protection.
+
+TODO: 
+  - Design the custom roll cage. 
+    * Can be constructed of aluminum or carbon-fiber tube struts connected at custom machined aluminum hubs, mounted to the chassis at the suspension posts and outer edge of lower frame.
+    * Possibly include mount points for ultrasound proximity sensors and room for a LIDAR module.
+
+=== Sensing and Actuation ===
+
+The Skynet Jr. sensing suite is divided into interoceptive (sensing internal system state) and exteroceptive (sensing external, environment state) sensor arrays. At present the sensor suite is as follows:
+
+  * **//Interoceptive//**
+    * **Throttle Actuator Velocity:** Hall-Effect Sensors Built Into BLDC Motor [TODO]
+    * **Steering Actuator Position / Velocity:** Modified Hobby RC Servo w/ Internal Position Sensor Tapped [TODO]
+    * **Individual Wheel Velocity:** Allegro ATS605LSG (Hall-Effect Gear-Tooth Sensor) [Under Evaluation]
+    * **Individual Suspension Deflection Position:** Custom Bracket for TT-Electronics PS45M-0MC2BR10K Linear Potentiometer [Under Design Revision]
+    * **Temperature:**
+      * Jetson TX1 Die Temperature
+      * [Optional] Ambient
+      * [Optional] Throttle Actuator
+      * [Optional] Steering Actuator
+    * [Optional] Barometer
+    * **Power / Current Sensing:**
+      * ...
+      * Throttle Actuator Power Draw
+      * Steering Actuator Power Draw 
+
+  * **//Exteroceptive//**
+    * **Stereo RGB Camera:** ZED Stereo Camera
+    * **9-DOF IMU:** Bosch INO055
+    * **GPS:** GlobalTop FGPMMOPA6H
+    * **[Optional] LIDAR Scanner**
+    * **[Optional] Ultrasound Proximity Sensor Array**
+    * **[Optional] Body Collision Detection Sensors**
+
+The stock throttle and steering actuation system has been replaced with high-performance alternatives in order to provide greater control authority and ease of sensing feedback. 
+
+=== Electronics ===
+
+=== Software ===
+
+== Primary Computational Resource (Jetson TX1) ==
+
+
+== Real-Time Coprocessor (Cypress PSoC) ==
+
+----
+==== Files ====
+
+All project files are currently stored in the following Cornell Box folder: 
+
+[[https://cornell.box.com/v/RPAL-skynetjr]]
+
+In the future it may be worth creating a GitHub repo for managing the project's codebase. It may also be good to transfer the electronics development storage to GitHub for easier version control. 
+
+----
+==== Reports ====

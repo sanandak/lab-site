@@ -1,0 +1,5 @@
+====== Lab Computers ======
+
+This page holds the lab computer registry, including locations, descriptions (OS, hardware, etc.), status (operational, missing, etc.), current use, login info if necessary, and any other notes. Basically, as with all the other registries on this wiki, this is a means of keeping track of all the computers in the lab so (1) the chance of one going missing is minimized, and (2) anyone can find info on a given PC without having to hunt down people in the lab who might know. Please keep this registry up to date! 
+
+----

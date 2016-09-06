@@ -1,0 +1,10 @@
+~~NOCACHE~~
+==Quick Links:==
+
+  * [[root|Root]]
+  * [[people|People]]
+  * [[projects:root|Projects]]
+  * [[facilities:root|Facilities]]
+  * [[facilities:robots:root|Robots]]
+  * [[facilities:tools:root|Tools]]
+  * [[wiki/faq|Wiki FAQ]]

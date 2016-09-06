@@ -1,0 +1,12 @@
+====== Lab Tools ======
+
+This wiki section serves as a catalog of all the [non-trivial] tools available in the lab. Information such as tool manuals/instructions, warranty info, serial #'s, etc. all belong here. If you buy a fancy new tool, please add its info here so others can easily find how to use and/or fix it.
+
+===== Mechanical =====
+
+
+-----
+
+===== Electronics =====
+Unless noted otherwise, electronics tools should be stored around the dedicated lab electronics bench (e-bench). Electronics tools can be an unfortunate combination of expensive and sensitive to improper use, so be sure to exercise caution when using these instruments. If you aren't sure how to use something or it look particularly expensive, be sure to ask the lab electronics guru.
+-----
