@@ -109,4 +109,7 @@
   </footer>
   <?php endif; ?>
   <?php print render($content['comments']); ?>
+  <?php	if($is_front) {
+    unset($content['links']['node']['#links']['node-readmore']);
+  }?>
 </article>
