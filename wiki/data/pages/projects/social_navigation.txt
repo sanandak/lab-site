@@ -1,5 +1,0 @@
-====== Social Navigation ======
-
-<WRAP center round todo 60%>
-Replace me with something real.
-</WRAP>
