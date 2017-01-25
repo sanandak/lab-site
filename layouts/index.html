@@ -1,12 +1,16 @@
 {{ partial "header.html" . }}
 
 <div id="post-index" class="container" itemscope="" itemtype="https://schema.org/Blog">
-    {{ if .Site.Params.intro }}
-        <header class="post-header">
-            <h1 class="post-title" itemprop="name">{{ .Site.Params.headline }}</h1>
-            <p>{{ .Site.Params.description }}</p>
-        </header>
-    {{ end }}
+    <header class="post-header">
+      <div class="site-logo">
+        <object type="image/svg+xml" data="{{ .Site.BaseURL }}img/logo.svg"></object>
+      </div>
+        <h1 class="post-title" itemprop="name">{{ .Site.Params.headline }}</h1>
+        <p>{{ .Site.Params.description }}</p>
+        <ul class="site-nav">
+            {{ partial "navigation.html" . }}
+        </ul>
+    </header>
 
     <ol class="post-list">
         {{ $pag := .Paginate (where .Data.Pages "Type" "post") }}

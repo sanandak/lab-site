@@ -4,15 +4,9 @@ languageCode = "en-us"
 theme = "ghostwriter"
 pluralizelisttitles = false
 
-#[Author]
-    #name = "My Name"
-    #profile = "https://google.com/+XXX"
-
 [Params]
     intro = true
     headline = "Robotic Personal Assistants Lab"
-    github = "https://github.com/cornell-rpal"
-    email = "rpal.cornell@gmail.com"
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
