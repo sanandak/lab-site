@@ -1,27 +1,25 @@
 {{ partial "header.html" . }}
 
-<div id="post-index" class="container" itemscope="" itemtype="https://schema.org/Blog">
-    <header class="post-header">
-      <div class="site-logo">
-        <object type="image/svg+xml" data="{{ .Site.BaseURL }}img/logo.svg"></object>
-      </div>
-        <h1 class="post-title" itemprop="name">{{ .Site.Params.headline }}</h1>
-        <p>{{ .Site.Params.description }}</p>
-        <ul class="site-nav">
-            {{ partial "navigation.html" . }}
-        </ul>
-    </header>
+<div id="main-body" class="page-content">
+  <div id="about-blurb" class="blurb">
+    {{ range where .Pages "Type" "about" }}
+    {{ .Content }}
+    {{ end }}
+  </div>
 
-    <ol class="post-list">
-        {{ $pag := .Paginate (where .Data.Pages "Type" "news") }}
-        {{ range $pag.Pages }}
-            {{ partial "post-stub.html" . }}
-        {{ end }}
-    </ol>
+  <h1 class="post-title"> Lab News </h1>
+  <ol class="post-list">
+    {{ $pag := .Paginate (where .Data.Pages "Type" "news") }}
+    {{ range $pag.Pages }}
+    {{ partial "post-stub.html" . }}
+    {{ end }}
+  </ol>
 
-    <div class="post-navigation">
-        {{ partial "pagination.html" . }}
-    </div>
+  <div class="post-navigation">
+    {{ partial "pagination.html" . }}
+  </div>
 </div>
+</div>
+
 
 {{ partial "footer.html" . }}

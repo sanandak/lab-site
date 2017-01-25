@@ -32,11 +32,6 @@ pluralizelisttitles = false
     weight = 5
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 6
-
-[[menu.main]]
     name = "People"
     url = "/people/"
     weight = 4

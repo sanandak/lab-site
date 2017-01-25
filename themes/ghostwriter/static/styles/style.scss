@@ -269,8 +269,16 @@ table {
 .post-container { margin: 0 40px; }
 
 .post-header {
-    border-bottom: 6px solid $secondary;
+    //border-bottom: 6px solid $secondary;
     margin: 0 0 20px;
+    padding: 0 0 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.page-header {
+    border-bottom: 6px solid $secondary;
+    margin: 0 0 30px;
     padding: 0 0 20px;
     text-align: center;
     text-transform: uppercase;
@@ -278,7 +286,7 @@ table {
 
 .post-title,
 .page-title {
-    font-family: 'Raleway', 'Advent Pro'; 
+    font-family: 'Raleway';
     font-size: 52px;
     font-weight: 100;
     margin: 15px 0;
@@ -286,7 +294,19 @@ table {
     text-transform: uppercase;
 }
 
-.page-title { margin: 15px 40px; }
+.post-title { 
+  display: inline-block;
+  margin: auto;
+  font-size: 40px;
+  border-bottom: 3px solid $secondary;
+}
+
+.page-content { 
+  width: 90%; 
+  margin: auto; 
+}
+.blurb { text-align: center; }
+//.page-title { margin: 15px 40px; }
 
 .post-date,
 .blog-description {
