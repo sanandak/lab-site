@@ -20,6 +20,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
+    font-family: "Open Sans", arial, sans-serif;
     margin-bottom: 20px;
     text-transform: none;
 }
@@ -158,7 +159,7 @@ table {
     margin: 0 auto;
     position: relative;
     width: 100%;
-    max-width: 889px;
+    max-width: 948px;
 }
 
 #wrapper {
@@ -278,8 +279,9 @@ table {
 
 .post-title,
 .page-title {
+    font-family: 'Raleway', 'Advent Pro'; 
     font-size: 52px;
-    font-weight: 700;
+    font-weight: 100;
     margin: 15px 0;
     text-align: center;
     text-transform: uppercase;
