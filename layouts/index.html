@@ -7,11 +7,11 @@
     {{ end }}
   </div>
 
-  <h1 class="post-title"> Lab News </h1>
+  <h1 class="post-title"> News </h1>
   <ol class="post-list">
     {{ $pag := .Paginate (where .Data.Pages "Type" "news") }}
     {{ range $pag.Pages }}
-    {{ partial "post-stub.html" . }}
+    {{ partial "news-stub.html" . }}
     {{ end }}
   </ol>
 

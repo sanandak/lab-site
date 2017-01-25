@@ -285,11 +285,12 @@ table {
 }
 
 .post-title,
-.page-title {
+.page-title,
+.section-title {
     font-family: 'Raleway';
     font-size: 52px;
     font-weight: 100;
-    margin: 15px 0;
+    margin: 25px 0;
     text-align: center;
     text-transform: uppercase;
 }
@@ -298,6 +299,13 @@ table {
   //display: inline-block;
   margin: auto;
   font-size: 40px;
+  //border-bottom: 3px solid $secondary;
+}
+
+.section-title { 
+  //display: inline-block;
+  margin: auto;
+  font-size: 30px;
   //border-bottom: 3px solid $secondary;
 }
 
@@ -418,7 +426,7 @@ table {
 }
 
 .post-stub {
-    border-bottom: 1px dotted $secondary;
+    //border-bottom: 1px dotted $secondary;
     margin: 0;
     position: relative;
 
