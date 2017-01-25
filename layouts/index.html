@@ -13,7 +13,7 @@
     </header>
 
     <ol class="post-list">
-        {{ $pag := .Paginate (where .Data.Pages "Type" "post") }}
+        {{ $pag := .Paginate (where .Data.Pages "Type" "news") }}
         {{ range $pag.Pages }}
             {{ partial "post-stub.html" . }}
         {{ end }}
