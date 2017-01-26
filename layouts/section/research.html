@@ -10,8 +10,8 @@
             <li>
                 {{ delimit (apply (apply $publication.author "partial" "name" ".") "chomp" ".") ", " " and " }},
                 "{{ $publication.title }}",
-                <i>{{ index $publication "container-title" }}</i>,
-               {{ if isset $publication }}
+                <i>{{ index $publication "container-title" }}</i>
+                {{ trim (partial "pubdate" $publication) "\n\t "}},
             </li>
         {{ end }}
         </ol>
