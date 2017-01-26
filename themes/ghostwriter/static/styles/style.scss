@@ -420,9 +420,17 @@ table {
 /* Post Index */
 /* ============================================================ */
 
-.post-list {
+.post-list,
+.pub-list {
     list-style: none;
     padding: 0;
+}
+
+.pub-list {
+  li {
+    font-size: 14px;
+    margin: 15px auto;
+  }
 }
 
 .post-stub {

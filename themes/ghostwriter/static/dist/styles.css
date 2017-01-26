@@ -149,7 +149,8 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .newer-posts, .older-posts { float: left; background: #f03838; color: #fefefe; font-size: 14px; font-weight: 600; margin: 0 5px; padding: 5px 10px 6px; text-transform: uppercase; }
 .newer-posts:hover, .older-posts:hover { background: #303030; }
 .page-number { display: none; }
-.post-list { list-style: none; padding: 0; }
+.post-list, .pub-list { list-style: none; padding: 0; }
+.pub-list li { font-size: 14px; margin: 15px auto; }
 .post-stub { margin: 0; position: relative; }
 .post-stub:first-child { padding-top: 0; }
 .post-stub a { -webkit-transition: all .2s ease-in-out; -moz-transition: all .2s ease-in-out; transition: all .2s ease-in-out; display: block; color: #424242; padding: 20px 5px; }

@@ -291,8 +291,8 @@ references:
     month: '5'
   title: Local motion planning for collaborative multi-robot manipulation of deformable
     objects
-  container-title: '[Proceedings of the IEEE International Conference on Robotics
-    and Automation]{.nocase}'
+  container-title: Proceedings of the ieee international conference on robotics and
+    automation
   publisher-place: Seattle, USA
 
 - id: LindzeyEtal_WAFR14
@@ -395,8 +395,8 @@ references:
     month: '5'
   title: 'IkeaBot: An autonomous multi-robot coordinated furniture assembly system'
   title-short: IkeaBot
-  container-title: '[Proceedings of the IEEE International Conference on Robotics
-    and Automation]{.nocase}'
+  container-title: Proceedings of the ieee international conference on robotics and
+    automation
   publisher-place: Karlsruhe, Germany
   note: '**Best Automation Paper Finalist**'
 
@@ -411,8 +411,8 @@ references:
   - year: '2013'
     month: '5'
   title: On the completeness of ensembles of motion planners for decentralized planning
-  container-title: '[Proceedings of the IEEE International Conference on Robotics
-    and Automation]{.nocase}'
+  container-title: Proceedings of the ieee international conference on robotics and
+    automation
   publisher-place: Karlsruhe, Germany
 
 - id: FeldmanEtal_ICRA13
@@ -432,8 +432,8 @@ references:
   - year: '2013'
     month: '5'
   title: K-robots clustering of moving sensors using coresets
-  container-title: '[Proceedings of the IEEE International Conference on Robotics
-    and Automation]{.nocase}'
+  container-title: Proceedings of the ieee international conference on robotics and
+    automation
   publisher-place: Karlsruhe, Germany
 
 - id: HattonEtal_ICRA13
@@ -456,8 +456,8 @@ references:
     month: '5'
   title: 'Snakes on a plan: Toward combining planning and control'
   title-short: Snakes on a plan
-  container-title: '[Proceedings of the IEEE International Conference on Robotics
-    and Automation]{.nocase}'
+  container-title: Proceedings of the ieee international conference on robotics and
+    automation
   publisher-place: Karlsruhe, Germany
 
 - id: KnepperEtal_HRI13
@@ -494,8 +494,8 @@ references:
   - year: '2012'
     month: '9'
   title: Pedestrian-inspired sampling-based multi-robot collision avoidance
-  container-title: '[Proceedings of the IEEE International Symposium on Robot and
-    Human Interactive Communication]{.nocase}'
+  container-title: Proceedings of the ieee international symposium on robot and human
+    interactive communication
   publisher-place: Paris, France
 
 - id: KnepperMason_IROS11
@@ -509,8 +509,8 @@ references:
   - year: '2011'
     month: '9'
   title: Improved hierarchical planner performance using local path equivalence
-  container-title: '[Proceedings of the IEEE International Conference on Intelligent
-    Robots and Systems]{.nocase}'
+  container-title: Proceedings of the ieee international conference on intelligent
+    robots and systems
   publisher-place: San Francisco, USA
 
 - id: KnepperMason_ISRR11
@@ -557,8 +557,8 @@ references:
     month: '5'
   title: Hierarchical planning architectures for mobile manipulation tasks in indoor
     environments
-  container-title: '[Proceedings of the IEEE International Conference on Robotics
-    and Automation]{.nocase}'
+  container-title: Proceedings of the ieee international conference on robotics and
+    automation
   publisher-place: Anchorage, USA
 
 - id: KnepperMason_ICRA09
@@ -572,8 +572,8 @@ references:
   - year: '2009'
     month: '5'
   title: Path diversity is only part of the problem
-  container-title: '[Proceedings of the IEEE International Conference on Robotics
-    and Automation]{.nocase}'
+  container-title: Proceedings of the ieee international conference on robotics and
+    automation
   publisher-place: Kobe, Japan
 
 - id: KnepperMason_ISER08
@@ -604,8 +604,8 @@ references:
     month: '5'
   title: 'Path and trajectory diversity: Theory and algorithms'
   title-short: Path and trajectory diversity
-  container-title: '[Proceedings of the IEEE International Conference on Robotics
-    and Automation]{.nocase}'
+  container-title: Proceedings of the ieee international conference on robotics and
+    automation
   publisher-place: Pasadena, USA
 
 - id: KnepperKelly_IROS06
@@ -619,8 +619,8 @@ references:
   - year: '2006'
     month: '10'
   title: High performance state lattice planning using heuristic look-up tables
-  container-title: '[Proceedings of the IEEE International Conference on Intelligent
-    Robots and Systems]{.nocase}'
+  container-title: Proceedings of the ieee international conference on intelligent
+    robots and systems
   publisher-place: Beijing, China
 
 - id: HowardEtal_ISER06
@@ -664,8 +664,8 @@ references:
   - year: '1999'
     month: '5'
   title: Path planning and control for aercam, a free-flying inspection robot in space
-  container-title: '[Proceedings of the IEEE International Conference on Robotics
-    and Automation]{.nocase}'
+  container-title: Proceedings of the ieee international conference on robotics and
+    automation
   publisher-place: Detroit, USA
 
 - id: Knepper_WS_ROMAN2016
@@ -764,8 +764,8 @@ references:
     month: '9'
   title: Distributed assembly with AND/OR graphs
   container-title: IROS 2014 workshop on ai robotics
-  collection-title: '[Proceedings of the IEEE International Conference on Intelligent
-    Robots and Systems]{.nocase}'
+  collection-title: Proceedings of the ieee international conference on intelligent
+    robots and systems
   publisher-place: Chicago, USA
 
 - id: KnepperEtal_WS_HRI2013

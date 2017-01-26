@@ -5,19 +5,56 @@
   <h1 class="post-title"> Research </h1>
         {{ $baseurl := .Site.BaseURL }} 
         <h2 class="section-title">Peer-Reviewed Journal Papers</h2>
-        <ol class="post-list">
+        <ol class="pub-list">
         {{ range $publication := where .Site.Data.pubs.references "type" "article-journal" }} 
             <li>
                 {{ delimit (apply (apply $publication.author "partial" "name" ".") "chomp" ".") ", " " and " }},
                 "{{ $publication.title }}",
-                <i>{{ index $publication "container-title" }}</i>{{ trim (partial "pubinfo" $publication) "\n\t "}}{{ trim (partial "pubdate" $publication) "\n\t " }}.
+                <i>{{ index $publication "container-title" }}</i>{{partial "pubinfo" $publication | chomp}}{{partial "pubdate" $publication | chomp}}.
+                {{partial "pubnote" $publication | chomp}}
+            </li>
+        {{ end }}
+        </ol>
+        
+        <br/>
+        <h2 class="section-title">Peer-Reviewed Conference Papers</h2>
+        <ol class="pub-list">
+        {{ range $publication := where .Site.Data.pubs.references "type" "paper-conference" }} 
+            <li>
+                {{ delimit (apply (apply $publication.author "partial" "name" ".") "chomp" ".") ", " " and " }},
+                "{{ $publication.title }}",
+                <i>{{ index $publication "container-title" }}</i>{{partial "pubinfo" $publication | chomp}}{{partial "publoc" $publication | chomp}}{{partial "pubdate" $publication | chomp}}.
+                {{partial "pubnote" $publication | chomp}}
             </li>
         {{ end }}
         </ol>
 
-    <div class="post-navigation">
-        {{ partial "pagination.html" . }}
-    </div>
+        <br/>
+        <h2 class="section-title">Workshops</h2>
+        <ol class="pub-list">
+        {{ range $publication := where .Site.Data.pubs.references "type" "workshop" }} 
+            <li>
+                {{ delimit (apply (apply $publication.author "partial" "name" ".") "chomp" ".") ", " " and " }},
+                "{{ $publication.title }}",
+                <i>{{ index $publication "container-title" }}</i>{{partial "pubinfo" $publication | chomp}}{{partial "publoc" $publication | chomp}}{{partial "pubdate" $publication | chomp}}.
+                {{partial "pubnote" $publication | chomp}}
+            </li>
+        {{ end }}
+        </ol>
+
+        <br/>
+        <h2 class="section-title">Technical Reports</h2>
+        <ol class="pub-list">
+        {{ range $publication := where .Site.Data.pubs.references "type" "report" }} 
+            <li>
+                {{ delimit (apply (apply $publication.author "partial" "name" ".") "chomp" ".") ", " " and " }},
+                "{{ $publication.title }}",
+                Technical Report {{ $publication.number }}, {{ $publication.publisher }}{{partial "pubdate" $publication | chomp}}.
+                {{partial "pubnote" $publication | chomp}}
+            </li>
+        {{ end }}
+        </ol>
+
 </div>
 
 {{ partial "footer.html" . }}
