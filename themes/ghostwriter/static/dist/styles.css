@@ -151,6 +151,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .page-number { display: none; }
 .post-list, .pub-list { list-style: none; padding: 0; }
 .pub-list li { font-size: 14px; margin: 15px auto; }
+.pub-list li:hover { color: #f03838; }
 .post-stub { margin: 0; position: relative; }
 .post-stub:first-child { padding-top: 0; }
 .post-stub a { -webkit-transition: all .2s ease-in-out; -moz-transition: all .2s ease-in-out; transition: all .2s ease-in-out; display: block; color: #424242; padding: 20px 5px; }
