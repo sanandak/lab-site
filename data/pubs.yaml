@@ -61,6 +61,7 @@ references:
   container-title: International Journal of Robotics Research
   volume: '34'
   issue: '13'
+  note: '**Invited Submission**'
 
 - id: KnepperEtal_AuRo_2015
   type: article-journal
@@ -83,6 +84,7 @@ references:
   page: '347-362'
   volume: '39'
   issue: '3'
+  note: '**Invited Submission**'
 
 - id: HowardEtal_RAM
   type: article-journal
@@ -119,6 +121,7 @@ references:
   page: '1231-1250'
   volume: '31'
   issue: '11'
+  note: '**Invited Submission**'
 
 - id: SrinivasaEtal_ProcIEEE12
   type: article-journal
@@ -155,6 +158,7 @@ references:
   page: '2410-2428'
   volume: '100'
   issue: '8'
+  note: '**Invited Submission**'
 
 - id: KnepperEtal_IJRR12
   type: article-journal
@@ -174,6 +178,7 @@ references:
   page: '168-187'
   volume: '31'
   issue: '2'
+  note: '**Invited Submission**'
 
 - id: PivtoraikoEtal_JFR09
   type: article-journal
@@ -351,6 +356,7 @@ references:
   title: Asking for help using inverse semantics
   container-title: Proceedings of the robotics science and systems conference
   publisher-place: Berkeley, USA
+  note: '**Best Paper**'
 
 - id: WangEtal_MobiCom13
   type: paper-conference
@@ -392,6 +398,7 @@ references:
   container-title: '[Proceedings of the IEEE International Conference on Robotics
     and Automation]{.nocase}'
   publisher-place: Karlsruhe, Germany
+  note: '**Best Automation Paper Finalist**'
 
 - id: KnepperRus_ICRA13
   type: paper-conference
