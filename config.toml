@@ -22,8 +22,8 @@ pluralizelisttitles = false
     weight = 2
 
 [[menu.main]]
-    name = "Publications"
-    url = "/publications/"
+    name = "Research"
+    url = "/Research/"
     weight = 3
 
 [[menu.main]]

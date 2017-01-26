@@ -1,0 +1,23 @@
+{{ partial "header.html" . }}
+
+<div id="post-index" class="container">
+
+  <h1 class="post-title"> Research </h1>
+        {{ $baseurl := .Site.BaseURL }} 
+        <h2 class="section-title">Peer-Reviewed Journal Papers</h2>
+        <ol class="post-list">
+        {{ range $publication := where .Site.Data.pubs.references "type" "article-journal" }} 
+            <li>
+                {{ delimit (apply (apply $publication.author "partial" "name" ".") "chomp" ".") ", " " and " }},
+                "{{ $publication.title }}",
+                <i>{{ index $publication "container-title" }}</i>
+            </li>
+        {{ end }}
+        </ol>
+
+    <div class="post-navigation">
+        {{ partial "pagination.html" . }}
+    </div>
+</div>
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,857 @@
+---
+references:
+- id: Knepper_Thesis
+  type: thesis
+  author:
+  - family: Knepper
+    given: Ross A.
+  issued:
+  - year: '2011'
+    month: '8'
+  title: On the fundamental relationships among path planning alternatives
+  publisher: Robotics Institute, Carnegie Mellon University
+  publisher-place: Technical Report CMU-RI-TR-11-19
+  genre: PhD thesis
+
+- id: ZhaoEtal_RAM_2016
+  type: article-journal
+  author:
+  - family: Zhao
+    given: Huichan
+  - family: Jalving
+    given: Jonathan
+  - family: Huang
+    given: Rukang
+  - family: Knepper
+    given: Ross A.
+  - family: Ruina
+    given: Andy
+  - family: Shepherd
+    given: Robert
+  issued:
+  - year: '2016'
+    month: '9'
+  title: 'A helping hand: Soft orthosis with integrated optical strain sensors and
+    EMG control'
+  title-short: A helping hand
+  container-title: IEEE Robotics and Automation Magazine
+  page: '55-64'
+  volume: '23'
+  issue: '3'
+
+- id: DogarEtal_IJRR_2015
+  type: article-journal
+  author:
+  - family: Dogar
+    given: Mehmet
+  - family: Knepper
+    given: Ross A.
+  - family: Spielberg
+    given: Andrew
+  - family: Choi
+    given: Changhyun
+  - family: Christensen
+    given: Henrik I.
+  - family: Rus
+    given: Daniela
+  issued:
+  - year: '2015'
+    month: '11'
+  title: Multi-scale assembly with robot teams
+  container-title: International Journal of Robotics Research
+  volume: '34'
+  issue: '13'
+
+- id: KnepperEtal_AuRo_2015
+  type: article-journal
+  author:
+  - family: Knepper
+    given: Ross A.
+  - family: Tellex
+    given: Stefanie
+  - family: Li
+    given: Adrian
+  - family: Roy
+    given: Nicholas
+  - family: Rus
+    given: Daniela
+  issued:
+  - year: '2015'
+    month: '10'
+  title: Recovering from failure by asking for help
+  container-title: Autonomous Robots
+  page: '347-362'
+  volume: '39'
+  issue: '3'
+
+- id: HowardEtal_RAM
+  type: article-journal
+  author:
+  - family: Howard
+    given: Thomas
+  - family: Pivtoraiko
+    given: Mihail
+  - family: Knepper
+    given: Ross A.
+  - family: Kelly
+    given: Alonzo
+  issued:
+  - year: '2014'
+    month: '3'
+  title: Model-predictive motion planning for autonomous mobile robots
+  container-title: IEEE Robotics and Automation Magazine
+  page: '64-73'
+  volume: '21'
+  issue: '1'
+
+- id: KnepperMason_IJRR_2012
+  type: article-journal
+  author:
+  - family: Knepper
+    given: Ross A.
+  - family: Mason
+    given: Matthew T.
+  issued:
+  - year: '2012'
+    month: '9'
+  title: Realtime informed path sampling for motion planning search
+  container-title: International Journal of Robotics Research
+  page: '1231-1250'
+  volume: '31'
+  issue: '11'
+
+- id: SrinivasaEtal_ProcIEEE12
+  type: article-journal
+  author:
+  - family: Srinivasa
+    given: Siddhartha S.
+  - family: Berenson
+    given: Dmitry
+  - family: Cakmak
+    given: Maya
+  - family: Collet
+    given: Alvaro
+  - family: Dogar
+    given: Mehmet R.
+  - family: Dragan
+    given: Anca D.
+  - family: Knepper
+    given: Ross A.
+  - family: Niemueller
+    given: Tim
+  - family: Strabala
+    given: Kyle
+  - family: Weghe
+    given: Mike Vande
+  - family: Ziegler
+    given: Julius
+  issued:
+  - year: '2012'
+    month: '8'
+  title: 'HERB 2.0: Lessons learned from developing a mobile manipulator for the
+    home'
+  title-short: HERB 2.0
+  container-title: Proceedings of the IEEE
+  page: '2410-2428'
+  volume: '100'
+  issue: '8'
+
+- id: KnepperEtal_IJRR12
+  type: article-journal
+  author:
+  - family: Knepper
+    given: Ross A.
+  - family: Srinivasa
+    given: Siddhartha S.
+  - family: Mason
+    given: Matthew T.
+  issued:
+  - year: '2012'
+    month: '2'
+  title: Toward a deeper understanding of motion alternatives via an equivalence relation
+    on local paths
+  container-title: International Journal of Robotics Research
+  page: '168-187'
+  volume: '31'
+  issue: '2'
+
+- id: PivtoraikoEtal_JFR09
+  type: article-journal
+  author:
+  - family: Pivtoraiko
+    given: Mihail
+  - family: Knepper
+    given: Ross A.
+  - family: Kelly
+    given: Alonzo
+  issued:
+  - year: '2009'
+  title: Differentially constrained mobile robot motion planning in state lattices
+  container-title: Journal of Field Robotics
+  page: '308-333'
+  volume: '26'
+  issue: '3'
+
+- id: MavKne_WAFR_2016
+  type: paper-conference
+  author:
+  - family: Mavrogiannis
+    given: Christoforos I.
+  - family: Knepper
+    given: Ross A.
+  issued:
+  - year: '2016'
+    month: '12'
+  title: Decentralized multi-agent navigation planning with braids
+  container-title: Proceedings of the workshop on the algorithmic foundations of robotics
+  publisher-place: San Francisco, USA
+
+- id: ThoKne_ISER_2016
+  type: paper-conference
+  author:
+  - family: Thomason
+    given: Wil
+  - family: Knepper
+    given: Ross A.
+  issued:
+  - year: '2016'
+    month: '10'
+  title: Recognizing unfamiliar gestures for human-robot interaction through zero-shot
+    learning
+  container-title: Proceedings of the international symposium of experimental robotics
+  publisher-place: Tokyo, Japan
+
+- id: KwonEtal_HRI16
+  type: paper-conference
+  author:
+  - family: Kwon
+    given: Minae
+  - family: Jung
+    given: Malte F.
+  - family: Knepper
+    given: Ross A.
+  issued:
+  - year: '2016'
+    month: '3'
+  title: Human expectations of social robots
+  container-title: Late breaking report at the acm/ieee international conference on
+    human-robot interaction
+  publisher-place: Christchurch, New Zealand
+
+- id: AnaKne_ITP15
+  type: paper-conference
+  author:
+  - family: Anand
+    given: Abhishek
+  - family: Knepper
+    given: Ross
+  issued:
+  - year: '2015'
+    month: '8'
+  title: 'ROSCoq: Robots powered by constructive reals'
+  title-short: ROSCoq
+  container-title: The 6th conference on interactive theorem proving
+  publisher-place: Nanjing, China
+
+- id: LenzEtal_RSS15
+  type: paper-conference
+  author:
+  - family: Lenz
+    given: Ian
+  - family: Knepper
+    given: Ross A.
+  - family: Saxena
+    given: Ashutosh
+  issued:
+  - year: '2015'
+    month: '7'
+  title: 'DeepMPC: Learning deep latent features for model predictive control'
+  title-short: DeepMPC
+  container-title: Proceedings of the robotics science and systems conference
+  publisher-place: Rome, Italy
+
+- id: Alonso-MoraEtal_ICRA15
+  type: paper-conference
+  author:
+  - family: Alonso-Mora
+    given: Javier
+  - family: Knepper
+    given: Ross A.
+  - family: Siegwart
+    given: Roland
+  - family: Rus
+    given: Daniela
+  issued:
+  - year: '2015'
+    month: '5'
+  title: Local motion planning for collaborative multi-robot manipulation of deformable
+    objects
+  container-title: '[Proceedings of the IEEE International Conference on Robotics
+    and Automation]{.nocase}'
+  publisher-place: Seattle, USA
+
+- id: LindzeyEtal_WAFR14
+  type: paper-conference
+  author:
+  - family: Lindzey
+    given: Laura
+  - family: Knepper
+    given: Ross A.
+  - family: Choset
+    given: Howie
+  - family: Srinivasa
+    given: Siddhartha S.
+  issued:
+  - year: '2014'
+    month: '8'
+  title: 'The feasible transition graph: Encoding topology and manipulation constraints
+    for multirobot push-planning'
+  title-short: The feasible transition graph
+  container-title: Proceedings of the workshop on the algorithmic foundations of robotics
+  publisher-place: Istanbul, Turkey
+
+- id: DogarEtal_ISER14
+  type: paper-conference
+  author:
+  - family: Dogar
+    given: Mehmet
+  - family: Knepper
+    given: Ross A.
+  - family: Spielberg
+    given: Andrew
+  - family: Choi
+    given: Changhyun
+  - family: Christensen
+    given: Henrik I.
+  - family: Rus
+    given: Daniela
+  issued:
+  - year: '2014'
+    month: '6'
+  title: Towards coordinated precision assembly with robot teams
+  container-title: Proceedings of the international symposium of experimental robotics
+  publisher-place: Marrakesh; Essaouira, Morocco
+
+- id: TellexEtal_RSS14
+  type: paper-conference
+  author:
+  - family: Tellex
+    given: Stefanie
+  - family: Knepper
+    given: Ross A.
+  - family: Li
+    given: Adrian
+  - family: Roy
+    given: Nicholas
+  - family: Rus
+    given: Daniela
+  issued:
+  - year: '2014'
+    month: '7'
+  title: Asking for help using inverse semantics
+  container-title: Proceedings of the robotics science and systems conference
+  publisher-place: Berkeley, USA
+
+- id: WangEtal_MobiCom13
+  type: paper-conference
+  author:
+  - family: Wang
+    given: Jue
+  - family: Adib
+    given: Fadel
+  - family: Knepper
+    given: Ross A.
+  - family: Katabi
+    given: Dina
+  - family: Rus
+    given: Daniela
+  issued:
+  - year: '2013'
+    month: '10'
+  title: 'RF-Compass: Robot object manipulation using RFIDs'
+  title-short: RF-Compass
+  container-title: 'MobiCom: International conference on mobile computing and networking'
+  publisher-place: Miami, USA
+
+- id: KnepperEtal_ICRA13
+  type: paper-conference
+  author:
+  - family: Knepper
+    given: Ross A.
+  - family: Layton
+    given: Todd
+  - family: Romanishin
+    given: John
+  - family: Rus
+    given: Daniela
+  issued:
+  - year: '2013'
+    month: '5'
+  title: 'IkeaBot: An autonomous multi-robot coordinated furniture assembly system'
+  title-short: IkeaBot
+  container-title: '[Proceedings of the IEEE International Conference on Robotics
+    and Automation]{.nocase}'
+  publisher-place: Karlsruhe, Germany
+
+- id: KnepperRus_ICRA13
+  type: paper-conference
+  author:
+  - family: Knepper
+    given: Ross A.
+  - family: Rus
+    given: Daniela
+  issued:
+  - year: '2013'
+    month: '5'
+  title: On the completeness of ensembles of motion planners for decentralized planning
+  container-title: '[Proceedings of the IEEE International Conference on Robotics
+    and Automation]{.nocase}'
+  publisher-place: Karlsruhe, Germany
+
+- id: FeldmanEtal_ICRA13
+  type: paper-conference
+  author:
+  - family: Feldman
+    given: Dan
+  - family: Gil
+    given: Stephanie
+  - family: Knepper
+    given: Ross A.
+  - family: Julian
+    given: Brian
+  - family: Rus
+    given: Daniela
+  issued:
+  - year: '2013'
+    month: '5'
+  title: K-robots clustering of moving sensors using coresets
+  container-title: '[Proceedings of the IEEE International Conference on Robotics
+    and Automation]{.nocase}'
+  publisher-place: Karlsruhe, Germany
+
+- id: HattonEtal_ICRA13
+  type: paper-conference
+  author:
+  - family: Hatton
+    given: Ross L.
+  - family: Knepper
+    given: Ross A.
+  - family: Choset
+    given: Howie
+  - family: Rollinson
+    given: David
+  - family: Gong
+    given: Chaohui
+  - family: Galceran
+    given: Enric
+  issued:
+  - year: '2013'
+    month: '5'
+  title: 'Snakes on a plan: Toward combining planning and control'
+  title-short: Snakes on a plan
+  container-title: '[Proceedings of the IEEE International Conference on Robotics
+    and Automation]{.nocase}'
+  publisher-place: Karlsruhe, Germany
+
+- id: KnepperEtal_HRI13
+  type: paper-conference
+  author:
+  - family: Knepper
+    given: Ross A.
+  - family: Tellex
+    given: Stefanie
+  - family: Li
+    given: Adrian
+  - family: Roy
+    given: Nicholas
+  - family: Rus
+    given: Daniela
+  issued:
+  - year: '2013'
+    month: '3'
+  title: 'Single assembly robot in search of human partner: Versatile grounded language
+    generation'
+  title-short: Single assembly robot in search of human partner
+  container-title: Late breaking report at the acm/ieee international conference on
+    human-robot interaction
+  publisher-place: Tokyo, Japan
+
+- id: KnepperRus_ROMAN12
+  type: paper-conference
+  author:
+  - family: Knepper
+    given: Ross A.
+  - family: Rus
+    given: Daniela
+  issued:
+  - year: '2012'
+    month: '9'
+  title: Pedestrian-inspired sampling-based multi-robot collision avoidance
+  container-title: '[Proceedings of the IEEE International Symposium on Robot and
+    Human Interactive Communication]{.nocase}'
+  publisher-place: Paris, France
+
+- id: KnepperMason_IROS11
+  type: paper-conference
+  author:
+  - family: Knepper
+    given: Ross A.
+  - family: Mason
+    given: Matthew T.
+  issued:
+  - year: '2011'
+    month: '9'
+  title: Improved hierarchical planner performance using local path equivalence
+  container-title: '[Proceedings of the IEEE International Conference on Intelligent
+    Robots and Systems]{.nocase}'
+  publisher-place: San Francisco, USA
+
+- id: KnepperMason_ISRR11
+  type: paper-conference
+  author:
+  - family: Knepper
+    given: Ross A.
+  - family: Mason
+    given: Matthew T.
+  issued:
+  - year: '2011'
+    month: '8'
+  title: Realtime informed path sampling for motion planning search
+  container-title: Proceedings of the international symposium on robotics research
+  publisher-place: Flagstaff, USA
+
+- id: KnepperEtal_WAFR10
+  type: paper-conference
+  author:
+  - family: Knepper
+    given: Ross A.
+  - family: Srinivasa
+    given: Siddhartha S.
+  - family: Mason
+    given: Matthew T.
+  issued:
+  - year: '2010'
+    month: '12'
+  title: An equivalence relation for local path sets
+  container-title: Proceedings of the workshop on the algorithmic foundations of robotics
+  publisher-place: Singapore
+
+- id: KnepperEtal_ICRA10
+  type: paper-conference
+  author:
+  - family: Knepper
+    given: Ross A.
+  - family: Srinivasa
+    given: Siddhartha S.
+  - family: Mason
+    given: Matthew T.
+  issued:
+  - year: '2010'
+    month: '5'
+  title: Hierarchical planning architectures for mobile manipulation tasks in indoor
+    environments
+  container-title: '[Proceedings of the IEEE International Conference on Robotics
+    and Automation]{.nocase}'
+  publisher-place: Anchorage, USA
+
+- id: KnepperMason_ICRA09
+  type: paper-conference
+  author:
+  - family: Knepper
+    given: Ross A.
+  - family: Mason
+    given: Matthew T.
+  issued:
+  - year: '2009'
+    month: '5'
+  title: Path diversity is only part of the problem
+  container-title: '[Proceedings of the IEEE International Conference on Robotics
+    and Automation]{.nocase}'
+  publisher-place: Kobe, Japan
+
+- id: KnepperMason_ISER08
+  type: paper-conference
+  author:
+  - family: Knepper
+    given: Ross A.
+  - family: Mason
+    given: Matthew T.
+  issued:
+  - year: '2008'
+    month: '7'
+  title: Empirical sampling of path sets for local area motion planning
+  container-title: Proceedings of the international symposium of experimental robotics
+  publisher-place: Athens, Greece
+
+- id: BranickyEtal_ICRA08
+  type: paper-conference
+  author:
+  - family: Branicky
+    given: Michael S.
+  - family: Knepper
+    given: Ross A.
+  - family: Kuffner
+    given: James J.
+  issued:
+  - year: '2008'
+    month: '5'
+  title: 'Path and trajectory diversity: Theory and algorithms'
+  title-short: Path and trajectory diversity
+  container-title: '[Proceedings of the IEEE International Conference on Robotics
+    and Automation]{.nocase}'
+  publisher-place: Pasadena, USA
+
+- id: KnepperKelly_IROS06
+  type: paper-conference
+  author:
+  - family: Knepper
+    given: Ross A.
+  - family: Kelly
+    given: Alonzo
+  issued:
+  - year: '2006'
+    month: '10'
+  title: High performance state lattice planning using heuristic look-up tables
+  container-title: '[Proceedings of the IEEE International Conference on Intelligent
+    Robots and Systems]{.nocase}'
+  publisher-place: Beijing, China
+
+- id: HowardEtal_ISER06
+  type: paper-conference
+  author:
+  - family: Howard
+    given: Thomas M.
+  - family: Knepper
+    given: Ross A.
+  - family: Kelly
+    given: Alonzo
+  issued:
+  - year: '2006'
+    month: '7'
+  title: Constrained optimization path following of wheeled robots in natural terrain
+  container-title: Proceedings of the international symposium of experimental robotics
+  publisher-place: Rio de Janeiro, Brazil
+
+- id: ChosetEtal_ICRA99
+  type: paper-conference
+  author:
+  - family: Choset
+    given: Howie
+  - family: Knepper
+    given: Ross
+  - family: Flasher
+    given: Joleen
+  - family: Walker
+    given: Sean
+  - family: Alford
+    given: Andrew
+  - family: Jackson
+    given: Dean
+  - family: Kortenkamp
+    given: David
+  - family: Fernandez
+    given: Jaime J.
+  - family: Burridge
+    given: Robert R.
+  issued:
+  - year: '1999'
+    month: '5'
+  title: Path planning and control for aercam, a free-flying inspection robot in space
+  container-title: '[Proceedings of the IEEE International Conference on Robotics
+    and Automation]{.nocase}'
+  publisher-place: Detroit, USA
+
+- id: Knepper_WS_ROMAN2016
+  type: paper-conference
+  author:
+  - family: Knepper
+    given: Ross A.
+  issued:
+  - year: '2016'
+    month: '8'
+  title: On the communicative aspect of human-robot joint action
+  container-title: 'The ieee international symposium on robot and human interactive
+    communication workshop: Toward a framework for joint action, what about common
+    ground?'
+  publisher-place: New York, USA
+
+- id: MavrogiannisKnepper_WS_RSS2016
+  type: paper-conference
+  author:
+  - family: Mavrogiannis
+    given: Christoforos I.
+  - family: Knepper
+    given: Ross A.
+  issued:
+  - year: '2016'
+    month: '6'
+  title: Towards socially competent navigation of pedestrian environments
+  container-title: 'Robotics: Science and systems 2016 workshop on social trust
+    in autonomous robots'
+  publisher-place: Ann Arbor, USA
+
+- id: ThomasonKnepper_WS_RSS2016
+  type: paper-conference
+  author:
+  - family: Thomason
+    given: Wil
+  - family: Knepper
+    given: Ross A.
+  issued:
+  - year: '2016'
+    month: '6'
+  title: Recognizing unfamiliar gestures for human-robot interaction through zero-shot
+    learning
+  container-title: 'Robotics: Science and systems workshop on model learning for
+    human-robot communication'
+  publisher-place: Ann Arbor, USA
+
+- id: MavrogiannisKnepper_WS_HRI2016
+  type: paper-conference
+  author:
+  - family: Mavrogiannis
+    given: Christoforos I.
+  - family: Knepper
+    given: Ross A.
+  issued:
+  - year: '2016'
+    month: '3'
+  title: Interpretation and communication of pedestrian intentions using braid groups
+  container-title: Workshop on intention recognition in hri
+  collection-title: Proceedings of the acm/ieee international conference on human-robot
+    interaction
+  publisher-place: Christchurch, New Zealand
+
+- id: KwonEtal_WS_HRI2016
+  type: paper-conference
+  author:
+  - family: Kwon
+    given: Minae
+  - family: Jung
+    given: Malte F.
+  - family: Knepper
+    given: Ross A.
+  issued:
+  - year: '2016'
+    month: '3'
+  title: Human expectations of social robots
+  container-title: Workshop on challenges and best practices to study hri in natural
+    interaction settings
+  collection-title: Proceedings of the acm/ieee international conference on human-robot
+    interaction
+  publisher-place: Christchurch, New Zealand
+
+- id: KnepperEtal_WS_IROS2014
+  type: paper-conference
+  author:
+  - family: Knepper
+    given: Ross A.
+  - family: Ahuja
+    given: Dishaan
+  - family: Lalonde
+    given: Geoffrey
+  - family: Rus
+    given: Daniela
+  issued:
+  - year: '2014'
+    month: '9'
+  title: Distributed assembly with AND/OR graphs
+  container-title: IROS 2014 workshop on ai robotics
+  collection-title: '[Proceedings of the IEEE International Conference on Intelligent
+    Robots and Systems]{.nocase}'
+  publisher-place: Chicago, USA
+
+- id: KnepperEtal_WS_HRI2013
+  type: paper-conference
+  author:
+  - family: Knepper
+    given: Ross A.
+  - family: Tellex
+    given: Stefanie
+  - family: Li
+    given: Adrian
+  - family: Howard
+    given: Thomas M.
+  - family: Rus
+    given: Daniela
+  - family: Roy
+    given: Nicholas
+  issued:
+  - year: '2013'
+    month: '3'
+  title: 'Asking for help: Assembling furniture by asking for help from a human
+    partner'
+  title-short: Asking for help
+  container-title: 'Collaborative manipulation: New challenges for robotics and
+    hri'
+  collection-title: Proceedings of the acm/ieee international conference on human-robot
+    interaction
+  publisher-place: Tokyo, Japan
+
+- id: KnepperRus_WS_ICRA13
+  type: paper-conference
+  author:
+  - family: Knepper
+    given: Ross A.
+  - family: Rus
+    given: Daniela
+  issued:
+  - year: '2012'
+    month: '5'
+  title: Human-inspired distributed collision avoidance
+  container-title: 'Many-robot systems: Crossing the reality gap'
+  collection-title: Workshop at the ieee international conference on robotics and
+    automation
+  publisher-place: St. Paul, USA
+
+- id: LindzeyEtal_12
+  type: report
+  author:
+  - family: Lindzey
+    given: Laura
+  - family: Choset
+    given: Howie
+  - family: Srinivasa
+    given: Siddhartha
+  - family: Knepper
+    given: Ross A.
+  issued:
+  - year: '2012'
+    month: '5'
+  title: Multirobot pushing—How many robots are sufficient?
+  publisher: Robotics Institute, Carnegie Mellon University
+  number: CMU-RI-TR-12-15
+
+- id: KnepperEtal_10
+  type: report
+  author:
+  - family: Knepper
+    given: Ross A.
+  - family: Srinivasa
+    given: Siddhartha S.
+  - family: Mason
+    given: Matthew T.
+  issued:
+  - year: '2010'
+    month: '11'
+  title: Curvature bounds on the weighted voronoi diagram of two proximal paths with
+    shape constraints
+  publisher: Robotics Institute, Carnegie Mellon University
+  number: CMU-RI-TR-10-25
+
+- id: PivtoraikoEtal_07
+  type: report
+  author:
+  - family: Pivtoraiko
+    given: Mihail
+  - family: Knepper
+    given: Ross A
+  - family: Kelly
+    given: Alonzo
+  issued:
+  - year: '2007'
+    month: '5'
+  title: Optimal, smooth, nonholonomic mobile robot motion planning in state lattices
+  publisher: Robotics Institute, Carnegie Mellon University
+  number: CMU-RI-TR-07-15
+...
