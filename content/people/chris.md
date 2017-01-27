@@ -5,6 +5,7 @@ author = ""
 description = ""
 title = "Christoforos Mavrogiannis"
 type = "phd"
+image = "christoforos.jpg"
 
 +++
 
