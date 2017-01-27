@@ -10,7 +10,7 @@
             <li>
                 {{ delimit (apply (apply $publication.author "partial" "name" ".") "chomp" ".") ", " " and " }},
                 "{{ $publication.title }}",
-                <i>{{ index $publication "container-title" }}</i>{{partial "pubinfo" $publication | chomp}}{{partial "pubdate" $publication | chomp}}.
+                <i>{{ index $publication "container-title" | title }}</i>{{partial "pubinfo" $publication | chomp}}{{partial "pubdate" $publication | chomp}}.
                 {{partial "pubnote" $publication | chomp}}
             </li>
         {{ end }}
@@ -19,11 +19,11 @@
         <br/>
         <h2 class="section-title">Peer-Reviewed Conference Papers</h2>
         <ol class="pub-list">
-        {{ range $publication := where .Site.Data.pubs.references "type" "paper-conference" }} 
+        {{ range $publication := where (where .Site.Data.pubs.references "type" "paper-conference") "container-title" "not in" "Workshop" }} 
             <li>
                 {{ delimit (apply (apply $publication.author "partial" "name" ".") "chomp" ".") ", " " and " }},
                 "{{ $publication.title }}",
-                <i>{{ index $publication "container-title" }}</i>{{partial "pubinfo" $publication | chomp}}{{partial "publoc" $publication | chomp}}{{partial "pubdate" $publication | chomp}}.
+                <i>{{ index $publication "container-title" | title }}</i>{{partial "pubinfo" $publication | chomp}}{{partial "publoc" $publication | chomp}}{{partial "pubdate" $publication | chomp}}.
                 {{partial "pubnote" $publication | chomp}}
             </li>
         {{ end }}
@@ -32,7 +32,7 @@
         <br/>
         <h2 class="section-title">Workshops</h2>
         <ol class="pub-list">
-        {{ range $publication := where .Site.Data.pubs.references "type" "workshop" }} 
+        {{ range $publication := where (where .Site.Data.pubs.references "type" "paper-conference") "container-title" "in" "Workshop" }} 
             <li>
                 {{ delimit (apply (apply $publication.author "partial" "name" ".") "chomp" ".") ", " " and " }},
                 "{{ $publication.title }}",
