@@ -1,8 +1,10 @@
 <li class="post-stub blurb-container" itemprop="blogPost" itemscope="" itemtype="https://schema.org/BlogPosting">
-  <h4 class="post-stub-title" itemprop="name">{{ .Title }}</h4>
-  {{ if .Params.Image }}
-  <img class="right-content" src={{ .Site.BaseURL }}img/{{ .Params.Image }}>
-  {{ end }}
-  {{ .Content }}
+  <a href="{{ if .Params.Website }}{{ .Params.Website }}{{ else }}{{ .Permalink }}{{ end }}" itemprop="url">
+    <h4 class="post-stub-title" itemprop="name">{{ .Title }}</h4>
+    {{ if .Params.Image }}
+    <img class="right-content" src={{ .Site.BaseURL }}img/{{ .Params.Image }}>
+    {{ end }}
+    {{ .Content }}
+  </a>
 </li>
 

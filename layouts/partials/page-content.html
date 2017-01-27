@@ -6,5 +6,9 @@
     {{ end }}
 
     {{ .Content }}
+
+    {{ with .Params.Website }}
+      <b>Link: </b><a href={{ . }}>Personal Website</a>
+    {{ end }}
 </div>
 
