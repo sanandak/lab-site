@@ -1,0 +1,9 @@
+<li class="post-stub">
+  <a href="{{ if .Params.Projectpage }}{{ .Params.Projectpage }}{{ else }}{{ .Permalink }}{{ end }}">
+        <h4 class="post-stub-title">{{ .Title }}:</h4>
+        <p class="proj-stub-description">{{ .Description }}</p>
+        {{ with .Params.featured }}
+            <span class="post-stub-tag">Featured</span>
+        {{ end }}
+    </a>
+</li>
