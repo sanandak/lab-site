@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="{{ .Site.BaseURL }}dist/styles.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway|Open+Sans">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" />
     {{ if .RSSLink }}
     <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml">
     {{ end }}
@@ -69,13 +70,15 @@
 
       <div id="container">
         <div id="post-index" class="container" itemscope="" itemtype="https://schema.org/Blog">
-          <header class="page-header">
-            <div class="site-logo">
-              <object type="image/svg+xml" data="{{ .Site.BaseURL }}img/logo.svg"></object>
-            </div>
-            <h1 class="page-title" itemprop="name">{{ .Site.Params.headline }}</h1>
-            <p>{{ .Site.Params.description }}</p>
-            <ul class="site-nav">
-              {{ partial "navigation.html" . }}
-            </ul>
-          </header>
+          <a href={{ .Site.BaseURL }}>
+            <header class="page-header">
+              <div class="site-logo">
+                <object type="image/svg+xml" data="{{ .Site.BaseURL }}img/logo.svg"></object>
+              </div>
+              <h1 class="page-title" itemprop="name">{{ .Site.Params.headline }}</h1>
+              <p>{{ .Site.Params.description }}</p>
+              <ul class="site-nav">
+                {{ partial "navigation.html" . }}
+              </ul>
+            </header>
+          </a>

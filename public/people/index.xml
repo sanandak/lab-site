@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People on Cornell RPAL</title>
+    <link>https://rpal.cs.cornell.edu/static-site/people/index.xml</link>
+    <description>Recent content in People on Cornell RPAL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jan 2017 21:20:10 -0500</lastBuildDate>
+    <atom:link href="https://rpal.cs.cornell.edu/static-site/people/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Vitchyr Pong</title>
+      <link>https://rpal.cs.cornell.edu/static-site/people/vitchyr/</link>
+      <pubDate>Thu, 26 Jan 2017 21:20:10 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/static-site/people/vitchyr/</guid>
+      <description>&lt;p&gt;Undergraduate in ECE and CS, moved on to a PhD at UC Berkeley.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Minae Kwon</title>
+      <link>https://rpal.cs.cornell.edu/static-site/people/minae/</link>
+      <pubDate>Thu, 26 Jan 2017 21:20:05 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/static-site/people/minae/</guid>
+      <description>&lt;p&gt;I’m interested in facilitating collaboration between robots and humans by computationally expressing
+findings from social and cognitive psychology to model human behavior and appropriately design robot
+behavior. Currently, I am working on how humans form expectations of social robots and how we can
+help people form more accurate mental models of them.  When not doing research, I enjoy debating
+(competitively), watching movies, and traveling.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daryl Sew</title>
+      <link>https://rpal.cs.cornell.edu/static-site/people/daryl/</link>
+      <pubDate>Thu, 26 Jan 2017 21:19:59 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/static-site/people/daryl/</guid>
+      <description>&lt;p&gt;Computer Science undergraduate interested in computer vision, machine learning and robotics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alex Volkov</title>
+      <link>https://rpal.cs.cornell.edu/static-site/people/alex/</link>
+      <pubDate>Thu, 26 Jan 2017 21:19:52 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/static-site/people/alex/</guid>
+      <description>&lt;p&gt;ECE undergraduate, moved on to a Master&amp;rsquo;s at the CMU Robotics Institute.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ross Knepper</title>
+      <link>https://rpal.cs.cornell.edu/static-site/people/ross/</link>
+      <pubDate>Wed, 25 Jan 2017 16:12:51 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/static-site/people/ross/</guid>
+      <description>&lt;p&gt;Ross bio&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wil Thomason</title>
+      <link>https://rpal.cs.cornell.edu/static-site/people/wil/</link>
+      <pubDate>Wed, 25 Jan 2017 16:12:51 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/static-site/people/wil/</guid>
+      <description>&lt;p&gt;Wil bio&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Christoforos Mavrogiannis</title>
+      <link>https://rpal.cs.cornell.edu/static-site/people/chris/</link>
+      <pubDate>Wed, 25 Jan 2017 15:50:27 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/static-site/people/chris/</guid>
+      <description>&lt;p&gt;Chris received his Diploma degree (equivalent to MSc) in Mechanical Engineering from the National
+Technical University of Athens, Greece in 2013. He is currently pursuing a PhD in Mechanical
+engineering, working on the development of motion planning algorithms for seamless navigation of
+pedestrian environments. In the past he has done research on robotic grasping and robotic hand
+design.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

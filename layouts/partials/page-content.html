@@ -1,0 +1,10 @@
+<div class="post-content clearfix" itemprop="articleBody">
+    {{ if .Params.Image }}
+      <div class="centerbox">
+        <img class="post-featured-image" src={{ .Site.BaseURL }}img/{{ .Params.Image }}>
+      </div>
+    {{ end }}
+
+    {{ .Content }}
+</div>
+

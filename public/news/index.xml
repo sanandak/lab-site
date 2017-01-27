@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Cornell RPAL</title>
+    <link>https://rpal.cs.cornell.edu/static-site/news/index.xml</link>
+    <description>Recent content in News on Cornell RPAL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Jan 2017 23:47:43 -0500</lastBuildDate>
+    <atom:link href="https://rpal.cs.cornell.edu/static-site/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Paper Accepted to HRI 2017</title>
+      <link>https://rpal.cs.cornell.edu/static-site/news/hri2017/</link>
+      <pubDate>Tue, 24 Jan 2017 23:47:43 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/static-site/news/hri2017/</guid>
+      <description>&lt;p&gt;The paper &amp;ldquo;Implicit Communication in a Joint Action&amp;rdquo;, by &lt;a href=&#34;https://rpal.cs.cornell.edu/static-site/people/ross/&#34;&gt;Ross Knepper&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,5 +1,5 @@
 title = "Cornell RPAL"
-baseurl = "https://rpal.cs.cornell.edu"
+baseurl = "https://rpal.cs.cornell.edu/static-site/"
 languageCode = "en-us"
 theme = "ghostwriter"
 pluralizelisttitles = false

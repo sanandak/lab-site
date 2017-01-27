@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 
-<div id="post-index" class="container">
+<div id="post-index" class="body-container">
     <header class="post-header">
         <h1 class="post-title"> People </h1>
     </header>
@@ -9,7 +9,7 @@
   <ol class="post-list">
     {{ $pag := where .Data.Pages "Type" "pi" }}
     {{ range $pag }}
-    {{ partial "post-stub.html" . }}
+    {{ partial "people-stub.html" . }}
     {{ end }}
   </ol>
 
@@ -17,7 +17,7 @@
   <ol class="post-list">
     {{ $pag := where .Data.Pages "Type" "phd" }}
     {{ range $pag }}
-    {{ partial "post-stub.html" . }}
+    {{ partial "people-stub.html" . }}
     {{ end }}
   </ol>
 
@@ -25,7 +25,7 @@
   <ol class="post-list">
     {{ $pag := where .Data.Pages "Type" "ms" }}
     {{ range $pag }}
-    {{ partial "post-stub.html" . }}
+    {{ partial "people-stub.html" . }}
     {{ end }}
   </ol>
 
@@ -33,7 +33,7 @@
   <ol class="post-list">
     {{ $pag := where .Data.Pages "Type" "ugrad" }}
     {{ range $pag }}
-    {{ partial "post-stub.html" . }}
+    {{ partial "people-stub.html" . }}
     {{ end }}
   </ol>
 
@@ -41,11 +41,9 @@
   <ol class="post-list">
     {{ $pag := where .Data.Pages "Type" "alumni" }}
     {{ range $pag }}
-    {{ partial "post-stub.html" . }}
+    {{ partial "people-stub.html" . }}
     {{ end }}
   </ol>
-
-
 </div>
 
 {{ partial "footer.html" . }}
