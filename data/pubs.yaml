@@ -724,7 +724,7 @@ references:
   - year: '2016'
     month: '3'
   title: Interpretation and communication of pedestrian intentions using braid groups
-  container-title: Workshop on intention recognition in hri
+  container-title: Workshop on intention recognition in HRI
   collection-title: Proceedings of the ACM/IEEE international conference on human-robot
     interaction
   publisher-place: Christchurch, New Zealand
@@ -807,7 +807,7 @@ references:
     month: '5'
   title: Human-inspired distributed collision avoidance
   container-title: 'Many-robot systems: Crossing the reality gap'
-  collection-title: Workshop at the ieee international conference on robotics and
+  collection-title: Workshop at the IEEE international conference on robotics and
     automation
   publisher-place: St. Paul, USA
 
