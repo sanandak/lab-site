@@ -237,3 +237,8 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .blurb-container { text-align: left; clear: both; }
 .post-featured-image { width: 50%; border-radius: 10px; display: inline-block; margin: auto; margin-bottom: 50px; }
 .centerbox { align-items: center; width: 100%; }
+.nomove { margin: 0; position: relative; }
+.nomove:first-child { padding-top: 0; }
+.nomove a { -webkit-transition: all .2s ease-in-out; -moz-transition: all .2s ease-in-out; transition: all .2s ease-in-out; display: block; color: #424242; padding: 20px 5px; }
+.nomove a:hover { background: #fcf5f5; color: #b31b1b; }
+.nomove a:hover .post-stub-tag { background: #b31b1b; }
