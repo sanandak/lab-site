@@ -8,6 +8,6 @@ type = "about"
 
 +++
 
-The Cornell Robotic Personal Assistants Lab is focused on advancing the state of the art in HRI,
-robotic manipulation, and multi-agent planning and coordination. We work on projects fusing
+The Robotic Personal Assistants Lab is focused on advancing the state of the art in human-robot interaction,
+robotic manipulation, automated assembly, and multi-agent planning and coordination. We work on projects fusing
 theoretical advances with empirically assessed implementations.
