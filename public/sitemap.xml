@@ -2,26 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://rpal.cs.cornell.edu/people/vitchyr/</loc>
-    <lastmod>2017-01-26T21:20:10-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rpal.cs.cornell.edu/people/minae/</loc>
-    <lastmod>2017-01-26T21:20:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rpal.cs.cornell.edu/people/daryl/</loc>
-    <lastmod>2017-01-26T21:19:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rpal.cs.cornell.edu/people/alex/</loc>
-    <lastmod>2017-01-26T21:19:52-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rpal.cs.cornell.edu/research/</loc>
     <lastmod>2017-01-25T20:21:10-05:00</lastmod>
   </url>
@@ -67,8 +47,28 @@
   </url>
   
   <url>
+    <loc>https://rpal.cs.cornell.edu/people/daryl/</loc>
+    <lastmod>2016-10-26T21:19:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rpal.cs.cornell.edu/people/vitchyr/</loc>
+    <lastmod>2016-01-26T21:20:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rpal.cs.cornell.edu/people/alex/</loc>
+    <lastmod>2016-01-26T21:19:52-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rpal.cs.cornell.edu/people/wil/</loc>
     <lastmod>2015-01-25T16:12:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rpal.cs.cornell.edu/people/minae/</loc>
+    <lastmod>2014-01-26T21:20:05-05:00</lastmod>
   </url>
   
   <url>
@@ -78,7 +78,7 @@
   
   <url>
     <loc>https://rpal.cs.cornell.edu/</loc>
-    <lastmod>2017-01-26T21:20:10-05:00</lastmod>
+    <lastmod>2017-01-25T20:09:33-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -90,7 +90,7 @@
   
   <url>
     <loc>https://rpal.cs.cornell.edu/people/</loc>
-    <lastmod>2017-01-26T21:20:10-05:00</lastmod>
+    <lastmod>2017-01-25T16:12:51-05:00</lastmod>
     <priority>0</priority>
   </url>
   
