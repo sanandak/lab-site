@@ -1,0 +1,37 @@
+title = "Cornell RPAL"
+baseurl = "https://rpal.cs.cornell.edu/"
+languageCode = "en-us"
+theme = "ghostwriter"
+pluralizelisttitles = false
+
+[Params]
+    intro = true
+    headline = "Robotic Personal Assistants Lab"
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "News"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+
+[[menu.main]]
+    name = "Research"
+    url = "/Research/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
+
+[[menu.main]]
+    name = "People"
+    url = "/people/"
+    weight = 4
