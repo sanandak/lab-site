@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Cornell RPAL</title>
-    <link>https://rpal.cs.cornell.edu/static-site/projects/index.xml</link>
+    <link>https://rpal.cs.cornell.edu/projects/index.xml</link>
     <description>Recent content in Projects on Cornell RPAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Jan 2017 20:09:33 -0500</lastBuildDate>
-    <atom:link href="https://rpal.cs.cornell.edu/static-site/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rpal.cs.cornell.edu/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Social Navigation</title>
-      <link>https://rpal.cs.cornell.edu/static-site/projects/social_nav/</link>
+      <link>https://rpal.cs.cornell.edu/projects/social_nav/</link>
       <pubDate>Wed, 25 Jan 2017 20:09:33 -0500</pubDate>
       
-      <guid>https://rpal.cs.cornell.edu/static-site/projects/social_nav/</guid>
+      <guid>https://rpal.cs.cornell.edu/projects/social_nav/</guid>
       <description>&lt;p&gt;Some other content&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Unfamiliar Gestures</title>
-      <link>https://rpal.cs.cornell.edu/static-site/projects/gestures/</link>
+      <link>https://rpal.cs.cornell.edu/projects/gestures/</link>
       <pubDate>Wed, 25 Jan 2017 20:09:23 -0500</pubDate>
       
-      <guid>https://rpal.cs.cornell.edu/static-site/projects/gestures/</guid>
+      <guid>https://rpal.cs.cornell.edu/projects/gestures/</guid>
       <description>&lt;p&gt;Eventually links to a dedicated page.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Solar Airship</title>
-      <link>https://rpal.cs.cornell.edu/static-site/projects/blimp/</link>
+      <link>https://rpal.cs.cornell.edu/projects/blimp/</link>
       <pubDate>Wed, 25 Jan 2017 20:09:13 -0500</pubDate>
       
-      <guid>https://rpal.cs.cornell.edu/static-site/projects/blimp/</guid>
+      <guid>https://rpal.cs.cornell.edu/projects/blimp/</guid>
       <description></description>
     </item>
     

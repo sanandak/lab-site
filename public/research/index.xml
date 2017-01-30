@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Cornell RPAL</title>
-    <link>https://rpal.cs.cornell.edu/static-site/research/index.xml</link>
+    <link>https://rpal.cs.cornell.edu/research/index.xml</link>
     <description>Recent content in Research on Cornell RPAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Jan 2017 20:21:10 -0500</lastBuildDate>
-    <atom:link href="https://rpal.cs.cornell.edu/static-site/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rpal.cs.cornell.edu/research/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
