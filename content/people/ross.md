@@ -5,6 +5,7 @@ author = ""
 description = ""
 title = "Ross Knepper"
 type = "pi"
+image = "ross.jpg"
 
 +++
 
