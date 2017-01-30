@@ -93,32 +93,6 @@ help people form more accurate mental models of them.  When not doing research, 
     </item>
     
     <item>
-      <title>Wil Thomason</title>
-      <link>https://rpal.cs.cornell.edu/people/wil/</link>
-      <pubDate>Wed, 25 Jan 2017 16:12:51 -0500</pubDate>
-      
-      <guid>https://rpal.cs.cornell.edu/people/wil/</guid>
-      <description>&lt;p&gt;Wil is a second-year PhD student in computer science. He is interested in a broad range of topics in
-robotics and CS, including multi-agent planning, human-robot interaction (with a particular focus on
-language and gesture understanding), and machine learning for robotics.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Christoforos Mavrogiannis</title>
-      <link>https://rpal.cs.cornell.edu/people/chris/</link>
-      <pubDate>Wed, 25 Jan 2017 15:50:27 -0500</pubDate>
-      
-      <guid>https://rpal.cs.cornell.edu/people/chris/</guid>
-      <description>&lt;p&gt;Chris received his Diploma degree (equivalent to MSc) in Mechanical Engineering from the National
-Technical University of Athens, Greece in 2013. He is currently pursuing a PhD in Mechanical
-engineering, working on the development of motion planning algorithms for seamless navigation of
-pedestrian environments. In the past he has done research on robotic grasping and robotic hand
-design.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://rpal.cs.cornell.edu/about/</link>
       <pubDate>Wed, 25 Jan 2017 00:25:59 -0500</pubDate>
@@ -147,6 +121,32 @@ theoretical advances with empirically assessed implementations.&lt;/p&gt;
       
       <guid>https://rpal.cs.cornell.edu/news/hri2017/</guid>
       <description>&lt;p&gt;The paper &amp;ldquo;Implicit Communication in a Joint Action&amp;rdquo;, by &lt;a href=&#34;https://rpal.cs.cornell.edu/people/ross/&#34;&gt;Ross Knepper&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wil Thomason</title>
+      <link>https://rpal.cs.cornell.edu/people/wil/</link>
+      <pubDate>Sun, 25 Jan 2015 16:12:51 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/people/wil/</guid>
+      <description>&lt;p&gt;Wil is a second-year PhD student in computer science. He is interested in a broad range of topics in
+robotics and CS, including multi-agent planning, human-robot interaction (with a particular focus on
+language and gesture understanding), and machine learning for robotics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Christoforos Mavrogiannis</title>
+      <link>https://rpal.cs.cornell.edu/people/chris/</link>
+      <pubDate>Sat, 25 Jan 2014 15:50:27 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/people/chris/</guid>
+      <description>&lt;p&gt;Chris received his Diploma degree (equivalent to MSc) in Mechanical Engineering from the National
+Technical University of Athens, Greece in 2013. He is currently pursuing a PhD in Mechanical
+engineering, working on the development of motion planning algorithms for seamless navigation of
+pedestrian environments. In the past he has done research on robotic grasping and robotic hand
+design.&lt;/p&gt;
 </description>
     </item>
     
