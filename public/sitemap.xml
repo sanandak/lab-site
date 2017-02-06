@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://rpal.cs.cornell.edu/people/valts/</loc>
+    <lastmod>2017-02-06T09:58:51-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rpal.cs.cornell.edu/research/</loc>
     <lastmod>2017-01-25T20:21:10-05:00</lastmod>
   </url>
@@ -78,7 +83,7 @@
   
   <url>
     <loc>https://rpal.cs.cornell.edu/</loc>
-    <lastmod>2017-01-25T20:09:33-05:00</lastmod>
+    <lastmod>2017-02-06T09:58:51-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -90,7 +95,7 @@
   
   <url>
     <loc>https://rpal.cs.cornell.edu/people/</loc>
-    <lastmod>2017-01-25T16:12:51-05:00</lastmod>
+    <lastmod>2017-02-06T09:58:51-05:00</lastmod>
     <priority>0</priority>
   </url>
   

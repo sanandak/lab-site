@@ -6,8 +6,18 @@
     <description>Recent content in People on Cornell RPAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jan 2017 16:12:51 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 06 Feb 2017 09:58:51 -0500</lastBuildDate>
     <atom:link href="https://rpal.cs.cornell.edu/people/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Valts Blukis</title>
+      <link>https://rpal.cs.cornell.edu/people/valts/</link>
+      <pubDate>Mon, 06 Feb 2017 09:58:51 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/people/valts/</guid>
+      <description>&lt;p&gt;Valts is a first-year PhD student in computer science. He graduated with a degree in Electrical and Electronic Enginnering from Nanyang Technological University in Singapore. In the past he has worked on rescue robotics and stereo vision. He is interested in robotics and machine learning, in particular developing algorithms that would improve robot understanding of the real world and allow competent interactions with people.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Ross Knepper</title>
