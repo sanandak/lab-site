@@ -6,8 +6,18 @@
     <description>Recent content on Cornell RPAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Feb 2017 09:58:51 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 07 Feb 2017 05:56:51 -0500</lastBuildDate>
     <atom:link href="https://rpal.cs.cornell.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Zach Zweig Vinegar</title>
+      <link>https://rpal.cs.cornell.edu/people/zach/</link>
+      <pubDate>Tue, 07 Feb 2017 05:56:51 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/people/zach/</guid>
+      <description>&lt;p&gt;I am a senior computer science major in the the College of Engineering at Cornell University. My current research interests lie in the areas of human-robot interaction, computer vision, and augmented reality. I am also a member of Cornell&amp;rsquo;s Robotic Personal Assistants Lab run by Prof. Ross Knepper. Currently, I am working on a telepresence robot equipped with a 360 degree RGB-D sensor. The goal is to use the data coming from the sensor to enable the robot to seamlessly and smoothly navigate crowded pedestrian environments. More details about me can be found on my website.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Valts Blukis</title>
@@ -35,7 +45,35 @@
       <pubDate>Wed, 25 Jan 2017 20:09:23 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/projects/gestures/</guid>
-      <description>&lt;p&gt;Eventually links to a dedicated page.&lt;/p&gt;
+      <description>&lt;p&gt;Human communication is highly multimodal, including speech, gesture, gaze, facial
+expressions, and body language. Robots serving as human teammates must act on such
+multimodal communicative inputs from humans, even when the message may not be
+clear from any single modality. In this paper, we explore a method for achieving increased
+understanding of complex, situated communications by leveraging coordinated
+natural language, gesture, and context.&lt;/p&gt;
+
+&lt;p&gt;Our work departs from the traditional model of gesture recognition in that the set of gestures it
+can recognize is not limited to the gestural lexicon used for its training. Even in simplified
+domains, naive classifiers can fail to recognize instances of trained gestures due to human
+gestural variability. Humans resort to gesture when speech is insufficient, such as due to
+inability to recall a word, inability to be heard, or inadequate time to formulate speech.
+For these reasons, gesture is prevalent in human discourse. Yet gestures defy attempts
+at canonical classification both due to variations within and among individuals and due
+to their subjective interpretations. We define the unfamiliar gesture understanding
+problem: given an observation of a previously unseen gesture (i.e. a gesture of a class
+not present in any training data given to the system), we wish to output a contextually
+reasonable description in natural language of the gesture’s intended meaning.&lt;/p&gt;
+
+&lt;p&gt;This problem is an instance of the machine learning problem of zero-shot learning,
+a burgeoning area of machine learning that seeks to classify data without having seen
+examples of its class in the training stage. Most prior work in the area makes
+use of a multimodal dataset to perform the zero-shot task. However, the zero-shot task
+has not yet been demonstrated for gestural data. In the related one-shot learning task,
+gesture understanding has been shown from only one example of a given class in the
+training stage. The primary drawback of such approaches is their reliance on
+a fixed lexicon of gestures. We remove this drawback by creating a novel multimodal
+embedding space using techniques from convolutional neural nets to handle variable
+length gestures and allow for the description of arbitrary unfamiliar gestural data.&lt;/p&gt;
 </description>
     </item>
     
