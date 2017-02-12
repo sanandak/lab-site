@@ -37,3 +37,6 @@ xmlrpc.php
 
 # NO NO NO DO NOT COMMIT NO
 ssh/id_rsa*
+
+# macOS attribute store file
+.DS_Store

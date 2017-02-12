@@ -6,11 +6,10 @@ description = ""
 title = "Christoforos Mavrogiannis"
 type = "phd"
 image = "christoforos.jpg"
+website = "https://www.cmavrogiannis.com"
+
 
 +++
 
-Chris received his Diploma degree (equivalent to MSc) in Mechanical Engineering from the National
-Technical University of Athens, Greece in 2013. He is currently pursuing a PhD in Mechanical
-engineering, working on the development of motion planning algorithms for seamless navigation of
-pedestrian environments. In the past he has done research on robotic grasping and robotic hand
-design.
+Christoforos received a Diploma in Mechanical Engineering from the National Technical University of Athens, Greece in 2013. He is currently a PhD candidate in the Sibley School of Mechanical and Aerospace Engineering.  His PhD research is focused on the design of navigation planning algorithms for robots operating in crowded environments. Inspired by insights from cognitive science and psychology, he employs tools from topology, motion planning and machine learning to address the problem of generating socially competent robot behaviors in pedestrian environments. In the past he has done research on Robotic Grasping, Manipulation and Robotic/Prosthetic Hand design.
+
