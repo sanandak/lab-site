@@ -6,7 +6,7 @@ description = ""
 title = "Christoforos Mavrogiannis"
 type = "phd"
 image = "christoforos.jpg"
-website = "https://www.cmavrogiannis.com"
+website = "http://www.cmavrogiannis.com"
 
 
 +++
