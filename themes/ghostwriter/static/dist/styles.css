@@ -231,6 +231,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
  .footer-copyright { padding: 0 10px; }
 }
 .right-content { float: right; width: 180px; border-radius: 10px; display: inline-block; margin: 5px 0 10px 70px; }
+.right-content + p { margin: 0; }
 @media only screen and (max-width: 600px) {
  .right-content { float: none; display: block; margin: 20px auto; }
 }
