@@ -315,7 +315,7 @@ table {
 
 .section-title { 
   //display: inline-block;
-  margin: 25 auto;
+  margin: 40px auto 25px;
   font-size: 30px;
   //border-bottom: 3px solid $secondary;
 }
@@ -436,6 +436,10 @@ table {
 .pub-list {
   list-style: none;
   padding: 0;
+}
+
+.post-list {
+  margin-top: 20px;
 }
 
 .pub-list {
@@ -708,9 +712,9 @@ table {
     display: block;
   }
 
-  .post-list {
-    margin-top: 20px;
-  }
+//  .post-list {
+//    margin-top: 20px;
+//  }
 
   .post-container,
   //.post-list,
@@ -812,6 +816,7 @@ table {
   border-radius: 10px;
   display: inline-block;
   margin: 5px 0px 10px 70px;
+  & + p { margin: 0 }
 }
 @media only screen and (max-width: 600px) {
   .right-content {
@@ -885,7 +890,6 @@ table {
 a.news-post {
   padding: 15px 20px;
   margin: 0 -20px;
-  ol > li:first-child > & { margin-top: 20px }
   & > h4 { margin: 0 }
 }
 
