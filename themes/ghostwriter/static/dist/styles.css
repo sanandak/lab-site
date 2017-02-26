@@ -249,3 +249,4 @@ table tr { border-bottom: 1px dotted #aeadad; }
 a.news-post { padding: 15px 20px; margin: 0 -20px; }
 ol > li:first-child > a.news-post { margin-top: 20px; }
 a.news-post > h4 { margin: 0; }
+.text-center { text-align: center; }
