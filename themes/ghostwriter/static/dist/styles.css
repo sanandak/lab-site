@@ -233,10 +233,14 @@ table tr { border-bottom: 1px dotted #aeadad; }
  .author-meta span { display: block; margin: 18px 0; }
  .footer-copyright { padding: 0 10px; }
 }
-.right-content { float: right; width: 20%; border-radius: 10px; display: inline-block; margin: 25px 0 10px 70px; }
+.right-content { float: right; width: 180px; border-radius: 10px; display: inline-block; margin: 5px 0 10px 70px; }
+@media only screen and (max-width: 600px) {
+ .right-content { float: none; display: block; margin: 20px auto; }
+}
 .left-content { float: left; width: 80%; padding: 10px; display: inline-block; }
 .blurb-container { text-align: left; clear: both; }
-.post-featured-image { width: 50%; border-radius: 10px; display: inline-block; margin: auto; margin-bottom: 50px; }
+.blurb-container > a:first-child { overflow: auto; }
+.post-featured-image { width: 50%; border-radius: 10px; display: block; margin: auto; margin-bottom: 50px; }
 .centerbox { align-items: center; width: 100%; }
 .nomove { margin: 0; position: relative; }
 .nomove:first-child { padding-top: 0; }
