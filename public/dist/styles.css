@@ -244,3 +244,5 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .nomove a { -webkit-transition: all .2s ease-in-out; -moz-transition: all .2s ease-in-out; transition: all .2s ease-in-out; display: block; color: #424242; padding: 20px 24px; }
 .nomove a:hover { background: #fcf5f5; color: #b31b1b; }
 .nomove a:hover .post-stub-tag { background: #b31b1b; }
+.svg-wrapper { display: inline-block; position: relative; z-index: 1; }
+.svg-wrapper object { position: relative; z-index: -1; }
