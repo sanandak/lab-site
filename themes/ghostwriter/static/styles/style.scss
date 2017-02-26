@@ -438,6 +438,10 @@ table {
   padding: 0;
 }
 
+.post-list {
+  margin-top: 20px;
+}
+
 .pub-list {
   li {
     font-size: 14px;
@@ -708,9 +712,9 @@ table {
     display: block;
   }
 
-  .post-list {
-    margin-top: 20px;
-  }
+//  .post-list {
+//    margin-top: 20px;
+//  }
 
   .post-container,
   //.post-list,
@@ -886,7 +890,6 @@ table {
 a.news-post {
   padding: 15px 20px;
   margin: 0 -20px;
-  ol > li:first-child > & { margin-top: 20px }
   & > h4 { margin: 0 }
 }
 

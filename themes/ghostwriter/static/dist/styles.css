@@ -151,6 +151,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .newer-posts:hover, .older-posts:hover { background: #303030; }
 .page-number { display: none; }
 .post-list, .pub-list { list-style: none; padding: 0; }
+.post-list { margin-top: 20px; }
 .pub-list li { font-size: 14px; margin: 15px 20px; }
 .pub-list li:hover { color: #b31b1b; }
 .post-stub { margin: 0; position: relative; }
@@ -207,7 +208,6 @@ table tr { border-bottom: 1px dotted #aeadad; }
  .author-profile:after, .author-profile:before { margin-top: 20px; }
  .post-stub-title { display: block; }
  .post-stub-date:before { content: ""; display: block; }
- .post-list { margin-top: 20px; }
  .post-container, .author-profile { margin-right: 25px; margin-left: 25px; }
  .post-tags { width: 100%; }
  .post-stub a, .post-stub a:hover { padding-top: 12px; padding-bottom: 12px; }
@@ -248,6 +248,5 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .svg-wrapper { display: inline-block; position: relative; z-index: 1; }
 .svg-wrapper object { position: relative; z-index: -1; }
 a.news-post { padding: 15px 20px; margin: 0 -20px; }
-ol > li:first-child > a.news-post { margin-top: 20px; }
 a.news-post > h4 { margin: 0; }
 .text-center { text-align: center; }
