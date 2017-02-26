@@ -16,7 +16,7 @@
   <h2 class="section-title"> PhD Students </h2>
   <ol class="post-list">
     {{ $pag := where .Data.Pages "Type" "phd" }}
-    {{ range sort $pag ".Date" }}
+    {{ range sort $pag ".Title" }}
     {{ partial "people-stub.html" . }}
     {{ end }}
   </ol>
@@ -24,7 +24,7 @@
   <h2 class="section-title"> Masters Students </h2>
   <ol class="post-list">
     {{ $pag := where .Data.Pages "Type" "ms" }}
-    {{ range sort $pag ".Date" }}
+    {{ range sort $pag ".Title" }}
     {{ partial "people-stub.html" . }}
     {{ end }}
   </ol>
@@ -32,7 +32,7 @@
   <h2 class="section-title"> Undergraduates </h2>
   <ol class="post-list">
     {{ $pag := where .Data.Pages "Type" "ugrad" }}
-    {{ range sort $pag ".Date" }}
+    {{ range sort $pag ".Title" }}
     {{ partial "people-stub.html" . }}
     {{ end }}
   </ol>
@@ -40,7 +40,7 @@
   <h2 class="section-title"> Lab Alumni </h2>
   <ol class="post-list">
     {{ $pag := where .Data.Pages "Type" "alumni" }}
-    {{ range sort $pag ".Date" }}
+    {{ range sort $pag ".Title" }}
     {{ partial "people-stub.html" . }}
     {{ end }}
   </ol>
