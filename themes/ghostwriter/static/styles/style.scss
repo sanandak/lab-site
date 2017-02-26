@@ -587,7 +587,7 @@ table {
   color: #D3D3D3;
   height: 265px;
   margin-top: 95px;
-  overflow: auto;
+  overflow: hidden;
   clear: both;
 
   .site-title-wrapper { margin: 80px auto 35px; }
@@ -654,9 +654,9 @@ table {
   }
 
   .site-title {
-    float: none;
+    /*float: none;*/
     margin-bottom: 15px;
-
+    /*
     a {
       float: none;
     }
@@ -664,6 +664,7 @@ table {
     + .button-square {
       margin-left: 0;
     }
+    */
   }
 
   .site-nav-item {
