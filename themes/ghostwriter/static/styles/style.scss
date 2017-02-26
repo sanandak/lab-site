@@ -162,7 +162,7 @@ table {
   margin: 0 auto;
   position: relative;
   width: 100%;
-  max-width: 948px;
+  max-width: 950px;
   clear: both;
 }
 
@@ -324,7 +324,7 @@ table {
   width: 90%; 
   margin: auto; 
 }
-.blurb { text-align: center; }
+//.blurb { text-align: center; }
 //.page-title { margin: 15px 40px; }
 
 .post-date,
@@ -441,7 +441,7 @@ table {
 .pub-list {
   li {
     font-size: 14px;
-    margin: 15px auto;
+    margin: 15px 20px;
   }
   li:hover { color: $primary; }
 }
