@@ -246,3 +246,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .nomove a:hover .post-stub-tag { background: #b31b1b; }
 .svg-wrapper { display: inline-block; position: relative; z-index: 1; }
 .svg-wrapper object { position: relative; z-index: -1; }
+a.news-post { padding: 15px 20px; margin: 0 -20px; }
+ol > li:first-child > a.news-post { margin-top: 20px; }
+a.news-post > h4 { margin: 0; }
+.text-center { text-align: center; }

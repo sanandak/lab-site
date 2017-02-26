@@ -881,3 +881,14 @@ table {
     z-index: -1
   }
 }
+
+a.news-post {
+  padding: 15px 20px;
+  margin: 0 -20px;
+  ol > li:first-child > & { margin-top: 20px }
+  & > h4 { margin: 0 }
+}
+
+.text-center {
+  text-align: center;
+}
