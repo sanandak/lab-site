@@ -871,3 +871,13 @@ table {
     }
   }
 }
+
+.svg-wrapper {
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+  & object {
+    position: relative;
+    z-index: -1
+  }
+}

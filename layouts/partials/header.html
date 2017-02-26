@@ -70,15 +70,17 @@
 
       <div id="container">
         <div id="post-index" class="container" itemscope="" itemtype="https://schema.org/Blog">
-          <a href={{ .Site.BaseURL }}>
-            <header class="page-header">
-              <div class="site-logo">
+          <header class="page-header">
+            <a href={{ .Site.BaseURL }} class="svg-wrapper">
+              <span class="site-logo">
                 <object type="image/svg+xml" data="{{ .Site.BaseURL }}img/logo.svg"></object>
-              </div>
+              </span>
+            </a>
+            <a href={{ .Site.BaseURL }}>
               <h1 class="page-title" itemprop="name">{{ .Site.Params.headline }}</h1>
-              <p>{{ .Site.Params.description }}</p>
-              <ul class="site-nav">
-                {{ partial "navigation.html" . }}
-              </ul>
-            </header>
-          </a>
+            </a>
+            <p>{{ .Site.Params.description }}</p>
+            <ul class="site-nav">
+              {{ partial "navigation.html" . }}
+            </ul>
+          </header>
