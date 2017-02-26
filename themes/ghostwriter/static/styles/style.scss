@@ -280,6 +280,13 @@ table {
   text-transform: uppercase;
 }
 
+.post-description {
+  margin: 30px 0 -10px;
+  text-align: left;
+  text-transform: none;
+  font-weight: bold;
+}
+
 .page-header {
   border-bottom: 6px solid $secondary;
   margin: 0 0 30px;
@@ -341,7 +348,7 @@ table {
 }
 
 .post-content {
-  text-align: center;
+  text-align: left;
   a:hover {
     border-bottom: 1px dotted $primary;
     padding: 0 0 2px;
@@ -491,7 +498,7 @@ table {
   display: block;
   margin: 0;
   text-transform: none;
-  text-indent: 25px;
+  //text-indent: 25px;
 }
 .post-stub-date {
   display: inline-block;
@@ -705,7 +712,7 @@ table {
   }
 
   .post-container,
-  .post-list,
+  //.post-list,
   .author-profile {
     margin-right: 25px;
     margin-left: 25px;
@@ -844,7 +851,7 @@ table {
     transition: all 0.2s ease-in-out;
     display: block;
     color: #424242;
-    padding: 20px 5px;
+    padding: 20px 24px;
 
     &:hover {
       background: #FCF5F5;

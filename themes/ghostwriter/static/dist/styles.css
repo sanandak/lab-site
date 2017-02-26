@@ -122,6 +122,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
 #latest-post { display: none; }
 .post-container { margin: 0 40px; }
 .post-header { margin: 0 0 20px; padding: 0 0 20px; text-align: center; text-transform: uppercase; }
+.post-description { margin: 30px 0 -10px; text-align: left; text-transform: none; font-weight: bold; }
 .page-header { border-bottom: 6px solid #303030; margin: 0 0 30px; padding: 0 0 20px; text-align: center; text-transform: uppercase; }
 .post-title, .page-title, .section-title { font-family: 'Raleway'; font-size: 52px; font-weight: 100; margin: 25px 0; text-align: center; text-transform: uppercase; }
 .post-title { margin: auto; font-size: 40px; }
@@ -132,7 +133,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .post-date a, .blog-description a { color: #aeadad; }
 .post-date a:hover, .blog-description a:hover { color: #b31b1b; }
 .post-date:after, .blog-description:after { border-bottom: 1px dotted #303030; content: ""; display: block; margin: 40px auto 0; width: 100px; }
-.post-content { text-align: center; }
+.post-content { text-align: left; }
 .post-content a:hover { border-bottom: 1px dotted #b31b1b; padding: 0 0 2px; }
 .post-content:last-child { margin-bottom: 0; }
 .post-content .footnote { border-spacing: 0; margin-bottom: 0; }
@@ -161,7 +162,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .post-stub-tag { background: #303030; border-radius: 3px; color: #fff; float: right; font-size: 10px; margin: 7px 0 0; padding: 0 5px; text-transform: uppercase; }
 .post-stub-title { display: inline-block; margin: 0 0 10px 0; text-transform: none; }
 .post-stub-description { display: inline-block; margin: 0; text-transform: none; }
-.proj-stub-description { display: block; margin: 0; text-transform: none; text-indent: 25px; }
+.proj-stub-description { display: block; margin: 0; text-transform: none; }
 .post-stub-date { display: inline-block; }
 .post-stub-date:before { content: "/ "; }
 .next-posts-link a, .previous-posts-link a { display: block; padding: 8px 11px; }
@@ -210,7 +211,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
  .post-stub-title { display: block; }
  .post-stub-date:before { content: ""; display: block; }
  .post-list { margin-top: 20px; }
- .post-container, .post-list, .author-profile { margin-right: 25px; margin-left: 25px; }
+ .post-container, .author-profile { margin-right: 25px; margin-left: 25px; }
  .post-tags { width: 100%; }
  .post-stub a, .post-stub a:hover { padding-top: 12px; padding-bottom: 12px; }
  .share { float: left; margin-top: 20px; }
@@ -239,6 +240,6 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .centerbox { align-items: center; width: 100%; }
 .nomove { margin: 0; position: relative; }
 .nomove:first-child { padding-top: 0; }
-.nomove a { -webkit-transition: all .2s ease-in-out; -moz-transition: all .2s ease-in-out; transition: all .2s ease-in-out; display: block; color: #424242; padding: 20px 5px; }
+.nomove a { -webkit-transition: all .2s ease-in-out; -moz-transition: all .2s ease-in-out; transition: all .2s ease-in-out; display: block; color: #424242; padding: 20px 24px; }
 .nomove a:hover { background: #fcf5f5; color: #b31b1b; }
 .nomove a:hover .post-stub-tag { background: #b31b1b; }
