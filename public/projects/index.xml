@@ -71,7 +71,34 @@ length gestures and allow for the description of arbitrary unfamiliar gestural d
       <guid>https://rpal.cs.cornell.edu/projects/blimp/</guid>
       <description>&lt;p&gt;Primary objectives are to (1) build a control system that enables persistent autonomy. (2) Develop a power system that is capable of operating the blimp and processing hardware using attached solar panels. (3) Develop computer vision algorithms to support research efforts, scientific observations of natural phenomena, and path planning activity. A sensor package will be designed with collaborators at the International Livestock Research Institute in Kenya for prediction of drought. Other future applications include surveillance of remote territory and disaster monitoring. We hope this project will lead to further innovation in robotic independence as well as aid important conservation efforts.&lt;/p&gt;
 
-&lt;p&gt;This project is a collaboration of student researchers with student-led project team. For more information about the team please email cornell.blimp@gmail.com.&lt;/p&gt;
+&lt;p&gt;This project is a collaboration of student researchers with student-led project team. More information about joining the project team at &lt;a href=&#34;https://rpal.cs.cornell.edu/projects/splash&#34;&gt;https://rpal.cs.cornell.edu/projects/splash&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rpal.cs.cornell.edu/projects/splash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/projects/splash/</guid>
+      <description>&lt;p&gt;Who We Are:&lt;/p&gt;
+
+&lt;p&gt;We are a project team working to build an autonomous blimp capable of long-term independent flight. Our team is primarily student run under the advisement of Professor Ross Knepper. The team is organized into 3 primary sub-teams: hardware, simulation, and software. Areas of interest are high-level motion planning, circuit design, sensor fusion, dynamics modeling, power system design, and computer vision.&lt;/p&gt;
+
+&lt;p&gt;What We’re Looking For:&lt;/p&gt;
+
+&lt;p&gt;At this time we’re looking for students of all levels with interest and experience in any of the following areas:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;CAD
+Circuit design
+Software architecture and design
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;We’re especially interested in Electrical Engineering students. The are also opportunities for M.Eng. students to design a project with the blimp team. Freshman are free to inquire but should be willing to devote time to bring their skills up to speed.&lt;/p&gt;
+
+&lt;p&gt;Want to Join?&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in joining please send an email to &lt;a href=&#34;mailto:cornell.blimp@gmail.com&#34;&gt;cornell.blimp@gmail.com&lt;/a&gt; with your name in the subject line.&lt;/p&gt;
 </description>
     </item>
     

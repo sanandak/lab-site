@@ -6,8 +6,17 @@
     <description>Recent content on Cornell RPAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Feb 2017 22:54:27 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 01 Mar 2017 11:52:08 -0500</lastBuildDate>
     <atom:link href="https://rpal.cs.cornell.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://rpal.cs.cornell.edu/content/splash/</link>
+      <pubDate>Wed, 01 Mar 2017 11:52:08 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/content/splash/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -113,7 +122,7 @@ length gestures and allow for the description of arbitrary unfamiliar gestural d
       <guid>https://rpal.cs.cornell.edu/projects/blimp/</guid>
       <description>&lt;p&gt;Primary objectives are to (1) build a control system that enables persistent autonomy. (2) Develop a power system that is capable of operating the blimp and processing hardware using attached solar panels. (3) Develop computer vision algorithms to support research efforts, scientific observations of natural phenomena, and path planning activity. A sensor package will be designed with collaborators at the International Livestock Research Institute in Kenya for prediction of drought. Other future applications include surveillance of remote territory and disaster monitoring. We hope this project will lead to further innovation in robotic independence as well as aid important conservation efforts.&lt;/p&gt;
 
-&lt;p&gt;This project is a collaboration of student researchers with student-led project team. For more information about the team please email cornell.blimp@gmail.com.&lt;/p&gt;
+&lt;p&gt;This project is a collaboration of student researchers with student-led project team. More information about joining the project team at &lt;a href=&#34;https://rpal.cs.cornell.edu/projects/splash&#34;&gt;https://rpal.cs.cornell.edu/projects/splash&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -186,16 +195,6 @@ theoretical advances with empirically assessed implementations.&lt;/p&gt;
       
       <guid>https://rpal.cs.cornell.edu/people/vitchyr/</guid>
       <description>&lt;p&gt;Undergraduate in ECE and CS, moved on to a PhD at UC Berkeley.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Alex Volkov</title>
-      <link>https://rpal.cs.cornell.edu/people/alex/</link>
-      <pubDate>Tue, 26 Jan 2016 21:19:52 -0500</pubDate>
-      
-      <guid>https://rpal.cs.cornell.edu/people/alex/</guid>
-      <description>&lt;p&gt;ECE undergraduate, moved on to a Master&amp;rsquo;s at the CMU Robotics Institute.&lt;/p&gt;
 </description>
     </item>
     
