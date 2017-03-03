@@ -2,21 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://rpal.cs.cornell.edu/content/splash/</loc>
-    <lastmod>2017-03-01T11:52:08-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rpal.cs.cornell.edu/content/blimp/splash/</loc>
-    <lastmod>2017-02-28T22:54:27-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rpal.cs.cornell.edu/content/blimp/extra_info/splash/</loc>
-    <lastmod>2017-02-28T22:53:00-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rpal.cs.cornell.edu/people/zach/</loc>
     <lastmod>2017-02-07T05:56:51-05:00</lastmod>
   </url>
@@ -107,18 +92,12 @@
   </url>
   
   <url>
-    <loc>https://rpal.cs.cornell.edu/projects/splash/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rpal.cs.cornell.edu/blimp/</loc>
-    <lastmod>2017-02-28T22:54:27-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://rpal.cs.cornell.edu/projects/blimp/splash/</loc>
   </url>
   
   <url>
     <loc>https://rpal.cs.cornell.edu/</loc>
-    <lastmod>2017-03-01T11:52:08-05:00</lastmod>
+    <lastmod>2017-02-07T05:56:51-05:00</lastmod>
     <priority>0</priority>
   </url>
   
