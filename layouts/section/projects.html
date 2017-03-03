@@ -4,7 +4,7 @@
 
   <h1 class="post-title"> Projects </h1>
     <ol class="post-list">
-        {{ $pag := .Paginate .Data.Pages }}
+        {{ $pag := .Paginate (where .Data.Pages "Params.extra" "!=" "true") }}
         {{ range $pag.Pages }}
             {{ partial "proj-stub.html" . }}
         {{ end }}
