@@ -6,9 +6,9 @@ What We’re Looking For:
 
 At this time we’re looking for students of all levels with interest and experience in any of the following areas:
 
-	CAD
-	Circuit design
-	Software architecture and design
+- CAD
+- Circuit design
+- Software architecture and design
 
 We’re especially interested in Electrical Engineering students. The are also opportunities for M.Eng. students to design a project with the blimp team. Freshman are free to inquire but should be willing to devote time to bring their skills up to speed.
 
