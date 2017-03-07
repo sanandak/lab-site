@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://rpal.cs.cornell.edu/people/claire/</loc>
+    <lastmod>2017-03-07T17:50:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rpal.cs.cornell.edu/news/hri2017_nominated_best_paper/</loc>
+    <lastmod>2017-03-07T17:25:09-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rpal.cs.cornell.edu/people/zach/</loc>
     <lastmod>2017-02-07T05:56:51-05:00</lastmod>
   </url>
@@ -97,19 +107,19 @@
   
   <url>
     <loc>https://rpal.cs.cornell.edu/</loc>
-    <lastmod>2017-02-07T05:56:51-05:00</lastmod>
+    <lastmod>2017-03-07T17:50:12-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rpal.cs.cornell.edu/news/</loc>
-    <lastmod>2017-01-24T23:47:43-05:00</lastmod>
+    <lastmod>2017-03-07T17:25:09-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rpal.cs.cornell.edu/people/</loc>
-    <lastmod>2017-02-07T05:56:51-05:00</lastmod>
+    <lastmod>2017-03-07T17:50:12-05:00</lastmod>
     <priority>0</priority>
   </url>
   

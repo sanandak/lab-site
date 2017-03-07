@@ -6,8 +6,23 @@
     <description>Recent content in People on Cornell RPAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Feb 2017 05:56:51 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 07 Mar 2017 17:50:12 -0500</lastBuildDate>
     <atom:link href="https://rpal.cs.cornell.edu/people/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Claire Liang</title>
+      <link>https://rpal.cs.cornell.edu/people/claire/</link>
+      <pubDate>Tue, 07 Mar 2017 17:50:12 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/people/claire/</guid>
+      <description>&lt;p&gt;Claire is a Senior in Computer Science working on the Hanabi Implicature Project.  In this work she
+is developing a game AI that she believes matches human intuition&amp;rsquo;s use of implicature and is
+exploring the impact of quantity of presented information in the game&amp;rsquo;s user interface.  She has
+previously worked on stem cell population simulation including spatial modeling, and protein
+crystallizability prediction. Her current interests lie in mathematics - specifically geometry and
+topology - and its use in a broad range of real world modeling questions.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Zach Zweig Vinegar</title>

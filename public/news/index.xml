@@ -6,8 +6,24 @@
     <description>Recent content in News on Cornell RPAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jan 2017 23:47:43 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 07 Mar 2017 17:25:09 -0500</lastBuildDate>
     <atom:link href="https://rpal.cs.cornell.edu/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Paper Nominated for Best Paper Award at HRI 2017</title>
+      <link>https://rpal.cs.cornell.edu/news/hri2017_nominated_best_paper/</link>
+      <pubDate>Tue, 07 Mar 2017 17:25:09 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/news/hri2017_nominated_best_paper/</guid>
+      <description>&lt;p&gt;The paper &amp;ldquo;Implicit Communication in a Joint Action&amp;rdquo;, by &lt;a href=&#34;https://rpal.cs.cornell.edu/people/ross/&#34;&gt;Ross Knepper&lt;/a&gt;,
+&lt;a href=&#34;https://rpal.cs.cornell.edu/people/chris/&#34;&gt;Christoforos Mavrogiannis&lt;/a&gt;, &lt;a href=&#34;No page found with path or logical name &#34;people/julia.md&#34;.
+&#34;&gt;Julia Proft&lt;/a&gt;,
+and &lt;a href=&#34;https://rpal.cs.cornell.edu/people/claire/&#34;&gt;Claire Liang&lt;/a&gt;, has been nominated for a &lt;strong&gt;Best Paper Award&lt;/strong&gt; at
+&lt;a href=&#34;http://humanrobotinteraction.org/2017/&#34;&gt;&lt;strong&gt;HRI 2017&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For more on the paper, please see &lt;a href=&#34;https://rpal.cs.cornell.edu/news/hri2017/&#34;&gt;the announcement of its acceptance&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Paper Accepted to HRI 2017</title>
@@ -15,17 +31,65 @@
       <pubDate>Tue, 24 Jan 2017 23:47:43 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/news/hri2017/</guid>
-      <description>&lt;p&gt;The paper &amp;ldquo;Implicit Communication in a Joint Action&amp;rdquo;, by &lt;a href=&#34;https://rpal.cs.cornell.edu/people/ross/&#34;&gt;Ross Knepper&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;The paper &amp;ldquo;Implicit Communication in a Joint Action&amp;rdquo;, by &lt;a href=&#34;https://rpal.cs.cornell.edu/people/ross/&#34;&gt;Ross Knepper&lt;/a&gt;,
+&lt;a href=&#34;https://rpal.cs.cornell.edu/people/chris/&#34;&gt;Christoforos Mavrogiannis&lt;/a&gt;, &lt;a href=&#34;No page found with path or logical name &#34;people/julia.md&#34;.
+&#34;&gt;Julia Proft&lt;/a&gt;,
+and &lt;a href=&#34;https://rpal.cs.cornell.edu/people/claire/&#34;&gt;Claire Liang&lt;/a&gt;, has been accepted to &lt;a href=&#34;http://humanrobotinteraction.org/2017/&#34;&gt;&lt;strong&gt;HRI
+2017&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;From the paper:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Actions performed in the context of a joint activity comprise two aspects: functional and
+communicative. The functional component achieves the goal of the action, whereas its
+communicative component, when present, expresses some information to the actor’s partners in the
+joint activity. The interpretation of such communication requires leveraging information that is
+public to all participants, known as common ground. Much of human communication is performed
+through this implicit mechanism, and humans cannot help but infer some meaning — whether or not
+it was intended by the actor — from most actions. Robots must be cognizant of how their actions
+will be interpreted in context. We present a framework for robots to utilize this communicative
+channel on top of normal functional actions to work more effectively with human partners. We
+consider the role of the actor and the observer, both individually and jointly, in implicit
+communication, as well as the effects of timing. We also show how the framework maps onto
+various modes of action, including natural language and motion. We consider these modes of
+action in various human-robot interaction domains, including social navigation and collaborative
+assembly.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
     <item>
-      <title>Paper presented at WAFR 2016</title>
+      <title>Paper Presented at WAFR 2016</title>
       <link>https://rpal.cs.cornell.edu/news/wafr2016/</link>
       <pubDate>Tue, 20 Dec 2016 23:47:43 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/news/wafr2016/</guid>
-      <description>&lt;p&gt;The paper &amp;ldquo;Decentralized Multi-Agent Navigation Planning with Braids&amp;rdquo;, by &lt;a href=&#34;https://rpal.cs.cornell.edu/people/chris/&#34;&gt;Christoforos Mavrogiannis&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;The paper &lt;a href=&#34;http://wafr.org/papers/WAFR_2016_paper_117.pdf&#34;&gt;&amp;ldquo;Decentralized Multi-Agent Navigation Planning with
+Braids&amp;rdquo;&lt;/a&gt;, by &lt;a href=&#34;https://rpal.cs.cornell.edu/people/chris/&#34;&gt;Christoforos Mavrogiannis&lt;/a&gt; and &lt;a href=&#34;https://rpal.cs.cornell.edu/people/ross/&#34;&gt;Ross Knepper&lt;/a&gt; was presented at &lt;a href=&#34;http://www.wafr.org/&#34;&gt;&lt;strong&gt;WAFR
+2016&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;From the paper:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We present a novel planning framework for navigation in dynamic,
+multi-agent environments with no explicit communication among agents, such as
+pedestrian scenes. Inspired by the collaborative nature of human navigation, our
+approach treats the problem as a coordination game, in which players coordinate
+to avoid each other as they move towards their destinations. We explicitly encode
+the concept of coordination into the agents’ decision making process through a
+novel inference mechanism about future joint strategies of avoidance. We represent
+joint strategies as equivalence classes of topological trajectory patterns using
+the formalism of braids. This topological representation naturally generalizes to
+any number of agents and provides the advantage of adaptability to different environments,
+in contrast to the majority of existing approaches. At every round,
+the agents simultaneously decide on their next action that contributes collision-free
+progress towards their destination but also towards a global joint strategy
+that appears to be in compliance with all agents’ preferences, as inferred from
+their past behaviors. This policy leads to a smooth and rapid uncertainty decrease
+regarding the emerging joint strategy that is promising for real world scenarios.
+Simulation results highlight the importance of reasoning about joint strategies
+and demonstrate the efficacy of our approach.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
