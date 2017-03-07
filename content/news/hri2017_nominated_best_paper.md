@@ -1,5 +1,5 @@
 +++
-title = "Paper nominated for Best Paper Award at HRI 2017"
+title = "Paper Nominated for Best Paper Award at HRI 2017"
 date = "2017-03-07T17:25:09-05:00"
 tags = []
 author = ""
