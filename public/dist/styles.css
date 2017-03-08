@@ -85,7 +85,7 @@ ul ul, ul ol, ol ul, ol ol { margin: 10px 0 0 20px; }
 ul li, ol li { margin: 0 0 2px; }
 ul li:last-of-type, ol li:last-of-type { margin-bottom: 0; }
 blockquote { border-left: 1px dotted #b31b1b; margin: 0 0; padding: 5px 30px; }
-blockquote p { color: #aeadad; display: block; font-style: italic; margin: 0; width: 100%; }
+blockquote p { color: #7a7a7a; display: block; font-style: italic; margin: 0; width: 100%; }
 img { display: block; margin: 40px 0; width: auto; max-width: 100%; }
 pre { background: #f1f0ea; border: 1px solid #dddbcc; border-radius: 3px; margin: 0 0 20px; overflow-x: auto; padding: 10px; font-size: 16px; }
 pre code { padding: 0; }
