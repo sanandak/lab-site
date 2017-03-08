@@ -31,8 +31,7 @@ topology - and its use in a broad range of real world modeling questions.&lt;/p&
       
       <guid>https://rpal.cs.cornell.edu/news/hri2017_nominated_best_paper/</guid>
       <description>&lt;p&gt;The paper &amp;ldquo;Implicit Communication in a Joint Action&amp;rdquo;, by &lt;a href=&#34;https://rpal.cs.cornell.edu/people/ross/&#34;&gt;Ross Knepper&lt;/a&gt;,
-&lt;a href=&#34;https://rpal.cs.cornell.edu/people/chris/&#34;&gt;Christoforos Mavrogiannis&lt;/a&gt;, &lt;a href=&#34;No page found with path or logical name &#34;people/julia.md&#34;.
-&#34;&gt;Julia Proft&lt;/a&gt;,
+&lt;a href=&#34;https://rpal.cs.cornell.edu/people/chris/&#34;&gt;Christoforos Mavrogiannis&lt;/a&gt;, &lt;a href=&#34;https://rpal.cs.cornell.edu/people/julia/&#34;&gt;Julia Proft&lt;/a&gt;,
 and &lt;a href=&#34;https://rpal.cs.cornell.edu/people/claire/&#34;&gt;Claire Liang&lt;/a&gt;, has been nominated for a &lt;strong&gt;Best Paper Award&lt;/strong&gt; at
 &lt;a href=&#34;http://humanrobotinteraction.org/2017/&#34;&gt;&lt;strong&gt;HRI 2017&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
@@ -199,8 +198,7 @@ theoretical advances with empirically assessed implementations.&lt;/p&gt;
       
       <guid>https://rpal.cs.cornell.edu/news/hri2017/</guid>
       <description>&lt;p&gt;The paper &amp;ldquo;Implicit Communication in a Joint Action&amp;rdquo;, by &lt;a href=&#34;https://rpal.cs.cornell.edu/people/ross/&#34;&gt;Ross Knepper&lt;/a&gt;,
-&lt;a href=&#34;https://rpal.cs.cornell.edu/people/chris/&#34;&gt;Christoforos Mavrogiannis&lt;/a&gt;, &lt;a href=&#34;No page found with path or logical name &#34;people/julia.md&#34;.
-&#34;&gt;Julia Proft&lt;/a&gt;,
+&lt;a href=&#34;https://rpal.cs.cornell.edu/people/chris/&#34;&gt;Christoforos Mavrogiannis&lt;/a&gt;, &lt;a href=&#34;https://rpal.cs.cornell.edu/people/julia/&#34;&gt;Julia Proft&lt;/a&gt;,
 and &lt;a href=&#34;https://rpal.cs.cornell.edu/people/claire/&#34;&gt;Claire Liang&lt;/a&gt;, has been accepted to &lt;a href=&#34;http://humanrobotinteraction.org/2017/&#34;&gt;&lt;strong&gt;HRI
 2017&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
@@ -271,22 +269,22 @@ and demonstrate the efficacy of our approach.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Julia Proft</title>
+      <link>https://rpal.cs.cornell.edu/people/julia/</link>
+      <pubDate>Sun, 21 Aug 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/people/julia/</guid>
+      <description>&lt;p&gt;Julia is a first-year PhD student in computer science. Her research interests are in robotics and human-robot interaction, in particular developing shared-control algorithms that make robots easier to teleoperate and leverage the complementary strengths of the human operator and the robot. She also works part-time for the Anita Borg Institute, a non-profit organization dedicated to connecting, supporting, and inspiring women in technology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Vitchyr Pong</title>
       <link>https://rpal.cs.cornell.edu/people/vitchyr/</link>
       <pubDate>Tue, 26 Jan 2016 21:20:10 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/people/vitchyr/</guid>
       <description>&lt;p&gt;Undergraduate in ECE and CS, moved on to a PhD at UC Berkeley.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Alex Volkov</title>
-      <link>https://rpal.cs.cornell.edu/people/alex/</link>
-      <pubDate>Tue, 26 Jan 2016 21:19:52 -0500</pubDate>
-      
-      <guid>https://rpal.cs.cornell.edu/people/alex/</guid>
-      <description>&lt;p&gt;ECE undergraduate, moved on to a Master&amp;rsquo;s at the CMU Robotics Institute.&lt;/p&gt;
 </description>
     </item>
     
