@@ -2,7 +2,9 @@
 
 <div id="post-index" class="page-content">
 
-  <h1 class="post-title post-header"> News </h1>
+    <header class="post-header">
+        <h1 class="post-title"> News </h1>
+    </header>
     <ol class="post-list">
         {{ $pag := .Paginate (where .Data.Pages "Type" "news") }}
         {{ range $pag.Pages }}
