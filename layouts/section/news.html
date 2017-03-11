@@ -1,0 +1,21 @@
+{{ partial "header.html" . }}
+
+<div id="post-index" class="page-content">
+
+  <h1 class="post-title post-header"> News </h1>
+    <ol class="post-list">
+        {{ $pag := .Paginate (where .Data.Pages "Type" "news") }}
+        {{ range $pag.Pages }}
+            {{ partial "news-stub.html" . }}
+            <div class="news-detail">
+              {{ .Content }}
+            </div>
+        {{ end }}
+    </ol>
+
+    <div class="post-navigation">
+        {{ partial "pagination.html" . }}
+    </div>
+</div>
+
+{{ partial "footer.html" . }}

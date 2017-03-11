@@ -12,26 +12,31 @@ pluralizelisttitles = false
     post = "/:year/:month/:day/:filename/"
 
 [[menu.main]]
-    name = "News"
+    name = "Home"
     url = "/"
     weight = 1
 
 [[menu.main]]
-    name = "Projects"
-    url = "/projects/"
+    name = "News"
+    url = "/news/"
     weight = 2
 
 [[menu.main]]
-    name = "Research"
-    url = "/Research/"
+    name = "Projects"
+    url = "/projects/"
     weight = 3
 
 [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 5
+    name = "Research"
+    url = "/research/"
+    weight = 4
 
 [[menu.main]]
     name = "People"
     url = "/people/"
-    weight = 4
+    weight = 5
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 6

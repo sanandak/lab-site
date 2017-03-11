@@ -60,7 +60,7 @@ ul, ol {
 
 blockquote {
   border-left: 1px dotted $primary;
-  margin: 0px 0;
+  margin: 0 0 30px;
   padding: 5px 30px;
 
   p {
@@ -891,6 +891,10 @@ a.news-post {
   padding: 15px 20px;
   margin: 0 -20px;
   & > h4 { margin: 0 }
+}
+
+.news-detail {
+  padding-bottom: 30px;
 }
 
 .text-center {
