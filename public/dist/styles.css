@@ -84,7 +84,7 @@ ul, ol { line-height: 1.4; margin: 0 0 20px; }
 ul ul, ul ol, ol ul, ol ol { margin: 10px 0 0 20px; }
 ul li, ol li { margin: 0 0 2px; }
 ul li:last-of-type, ol li:last-of-type { margin-bottom: 0; }
-blockquote { border-left: 1px dotted #b31b1b; margin: 0 0; padding: 5px 30px; }
+blockquote { border-left: 1px dotted #b31b1b; margin: 0 0 30px; padding: 5px 30px; }
 blockquote p { color: #7a7a7a; display: block; font-style: italic; margin: 0; width: 100%; }
 img { display: block; margin: 40px 0; width: auto; max-width: 100%; }
 pre { background: #f1f0ea; border: 1px solid #dddbcc; border-radius: 3px; margin: 0 0 20px; overflow-x: auto; padding: 10px; font-size: 16px; }
@@ -124,7 +124,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .post-header { margin: 0 0 20px; padding: 0 0 20px; text-align: center; text-transform: uppercase; }
 .post-description { margin: 30px 0 -10px; text-align: left; text-transform: none; font-weight: bold; }
 .page-header { border-bottom: 6px solid #303030; margin: 0 0 30px; padding: 0 0 20px; text-align: center; text-transform: uppercase; }
-.post-title, .page-title, .section-title { font-family: 'Raleway'; font-size: 52px; font-weight: 100; margin: 25px 0; text-align: center; text-transform: uppercase; }
+.post-title, .page-title, .section-title { font-family: 'Raleway'; font-size: 50px; font-weight: 100; margin: 25px 0; padding: 0 15px; text-align: center; text-transform: uppercase; }
 .post-title { margin: auto; font-size: 40px; }
 .section-title { margin: 40px auto 25px; font-size: 30px; }
 .page-content { width: 90%; margin: auto; }
@@ -249,4 +249,5 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .svg-wrapper object { position: relative; z-index: -1; }
 a.news-post { padding: 15px 20px; margin: 0 -20px; }
 a.news-post > h4 { margin: 0; }
+.news-detail { padding-bottom: 30px; }
 .text-center { text-align: center; }

@@ -60,7 +60,7 @@ ul, ol {
 
 blockquote {
   border-left: 1px dotted $primary;
-  margin: 0px 0;
+  margin: 0 0 30px;
   padding: 5px 30px;
 
   p {
@@ -299,9 +299,10 @@ table {
 .page-title,
 .section-title {
   font-family: 'Raleway';
-  font-size: 52px;
+  font-size: 50px;
   font-weight: 100;
   margin: 25px 0px;
+  padding: 0 15px;
   text-align: center;
   text-transform: uppercase;
 }
@@ -891,6 +892,10 @@ a.news-post {
   padding: 15px 20px;
   margin: 0 -20px;
   & > h4 { margin: 0 }
+}
+
+.news-detail {
+  padding-bottom: 30px;
 }
 
 .text-center {
