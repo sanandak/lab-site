@@ -245,6 +245,7 @@ table {
   }
 }
 .site-logo {
+  line-height: .75;
   display: block;
   margin: auto;
 }
@@ -884,7 +885,9 @@ table {
   z-index: 1;
   & object {
     position: relative;
-    z-index: -1
+    z-index: -1;
+    width: 75px;
+    height: 75px;
   }
 }
 
