@@ -6,8 +6,18 @@
     <description>Recent content in News on Cornell RPAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Mar 2017 17:25:09 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 17 Mar 2017 17:25:09 -0500</lastBuildDate>
     <atom:link href="https://rpal.cs.cornell.edu/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ph.D. Student Wil Thomason Receives NSF GRFP Award</title>
+      <link>https://rpal.cs.cornell.edu/news/thomason_grfp/</link>
+      <pubDate>Fri, 17 Mar 2017 17:25:09 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/news/thomason_grfp/</guid>
+      <description>&lt;p&gt;Second-year Ph.D. student &lt;a href=&#34;https://rpal.cs.cornell.edu/people/wil/&#34;&gt;Wil Thomason&lt;/a&gt; received a three-year fellowship through the National Science Foundation&amp;rsquo;s &lt;a href=&#34;https://www.nsf.gov/news/news_summ.jsp?cntn_id=191361&amp;amp;org=NSF&amp;amp;from=news&#34;&gt;Graduate Research Fellowship Program&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Paper Nominated for Best Paper Award at HRI 2017</title>

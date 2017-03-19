@@ -6,8 +6,18 @@
     <description>Recent content on Cornell RPAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Mar 2017 17:50:12 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 17 Mar 2017 17:25:09 -0500</lastBuildDate>
     <atom:link href="https://rpal.cs.cornell.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ph.D. Student Wil Thomason Receives NSF GRFP Award</title>
+      <link>https://rpal.cs.cornell.edu/news/thomason_grfp/</link>
+      <pubDate>Fri, 17 Mar 2017 17:25:09 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/news/thomason_grfp/</guid>
+      <description>&lt;p&gt;Second-year Ph.D. student &lt;a href=&#34;https://rpal.cs.cornell.edu/people/wil/&#34;&gt;Wil Thomason&lt;/a&gt; received a three-year fellowship through the National Science Foundation&amp;rsquo;s &lt;a href=&#34;https://www.nsf.gov/news/news_summ.jsp?cntn_id=191361&amp;amp;org=NSF&amp;amp;from=news&#34;&gt;Graduate Research Fellowship Program&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Claire Liang</title>
@@ -275,16 +285,6 @@ and demonstrate the efficacy of our approach.&lt;/p&gt;
       
       <guid>https://rpal.cs.cornell.edu/people/julia/</guid>
       <description>&lt;p&gt;Julia is a first-year PhD student in computer science. Her research interests are in robotics and human-robot interaction, in particular developing shared-control algorithms that make robots easier to teleoperate and leverage the complementary strengths of the human operator and the robot. She also works part-time for the Anita Borg Institute, a non-profit organization dedicated to connecting, supporting, and inspiring women in technology.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Vitchyr Pong</title>
-      <link>https://rpal.cs.cornell.edu/people/vitchyr/</link>
-      <pubDate>Tue, 26 Jan 2016 21:20:10 -0500</pubDate>
-      
-      <guid>https://rpal.cs.cornell.edu/people/vitchyr/</guid>
-      <description>&lt;p&gt;Undergraduate in ECE and CS, moved on to a PhD at UC Berkeley.&lt;/p&gt;
 </description>
     </item>
     
