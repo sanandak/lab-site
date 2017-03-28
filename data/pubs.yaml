@@ -13,7 +13,7 @@ references:
   publisher-place: Technical Report CMU-RI-TR-11-19
   genre: PhD thesis
 
-- id: ZhaoEtal_RAM_2016
+- id: ZhaEtal_RAM_2016
   type: article-journal
   author:
   - family: Zhao
@@ -39,7 +39,7 @@ references:
   volume: '23'
   issue: '3'
 
-- id: DogarEtal_IJRR_2015
+- id: DogEtal_IJRR_2015
   type: article-journal
   author:
   - family: Dogar
@@ -63,7 +63,7 @@ references:
   issue: '13'
   note: '**Invited Submission**'
 
-- id: KnepperEtal_AuRo_2015
+- id: KneEtal_AuRo_2015
   type: article-journal
   author:
   - family: Knepper
@@ -86,7 +86,7 @@ references:
   issue: '3'
   note: '**Invited Submission**'
 
-- id: HowardEtal_RAM
+- id: HowEtal_RAM_2014
   type: article-journal
   author:
   - family: Howard
@@ -106,7 +106,7 @@ references:
   volume: '21'
   issue: '1'
 
-- id: KnepperMason_IJRR_2012
+- id: KneMas_IJRR_2012
   type: article-journal
   author:
   - family: Knepper
@@ -123,7 +123,7 @@ references:
   issue: '11'
   note: '**Invited Submission**'
 
-- id: SrinivasaEtal_ProcIEEE12
+- id: SriEtal_ProcIEEE_2012
   type: article-journal
   author:
   - family: Srinivasa
@@ -160,7 +160,7 @@ references:
   issue: '8'
   note: '**Invited Submission**'
 
-- id: KnepperEtal_IJRR12
+- id: KneEtal_IJRR_2012
   type: article-journal
   author:
   - family: Knepper
@@ -180,7 +180,7 @@ references:
   issue: '2'
   note: '**Invited Submission**'
 
-- id: PivtoraikoEtal_JFR09
+- id: PivEtal_JFR_2009
   type: article-journal
   author:
   - family: Pivtoraiko
@@ -196,6 +196,25 @@ references:
   page: '308-333'
   volume: '26'
   issue: '3'
+
+- id: KneEtal_HRI_2017
+  type: paper-conference
+  author:
+  - family: Knepper
+    given: Ross A.
+  - family: Mavrogiannis
+    given: Christoforos I.
+  - family: Proft
+    given: Julia
+  - family: Liang
+    given: Claire
+  issued:
+  - year: '2017'
+    month: '3'
+  title: Implicit communication in a joint action
+  container-title: Proceedings of the ACM/IEEE international conference on human-robot
+    interaction
+  publisher-place: Vienna, Austria
 
 - id: MavKne_WAFR_2016
   type: paper-conference
@@ -226,7 +245,7 @@ references:
   container-title: Proceedings of the international symposium of experimental robotics
   publisher-place: Tokyo, Japan
 
-- id: KwonEtal_HRI16
+- id: KwoEtal_HRI_2016
   type: paper-conference
   author:
   - family: Kwon
@@ -243,7 +262,7 @@ references:
     human-robot interaction
   publisher-place: Christchurch, New Zealand
 
-- id: AnaKne_ITP15
+- id: AnaKne_ITP_2015
   type: paper-conference
   author:
   - family: Anand
@@ -258,7 +277,7 @@ references:
   container-title: The 6th conference on interactive theorem proving
   publisher-place: Nanjing, China
 
-- id: LenzEtal_RSS15
+- id: LenzEtal_RSS_2015
   type: paper-conference
   author:
   - family: Lenz
@@ -275,7 +294,7 @@ references:
   container-title: Proceedings of the robotics science and systems conference
   publisher-place: Rome, Italy
 
-- id: Alonso-MoraEtal_ICRA15
+- id: AloEtal_ICRA_2015
   type: paper-conference
   author:
   - family: Alonso-Mora
@@ -295,7 +314,7 @@ references:
     automation
   publisher-place: Seattle, USA
 
-- id: LindzeyEtal_WAFR14
+- id: LinEtal_WAFR_2014
   type: paper-conference
   author:
   - family: Lindzey
@@ -315,7 +334,7 @@ references:
   container-title: Proceedings of the workshop on the algorithmic foundations of robotics
   publisher-place: Istanbul, Turkey
 
-- id: DogarEtal_ISER14
+- id: DogEtal_ISER_2014
   type: paper-conference
   author:
   - family: Dogar
@@ -337,7 +356,7 @@ references:
   container-title: Proceedings of the international symposium of experimental robotics
   publisher-place: Marrakesh; Essaouira, Morocco
 
-- id: TellexEtal_RSS14
+- id: TelEtal_RSS_2014
   type: paper-conference
   author:
   - family: Tellex
@@ -358,7 +377,7 @@ references:
   publisher-place: Berkeley, USA
   note: '**Best Paper**'
 
-- id: WangEtal_MobiCom13
+- id: WangEtal_MobiCom_2013
   type: paper-conference
   author:
   - family: Wang
@@ -379,7 +398,7 @@ references:
   container-title: 'MobiCom: International conference on mobile computing and networking'
   publisher-place: Miami, USA
 
-- id: KnepperEtal_ICRA13
+- id: KneEtal_ICRA_2013
   type: paper-conference
   author:
   - family: Knepper
@@ -400,7 +419,7 @@ references:
   publisher-place: Karlsruhe, Germany
   note: '**Best Automation Paper Finalist**'
 
-- id: KnepperRus_ICRA13
+- id: KneRus_ICRA_2013
   type: paper-conference
   author:
   - family: Knepper
@@ -415,7 +434,7 @@ references:
     automation
   publisher-place: Karlsruhe, Germany
 
-- id: FeldmanEtal_ICRA13
+- id: FelEtal_ICRA_2013
   type: paper-conference
   author:
   - family: Feldman
@@ -436,7 +455,7 @@ references:
     automation
   publisher-place: Karlsruhe, Germany
 
-- id: HattonEtal_ICRA13
+- id: HatEtal_ICRA_2013
   type: paper-conference
   author:
   - family: Hatton
@@ -460,7 +479,7 @@ references:
     automation
   publisher-place: Karlsruhe, Germany
 
-- id: KnepperEtal_HRI13
+- id: KneEtal_HRI_2013
   type: paper-conference
   author:
   - family: Knepper
@@ -479,11 +498,11 @@ references:
   title: 'Single assembly robot in search of human partner: Versatile grounded language
     generation'
   title-short: Single assembly robot in search of human partner
-  container-title: Late breaking report at the acm/ieee international conference on
+  container-title: Late breaking report at the ACM/IEEE international conference on
     human-robot interaction
   publisher-place: Tokyo, Japan
 
-- id: KnepperRus_ROMAN12
+- id: KneRus_ROMAN_2012
   type: paper-conference
   author:
   - family: Knepper
@@ -498,7 +517,7 @@ references:
     interactive communication
   publisher-place: Paris, France
 
-- id: KnepperMason_IROS11
+- id: KneMas_IROS_2011
   type: paper-conference
   author:
   - family: Knepper
@@ -513,7 +532,7 @@ references:
     robots and systems
   publisher-place: San Francisco, USA
 
-- id: KnepperMason_ISRR11
+- id: KneMas_ISRR_2011
   type: paper-conference
   author:
   - family: Knepper
@@ -527,7 +546,7 @@ references:
   container-title: Proceedings of the international symposium on robotics research
   publisher-place: Flagstaff, USA
 
-- id: KnepperEtal_WAFR10
+- id: KneEtal_WAFR_2010
   type: paper-conference
   author:
   - family: Knepper
@@ -543,7 +562,7 @@ references:
   container-title: Proceedings of the workshop on the algorithmic foundations of robotics
   publisher-place: Singapore
 
-- id: KnepperEtal_ICRA10
+- id: KneEtal_ICRA_2010
   type: paper-conference
   author:
   - family: Knepper
@@ -561,7 +580,7 @@ references:
     automation
   publisher-place: Anchorage, USA
 
-- id: KnepperMason_ICRA09
+- id: KneMas_ICRA_2009
   type: paper-conference
   author:
   - family: Knepper
@@ -576,7 +595,7 @@ references:
     automation
   publisher-place: Kobe, Japan
 
-- id: KnepperMason_ISER08
+- id: KneMas_ISER_2008
   type: paper-conference
   author:
   - family: Knepper
@@ -590,7 +609,7 @@ references:
   container-title: Proceedings of the international symposium of experimental robotics
   publisher-place: Athens, Greece
 
-- id: BranickyEtal_ICRA08
+- id: BraEtal_ICRA_2008
   type: paper-conference
   author:
   - family: Branicky
@@ -608,7 +627,7 @@ references:
     automation
   publisher-place: Pasadena, USA
 
-- id: KnepperKelly_IROS06
+- id: KneKel_IROS_2006
   type: paper-conference
   author:
   - family: Knepper
@@ -623,7 +642,7 @@ references:
     robots and systems
   publisher-place: Beijing, China
 
-- id: HowardEtal_ISER06
+- id: HowEtal_ISER_2006
   type: paper-conference
   author:
   - family: Howard
@@ -639,7 +658,7 @@ references:
   container-title: Proceedings of the international symposium of experimental robotics
   publisher-place: Rio de Janeiro, Brazil
 
-- id: ChosetEtal_ICRA99
+- id: ChoEtal_ICRA_1999
   type: paper-conference
   author:
   - family: Choset
@@ -668,7 +687,7 @@ references:
     automation
   publisher-place: Detroit, USA
 
-- id: Knepper_WS_ROMAN2016
+- id: Knepper_WS_ROMAN_2016
   type: paper-conference
   author:
   - family: Knepper
@@ -677,12 +696,11 @@ references:
   - year: '2016'
     month: '8'
   title: On the communicative aspect of human-robot joint action
-  container-title: 'The IEEE international symposium on robot and human interactive
-    communication workshop: Toward a framework for joint action, what about common
+  container-title: 'Workshop: Toward a framework for joint action, what about common
     ground?'
   publisher-place: New York, USA
 
-- id: MavrogiannisKnepper_WS_RSS2016
+- id: MavKne_WS_RSS_2016
   type: paper-conference
   author:
   - family: Mavrogiannis
@@ -693,11 +711,11 @@ references:
   - year: '2016'
     month: '6'
   title: Towards socially competent navigation of pedestrian environments
-  container-title: 'Robotics: Science and systems 2016 workshop on social trust
-    in autonomous robots'
+  container-title: Workshop on social trust in autonomous robots
+  collection-title: Proceedings of the robotics science and systems conference
   publisher-place: Ann Arbor, USA
 
-- id: ThomasonKnepper_WS_RSS2016
+- id: ThoKne_WS_RSS_2016
   type: paper-conference
   author:
   - family: Thomason
@@ -709,11 +727,11 @@ references:
     month: '6'
   title: Recognizing unfamiliar gestures for human-robot interaction through zero-shot
     learning
-  container-title: 'Robotics: Science and systems workshop on model learning for
-    human-robot communication'
+  container-title: Workshop on model learning for human-robot communication
+  collection-title: Proceedings of the robotics science and systems conference
   publisher-place: Ann Arbor, USA
 
-- id: MavrogiannisKnepper_WS_HRI2016
+- id: MavKne_WS_HRI_2016
   type: paper-conference
   author:
   - family: Mavrogiannis
@@ -729,7 +747,7 @@ references:
     interaction
   publisher-place: Christchurch, New Zealand
 
-- id: KwonEtal_WS_HRI2016
+- id: KwoEtal_WS_HRI_2016
   type: paper-conference
   author:
   - family: Kwon
@@ -748,7 +766,7 @@ references:
     interaction
   publisher-place: Christchurch, New Zealand
 
-- id: KnepperEtal_WS_IROS2014
+- id: KneEtal_WS_IROS_2014
   type: paper-conference
   author:
   - family: Knepper
@@ -768,7 +786,7 @@ references:
     robots and systems
   publisher-place: Chicago, USA
 
-- id: KnepperEtal_WS_HRI2013
+- id: KneEtal_WS_HRI_2013
   type: paper-conference
   author:
   - family: Knepper
@@ -795,7 +813,7 @@ references:
     interaction
   publisher-place: Tokyo, Japan
 
-- id: KnepperRus_WS_ICRA13
+- id: KneRus_WS_ICRA_2013
   type: paper-conference
   author:
   - family: Knepper
@@ -811,7 +829,7 @@ references:
     automation
   publisher-place: St. Paul, USA
 
-- id: LindzeyEtal_12
+- id: LinEtal_TR_2012
   type: report
   author:
   - family: Lindzey
@@ -829,7 +847,7 @@ references:
   publisher: Robotics Institute, Carnegie Mellon University
   number: CMU-RI-TR-12-15
 
-- id: KnepperEtal_10
+- id: KneEtal_TR_2010
   type: report
   author:
   - family: Knepper
@@ -846,7 +864,7 @@ references:
   publisher: Robotics Institute, Carnegie Mellon University
   number: CMU-RI-TR-10-25
 
-- id: PivtoraikoEtal_07
+- id: PivEtal_TR_2007
   type: report
   author:
   - family: Pivtoraiko
