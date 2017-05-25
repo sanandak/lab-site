@@ -33,6 +33,10 @@ origami and the folding actions which it required.
 
 # Dataset Properties
 
+This dataset comprises **30 trials** of roughly **20 minutes** each of recorded data. NiTE skeleton 
+data and audio are provided for each trial. Some trials include raw depth data, but this is 
+unfortunately not available for all trials.
+
 # Examples
 
 # Data Download
