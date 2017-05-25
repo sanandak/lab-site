@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Cornell RPAL</title>
-    <link>https://rpal.cs.cornell.edu/projects/index.xml</link>
+    <link>https://rpal.cs.cornell.edu/projects/</link>
     <description>Recent content in Projects on Cornell RPAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Jan 2017 20:09:33 -0500</lastBuildDate>
-    <atom:link href="https://rpal.cs.cornell.edu/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://rpal.cs.cornell.edu/projects/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Social Navigation</title>
@@ -15,36 +17,7 @@
       <pubDate>Wed, 25 Jan 2017 20:09:33 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/projects/social_nav/</guid>
-      <description>&lt;p&gt;Despite the great progress in the field of robotic navigation over the past few
-decades, navigating a human environment remains a hard task for a robot, due to
-the lack of formal rules guiding traffic, the lack of explicit communication
-among agents and the unpredictability of human behavior. Existing approaches
-often result in robot motion that is hard to read, which causes unpredictable
-human reactions to which the robot in turn reacts to, contributing to an
-oscillatory joint behavior that hinders humans’ paths. We argue that the root of
-the problem lies in the failure from the robot’s part to convey consistently its
-intentions to human observers.&lt;/p&gt;
-
-&lt;p&gt;This project aims at developing an autonomous robotic system, capable of
-navigating crowded environments in a socially competent fashion. To this end, we
-develop novel models, algorithms, software and systems, which we plan on
-validating experimentally in real-world scenarios.&lt;/p&gt;
-
-&lt;p&gt;The main novelty of our approach lies in the development of a novel planning
-framework for closed-loop navigation in dynamic multi-agent workspaces. The core
-of the framework is a novel topological representation, based on braid groups,
-that models the collective behavior of multiple agents. Based on this
-representation and employing data-driven techniques, our algorithms generate
-motion plans that are consistent with the perceived context, thus resulting in
-socially competent robot behaviors that allow for smooth integration of mobile
-robots in crowded human environments. Our framework is inspired by insights from
-studies on pedestrian behavior and action interpretation and leverages the power
-of implicit communication to overcome the complications of the uncertainties
-induced by the imperfections of existing models of human decision making.&lt;/p&gt;
-
-&lt;p&gt;Our robot platform is a Suitable Technologies Beam Pro, equipped with on-board
-computation and an Occam Omni Stereo 360 RGBD camera, interfaced through ROS.&lt;/p&gt;
-</description>
+      <description>Despite the great progress in the field of robotic navigation over the past few decades, navigating a human environment remains a hard task for a robot, due to the lack of formal rules guiding traffic, the lack of explicit communication among agents and the unpredictability of human behavior. Existing approaches often result in robot motion that is hard to read, which causes unpredictable human reactions to which the robot in turn reacts to, contributing to an oscillatory joint behavior that hinders humans’ paths.</description>
     </item>
     
     <item>
@@ -53,36 +26,8 @@ computation and an Occam Omni Stereo 360 RGBD camera, interfaced through ROS.&lt
       <pubDate>Wed, 25 Jan 2017 20:09:23 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/projects/gestures/</guid>
-      <description>&lt;p&gt;Human communication is highly multimodal, including speech, gesture, gaze, facial
-expressions, and body language. Robots serving as human teammates must act on such
-multimodal communicative inputs from humans, even when the message may not be
-clear from any single modality. In this paper, we explore a method for achieving increased
-understanding of complex, situated communications by leveraging coordinated
-natural language, gesture, and context.&lt;/p&gt;
-
-&lt;p&gt;Our work departs from the traditional model of gesture recognition in that the set of gestures it
-can recognize is not limited to the gestural lexicon used for its training. Even in simplified
-domains, naive classifiers can fail to recognize instances of trained gestures due to human
-gestural variability. Humans resort to gesture when speech is insufficient, such as due to
-inability to recall a word, inability to be heard, or inadequate time to formulate speech.
-For these reasons, gesture is prevalent in human discourse. Yet gestures defy attempts
-at canonical classification both due to variations within and among individuals and due
-to their subjective interpretations. We define the unfamiliar gesture understanding
-problem: given an observation of a previously unseen gesture (i.e. a gesture of a class
-not present in any training data given to the system), we wish to output a contextually
-reasonable description in natural language of the gesture’s intended meaning.&lt;/p&gt;
-
-&lt;p&gt;This problem is an instance of the machine learning problem of zero-shot learning,
-a burgeoning area of machine learning that seeks to classify data without having seen
-examples of its class in the training stage. Most prior work in the area makes
-use of a multimodal dataset to perform the zero-shot task. However, the zero-shot task
-has not yet been demonstrated for gestural data. In the related one-shot learning task,
-gesture understanding has been shown from only one example of a given class in the
-training stage. The primary drawback of such approaches is their reliance on
-a fixed lexicon of gestures. We remove this drawback by creating a novel multimodal
-embedding space using techniques from convolutional neural nets to handle variable
-length gestures and allow for the description of arbitrary unfamiliar gestural data.&lt;/p&gt;
-</description>
+      <description>Human communication is highly multimodal, including speech, gesture, gaze, facial expressions, and body language. Robots serving as human teammates must act on such multimodal communicative inputs from humans, even when the message may not be clear from any single modality. In this paper, we explore a method for achieving increased understanding of complex, situated communications by leveraging coordinated natural language, gesture, and context.
+Our work departs from the traditional model of gesture recognition in that the set of gestures it can recognize is not limited to the gestural lexicon used for its training.</description>
     </item>
     
     <item>
@@ -91,18 +36,7 @@ length gestures and allow for the description of arbitrary unfamiliar gestural d
       <pubDate>Wed, 25 Jan 2017 20:09:13 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/projects/blimp/</guid>
-      <description>&lt;p&gt;Primary objectives are to (1) build a control system that enables persistent autonomy. (2) Develop
-a power system that is capable of operating the blimp and processing hardware using attached solar
-panels. (3) Develop computer vision algorithms to support research efforts, scientific observations
-of natural phenomena, and path planning activity. A sensor package will be designed with
-collaborators at the International Livestock Research Institute in Kenya for prediction of drought.
-Other future applications include surveillance of remote territory and disaster monitoring. We hope
-this project will lead to further innovation in robotic independence as well as aid important
-conservation efforts.&lt;/p&gt;
-
-&lt;p&gt;This project is a collaboration of student researchers with a student-led project team. You can find
-more information about joining the project team &lt;a href=&#34;https://rpal.cs.cornell.edu/projects/blimp/splash/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Primary objectives are to (1) build a control system that enables persistent autonomy. (2) Develop a power system that is capable of operating the blimp and processing hardware using attached solar panels. (3) Develop computer vision algorithms to support research efforts, scientific observations of natural phenomena, and path planning activity. A sensor package will be designed with collaborators at the International Livestock Research Institute in Kenya for prediction of drought. Other future applications include surveillance of remote territory and disaster monitoring.</description>
     </item>
     
     <item>
@@ -111,35 +45,8 @@ more information about joining the project team &lt;a href=&#34;https://rpal.cs.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/projects/blimp/splash/</guid>
-      <description>
-
-&lt;h1 id=&#34;who-we-are&#34;&gt;Who We Are:&lt;/h1&gt;
-
-&lt;p&gt;We are a project team working to build an autonomous blimp capable of long-term independent flight.
-Our team is primarily student run under the advisement of Professor Ross Knepper. The team is
-organized into 3 primary sub-teams: hardware, simulation, and software. Areas of interest are
-high-level motion planning, circuit design, sensor fusion, dynamics modeling, power system design,
-and computer vision.&lt;/p&gt;
-
-&lt;h1 id=&#34;what-we-re-looking-for&#34;&gt;What We’re Looking For:&lt;/h1&gt;
-
-&lt;p&gt;At this time we’re looking for students of all levels with interest and experience in any of the following areas:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;CAD&lt;/li&gt;
-&lt;li&gt;Circuit design&lt;/li&gt;
-&lt;li&gt;Software architecture and design&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We’re especially interested in &lt;strong&gt;Electrical Engineering&lt;/strong&gt; students. There are also opportunities for
-M.Eng. students to design a project with the blimp team. Freshman are free to inquire but should be
-willing to devote time to bring their skills up to speed.&lt;/p&gt;
-
-&lt;h1 id=&#34;want-to-join&#34;&gt;Want to Join?&lt;/h1&gt;
-
-&lt;p&gt;If you’re interested in joining, please send an email to &lt;a href=&#34;mailto:cornell.blimp@gmail.com&#34;&gt;cornell.blimp@gmail.com&lt;/a&gt; with your name in
-the subject line.&lt;/p&gt;
-</description>
+      <description>Who We Are: We are a project team working to build an autonomous blimp capable of long-term independent flight. Our team is primarily student run under the advisement of Professor Ross Knepper. The team is organized into 3 primary sub-teams: hardware, simulation, and software. Areas of interest are high-level motion planning, circuit design, sensor fusion, dynamics modeling, power system design, and computer vision.
+What We’re Looking For: At this time we’re looking for students of all levels with interest and experience in any of the following areas:</description>
     </item>
     
   </channel>

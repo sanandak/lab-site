@@ -2,21 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cornell RPAL</title>
-    <link>https://rpal.cs.cornell.edu/index.xml</link>
+    <link>https://rpal.cs.cornell.edu/</link>
     <description>Recent content on Cornell RPAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Mar 2017 17:25:09 -0500</lastBuildDate>
-    <atom:link href="https://rpal.cs.cornell.edu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Apr 2017 17:25:09 -0500</lastBuildDate>
+    
+	<atom:link href="https://rpal.cs.cornell.edu/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Ph.D. Student Wil Thomason Receives NSF GRFP Award</title>
+      <title>Ph.D. Student Wil Thomason Receives NSF GRFP and NDSEG Fellowship</title>
       <link>https://rpal.cs.cornell.edu/news/thomason_grfp/</link>
-      <pubDate>Fri, 17 Mar 2017 17:25:09 -0500</pubDate>
+      <pubDate>Tue, 11 Apr 2017 17:25:09 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/news/thomason_grfp/</guid>
-      <description>&lt;p&gt;Second-year Ph.D. student &lt;a href=&#34;https://rpal.cs.cornell.edu/people/wil/&#34;&gt;Wil Thomason&lt;/a&gt; received a three-year fellowship through the National Science Foundation&amp;rsquo;s &lt;a href=&#34;https://www.nsf.gov/news/news_summ.jsp?cntn_id=191361&amp;amp;org=NSF&amp;amp;from=news&#34;&gt;Graduate Research Fellowship Program&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Second-year Ph.D. student Wil Thomason was awarded a four-year fellowship through the National Defense Science and Engineering Graduate Fellowship. He also received a three-year fellowship through the National Science Foundation&amp;rsquo;s Graduate Research Fellowship Program.</description>
     </item>
     
     <item>
@@ -25,13 +26,7 @@
       <pubDate>Tue, 07 Mar 2017 17:50:12 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/people/claire/</guid>
-      <description>&lt;p&gt;Claire is a Senior in Computer Science working on the Hanabi Implicature Project.  In this work she
-is developing a game AI that she believes matches human intuition&amp;rsquo;s use of implicature and is
-exploring the impact of quantity of presented information in the game&amp;rsquo;s user interface.  She has
-previously worked on stem cell population simulation including spatial modeling, and protein
-crystallizability prediction. Her current interests lie in mathematics - specifically geometry and
-topology - and its use in a broad range of real world modeling questions.&lt;/p&gt;
-</description>
+      <description>Claire is a Senior in Computer Science working on the Hanabi Implicature Project. In this work she is developing a game AI that she believes matches human intuition&amp;rsquo;s use of implicature and is exploring the impact of quantity of presented information in the game&amp;rsquo;s user interface. She has previously worked on stem cell population simulation including spatial modeling, and protein crystallizability prediction. Her current interests lie in mathematics - specifically geometry and topology - and its use in a broad range of real world modeling questions.</description>
     </item>
     
     <item>
@@ -40,13 +35,8 @@ topology - and its use in a broad range of real world modeling questions.&lt;/p&
       <pubDate>Tue, 07 Mar 2017 17:25:09 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/news/hri2017_nominated_best_paper/</guid>
-      <description>&lt;p&gt;The paper &amp;ldquo;Implicit Communication in a Joint Action&amp;rdquo;, by &lt;a href=&#34;https://rpal.cs.cornell.edu/people/ross/&#34;&gt;Ross Knepper&lt;/a&gt;,
-&lt;a href=&#34;https://rpal.cs.cornell.edu/people/chris/&#34;&gt;Christoforos Mavrogiannis&lt;/a&gt;, &lt;a href=&#34;https://rpal.cs.cornell.edu/people/julia/&#34;&gt;Julia Proft&lt;/a&gt;,
-and &lt;a href=&#34;https://rpal.cs.cornell.edu/people/claire/&#34;&gt;Claire Liang&lt;/a&gt;, has been nominated for a &lt;strong&gt;Best Paper Award&lt;/strong&gt; at
-&lt;a href=&#34;http://humanrobotinteraction.org/2017/&#34;&gt;&lt;strong&gt;HRI 2017&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;For more on the paper, please see &lt;a href=&#34;https://rpal.cs.cornell.edu/news/hri2017/&#34;&gt;the announcement of its acceptance&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>The paper &amp;ldquo;Implicit Communication in a Joint Action&amp;rdquo;, by Ross Knepper, Christoforos Mavrogiannis, Julia Proft, and Claire Liang, has been nominated for a Best Paper Award at HRI 2017.
+For more on the paper, please see the announcement of its acceptance.</description>
     </item>
     
     <item>
@@ -55,8 +45,7 @@ and &lt;a href=&#34;https://rpal.cs.cornell.edu/people/claire/&#34;&gt;Claire Li
       <pubDate>Tue, 07 Feb 2017 05:56:51 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/people/zach/</guid>
-      <description>&lt;p&gt;I am a senior computer science major in the College of Engineering at Cornell University. My current research interests lie in the areas of human-robot interaction, computer vision, and augmented reality. I am also a member of Cornell&amp;rsquo;s Robotic Personal Assistants Lab run by Prof. Ross Knepper. Currently, I am working on a telepresence robot equipped with a 360 degree RGB-D sensor. The goal is to use the data coming from the sensor to enable the robot to seamlessly and smoothly navigate crowded pedestrian environments. More details about me can be found on my website.&lt;/p&gt;
-</description>
+      <description>I am a senior computer science major in the College of Engineering at Cornell University. My current research interests lie in the areas of human-robot interaction, computer vision, and augmented reality. I am also a member of Cornell&amp;rsquo;s Robotic Personal Assistants Lab run by Prof. Ross Knepper. Currently, I am working on a telepresence robot equipped with a 360 degree RGB-D sensor. The goal is to use the data coming from the sensor to enable the robot to seamlessly and smoothly navigate crowded pedestrian environments.</description>
     </item>
     
     <item>
@@ -65,12 +54,7 @@ and &lt;a href=&#34;https://rpal.cs.cornell.edu/people/claire/&#34;&gt;Claire Li
       <pubDate>Mon, 06 Feb 2017 09:58:51 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/people/valts/</guid>
-      <description>&lt;p&gt;Valts is a first-year PhD student in computer science. He graduated with a degree in Electrical and
-Electronic Engineering from Nanyang Technological University in Singapore. In the past he has worked
-on rescue robotics and stereo vision. He is interested in robotics and machine learning, in
-particular developing algorithms that would improve robot understanding of the real world and allow
-competent interactions with people.&lt;/p&gt;
-</description>
+      <description>Valts is a first-year PhD student in computer science. He graduated with a degree in Electrical and Electronic Engineering from Nanyang Technological University in Singapore. In the past he has worked on rescue robotics and stereo vision. He is interested in robotics and machine learning, in particular developing algorithms that would improve robot understanding of the real world and allow competent interactions with people.</description>
     </item>
     
     <item>
@@ -79,36 +63,16 @@ competent interactions with people.&lt;/p&gt;
       <pubDate>Wed, 25 Jan 2017 20:09:33 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/projects/social_nav/</guid>
-      <description>&lt;p&gt;Despite the great progress in the field of robotic navigation over the past few
-decades, navigating a human environment remains a hard task for a robot, due to
-the lack of formal rules guiding traffic, the lack of explicit communication
-among agents and the unpredictability of human behavior. Existing approaches
-often result in robot motion that is hard to read, which causes unpredictable
-human reactions to which the robot in turn reacts to, contributing to an
-oscillatory joint behavior that hinders humans’ paths. We argue that the root of
-the problem lies in the failure from the robot’s part to convey consistently its
-intentions to human observers.&lt;/p&gt;
-
-&lt;p&gt;This project aims at developing an autonomous robotic system, capable of
-navigating crowded environments in a socially competent fashion. To this end, we
-develop novel models, algorithms, software and systems, which we plan on
-validating experimentally in real-world scenarios.&lt;/p&gt;
-
-&lt;p&gt;The main novelty of our approach lies in the development of a novel planning
-framework for closed-loop navigation in dynamic multi-agent workspaces. The core
-of the framework is a novel topological representation, based on braid groups,
-that models the collective behavior of multiple agents. Based on this
-representation and employing data-driven techniques, our algorithms generate
-motion plans that are consistent with the perceived context, thus resulting in
-socially competent robot behaviors that allow for smooth integration of mobile
-robots in crowded human environments. Our framework is inspired by insights from
-studies on pedestrian behavior and action interpretation and leverages the power
-of implicit communication to overcome the complications of the uncertainties
-induced by the imperfections of existing models of human decision making.&lt;/p&gt;
-
-&lt;p&gt;Our robot platform is a Suitable Technologies Beam Pro, equipped with on-board
-computation and an Occam Omni Stereo 360 RGBD camera, interfaced through ROS.&lt;/p&gt;
-</description>
+      <description>Despite the great progress in the field of robotic navigation over the past few decades, navigating a human environment remains a hard task for a robot, due to the lack of formal rules guiding traffic, the lack of explicit communication among agents and the unpredictability of human behavior. Existing approaches often result in robot motion that is hard to read, which causes unpredictable human reactions to which the robot in turn reacts to, contributing to an oscillatory joint behavior that hinders humans’ paths.</description>
+    </item>
+    
+    <item>
+      <title>Situated Gesture and Speech</title>
+      <link>https://rpal.cs.cornell.edu/data/gestures/</link>
+      <pubDate>Wed, 25 Jan 2017 20:09:23 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/data/gestures/</guid>
+      <description>As a part of our work on unfamiliar gesture recognition, we encountered a need for a large, high-quality dataset of situated gesture and speech &amp;mdash; gestures and speech used at the same time by the same person to describe the same things. Such a dataset is central to our approach to zero-shot learning for gesture understanding (Thomason and Knepper, 2016). As we were unable to find a large dataset of this type, we collected this dataset during 2016 and 2017.</description>
     </item>
     
     <item>
@@ -117,36 +81,8 @@ computation and an Occam Omni Stereo 360 RGBD camera, interfaced through ROS.&lt
       <pubDate>Wed, 25 Jan 2017 20:09:23 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/projects/gestures/</guid>
-      <description>&lt;p&gt;Human communication is highly multimodal, including speech, gesture, gaze, facial
-expressions, and body language. Robots serving as human teammates must act on such
-multimodal communicative inputs from humans, even when the message may not be
-clear from any single modality. In this paper, we explore a method for achieving increased
-understanding of complex, situated communications by leveraging coordinated
-natural language, gesture, and context.&lt;/p&gt;
-
-&lt;p&gt;Our work departs from the traditional model of gesture recognition in that the set of gestures it
-can recognize is not limited to the gestural lexicon used for its training. Even in simplified
-domains, naive classifiers can fail to recognize instances of trained gestures due to human
-gestural variability. Humans resort to gesture when speech is insufficient, such as due to
-inability to recall a word, inability to be heard, or inadequate time to formulate speech.
-For these reasons, gesture is prevalent in human discourse. Yet gestures defy attempts
-at canonical classification both due to variations within and among individuals and due
-to their subjective interpretations. We define the unfamiliar gesture understanding
-problem: given an observation of a previously unseen gesture (i.e. a gesture of a class
-not present in any training data given to the system), we wish to output a contextually
-reasonable description in natural language of the gesture’s intended meaning.&lt;/p&gt;
-
-&lt;p&gt;This problem is an instance of the machine learning problem of zero-shot learning,
-a burgeoning area of machine learning that seeks to classify data without having seen
-examples of its class in the training stage. Most prior work in the area makes
-use of a multimodal dataset to perform the zero-shot task. However, the zero-shot task
-has not yet been demonstrated for gestural data. In the related one-shot learning task,
-gesture understanding has been shown from only one example of a given class in the
-training stage. The primary drawback of such approaches is their reliance on
-a fixed lexicon of gestures. We remove this drawback by creating a novel multimodal
-embedding space using techniques from convolutional neural nets to handle variable
-length gestures and allow for the description of arbitrary unfamiliar gestural data.&lt;/p&gt;
-</description>
+      <description>Human communication is highly multimodal, including speech, gesture, gaze, facial expressions, and body language. Robots serving as human teammates must act on such multimodal communicative inputs from humans, even when the message may not be clear from any single modality. In this paper, we explore a method for achieving increased understanding of complex, situated communications by leveraging coordinated natural language, gesture, and context.
+Our work departs from the traditional model of gesture recognition in that the set of gestures it can recognize is not limited to the gestural lexicon used for its training.</description>
     </item>
     
     <item>
@@ -155,18 +91,7 @@ length gestures and allow for the description of arbitrary unfamiliar gestural d
       <pubDate>Wed, 25 Jan 2017 20:09:13 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/projects/blimp/</guid>
-      <description>&lt;p&gt;Primary objectives are to (1) build a control system that enables persistent autonomy. (2) Develop
-a power system that is capable of operating the blimp and processing hardware using attached solar
-panels. (3) Develop computer vision algorithms to support research efforts, scientific observations
-of natural phenomena, and path planning activity. A sensor package will be designed with
-collaborators at the International Livestock Research Institute in Kenya for prediction of drought.
-Other future applications include surveillance of remote territory and disaster monitoring. We hope
-this project will lead to further innovation in robotic independence as well as aid important
-conservation efforts.&lt;/p&gt;
-
-&lt;p&gt;This project is a collaboration of student researchers with a student-led project team. You can find
-more information about joining the project team &lt;a href=&#34;https://rpal.cs.cornell.edu/projects/blimp/splash/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Primary objectives are to (1) build a control system that enables persistent autonomy. (2) Develop a power system that is capable of operating the blimp and processing hardware using attached solar panels. (3) Develop computer vision algorithms to support research efforts, scientific observations of natural phenomena, and path planning activity. A sensor package will be designed with collaborators at the International Livestock Research Institute in Kenya for prediction of drought. Other future applications include surveillance of remote territory and disaster monitoring.</description>
     </item>
     
     <item>
@@ -175,8 +100,7 @@ more information about joining the project team &lt;a href=&#34;https://rpal.cs.
       <pubDate>Wed, 25 Jan 2017 16:12:51 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/people/ross/</guid>
-      <description>&lt;p&gt;Ross A. Knepper is an Assistant Professor in the Department of Computer Science at Cornell University. His research focuses on the theory, algorithms, and mechanisms of automated assembly and human-robot collaboration. Previously, Ross was a Research Scientist in the Distributed Robotics Lab at MIT. Ross received his M.S and Ph.D. degrees in Robotics from Carnegie Mellon University in 2007 and 2011. Before his graduate education, Ross worked in industry at Compaq, where he designed high-performance algorithms for scalable multiprocessor systems; and also in commercialization at the National Robotics Engineering Center, where he adapted robotics technologies for customers in government and industry. Ross has served as a volunteer for Interpretation at Death Valley National Park, California.&lt;/p&gt;
-</description>
+      <description>Ross A. Knepper is an Assistant Professor in the Department of Computer Science at Cornell University. His research focuses on the theory, algorithms, and mechanisms of automated assembly and human-robot collaboration. Previously, Ross was a Research Scientist in the Distributed Robotics Lab at MIT. Ross received his M.S and Ph.D. degrees in Robotics from Carnegie Mellon University in 2007 and 2011. Before his graduate education, Ross worked in industry at Compaq, where he designed high-performance algorithms for scalable multiprocessor systems; and also in commercialization at the National Robotics Engineering Center, where he adapted robotics technologies for customers in government and industry.</description>
     </item>
     
     <item>
@@ -185,10 +109,7 @@ more information about joining the project team &lt;a href=&#34;https://rpal.cs.
       <pubDate>Wed, 25 Jan 2017 00:25:59 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/about/</guid>
-      <description>&lt;p&gt;The Robotic Personal Assistants Lab is focused on advancing the state of the art in human-robot interaction,
-robotic manipulation, automated assembly, and multi-agent planning and coordination. We work on projects fusing
-theoretical advances with empirically assessed implementations.&lt;/p&gt;
-</description>
+      <description>The Robotic Personal Assistants Lab is focused on advancing the state of the art in human-robot interaction, robotic manipulation, automated assembly, and multi-agent planning and coordination. We work on projects fusing theoretical advances with empirically assessed implementations.</description>
     </item>
     
     <item>
@@ -197,8 +118,7 @@ theoretical advances with empirically assessed implementations.&lt;/p&gt;
       <pubDate>Wed, 25 Jan 2017 00:25:51 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/contact/</guid>
-      <description>&lt;div class=&#34;text-center&#34;&gt;Contact us via email at &lt;b&gt;rpal@cs.{our&amp;nbsp;university}.edu&lt;/b&gt;&lt;/div&gt;
-</description>
+      <description>Contact us via email at rpal@cs.{our&amp;nbsp;university}.edu </description>
     </item>
     
     <item>
@@ -207,30 +127,9 @@ theoretical advances with empirically assessed implementations.&lt;/p&gt;
       <pubDate>Tue, 24 Jan 2017 23:47:43 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/news/hri2017/</guid>
-      <description>&lt;p&gt;The paper &amp;ldquo;Implicit Communication in a Joint Action&amp;rdquo;, by &lt;a href=&#34;https://rpal.cs.cornell.edu/people/ross/&#34;&gt;Ross Knepper&lt;/a&gt;,
-&lt;a href=&#34;https://rpal.cs.cornell.edu/people/chris/&#34;&gt;Christoforos Mavrogiannis&lt;/a&gt;, &lt;a href=&#34;https://rpal.cs.cornell.edu/people/julia/&#34;&gt;Julia Proft&lt;/a&gt;,
-and &lt;a href=&#34;https://rpal.cs.cornell.edu/people/claire/&#34;&gt;Claire Liang&lt;/a&gt;, has been accepted to &lt;a href=&#34;http://humanrobotinteraction.org/2017/&#34;&gt;&lt;strong&gt;HRI
-2017&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;From the paper:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Actions performed in the context of a joint activity comprise two aspects: functional and
-communicative. The functional component achieves the goal of the action, whereas its
-communicative component, when present, expresses some information to the actor’s partners in the
-joint activity. The interpretation of such communication requires leveraging information that is
-public to all participants, known as common ground. Much of human communication is performed
-through this implicit mechanism, and humans cannot help but infer some meaning — whether or not
-it was intended by the actor — from most actions. Robots must be cognizant of how their actions
-will be interpreted in context. We present a framework for robots to utilize this communicative
-channel on top of normal functional actions to work more effectively with human partners. We
-consider the role of the actor and the observer, both individually and jointly, in implicit
-communication, as well as the effects of timing. We also show how the framework maps onto
-various modes of action, including natural language and motion. We consider these modes of
-action in various human-robot interaction domains, including social navigation and collaborative
-assembly.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <description>The paper &amp;ldquo;Implicit Communication in a Joint Action&amp;rdquo;, by Ross Knepper, Christoforos Mavrogiannis, Julia Proft, and Claire Liang, has been accepted to HRI 2017.
+From the paper:
+ Actions performed in the context of a joint activity comprise two aspects: functional and communicative. The functional component achieves the goal of the action, whereas its communicative component, when present, expresses some information to the actor’s partners in the joint activity. The interpretation of such communication requires leveraging information that is public to all participants, known as common ground.</description>
     </item>
     
     <item>
@@ -239,33 +138,9 @@ assembly.&lt;/p&gt;
       <pubDate>Tue, 20 Dec 2016 23:47:43 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/news/wafr2016/</guid>
-      <description>&lt;p&gt;The paper &lt;a href=&#34;http://wafr.org/papers/WAFR_2016_paper_117.pdf&#34;&gt;&amp;ldquo;Decentralized Multi-Agent Navigation Planning with
-Braids&amp;rdquo;&lt;/a&gt;, by &lt;a href=&#34;https://rpal.cs.cornell.edu/people/chris/&#34;&gt;Christoforos Mavrogiannis&lt;/a&gt; and &lt;a href=&#34;https://rpal.cs.cornell.edu/people/ross/&#34;&gt;Ross Knepper&lt;/a&gt;, was presented at &lt;a href=&#34;http://www.wafr.org/&#34;&gt;&lt;strong&gt;WAFR
-2016&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;From the paper:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;We present a novel planning framework for navigation in dynamic,
-multi-agent environments with no explicit communication among agents, such as
-pedestrian scenes. Inspired by the collaborative nature of human navigation, our
-approach treats the problem as a coordination game, in which players coordinate
-to avoid each other as they move towards their destinations. We explicitly encode
-the concept of coordination into the agents’ decision making process through a
-novel inference mechanism about future joint strategies of avoidance. We represent
-joint strategies as equivalence classes of topological trajectory patterns using
-the formalism of braids. This topological representation naturally generalizes to
-any number of agents and provides the advantage of adaptability to different environments,
-in contrast to the majority of existing approaches. At every round,
-the agents simultaneously decide on their next action that contributes collision-free
-progress towards their destination but also towards a global joint strategy
-that appears to be in compliance with all agents’ preferences, as inferred from
-their past behaviors. This policy leads to a smooth and rapid uncertainty decrease
-regarding the emerging joint strategy that is promising for real world scenarios.
-Simulation results highlight the importance of reasoning about joint strategies
-and demonstrate the efficacy of our approach.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <description>The paper &amp;ldquo;Decentralized Multi-Agent Navigation Planning with Braids&amp;rdquo;, by Christoforos Mavrogiannis and Ross Knepper, was presented at WAFR 2016.
+From the paper:
+ We present a novel planning framework for navigation in dynamic, multi-agent environments with no explicit communication among agents, such as pedestrian scenes. Inspired by the collaborative nature of human navigation, our approach treats the problem as a coordination game, in which players coordinate to avoid each other as they move towards their destinations.</description>
     </item>
     
     <item>
@@ -274,8 +149,7 @@ and demonstrate the efficacy of our approach.&lt;/p&gt;
       <pubDate>Wed, 26 Oct 2016 21:19:59 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/people/daryl/</guid>
-      <description>&lt;p&gt;Computer Science undergraduate interested in computer vision, machine learning and robotics.&lt;/p&gt;
-</description>
+      <description>Computer Science undergraduate interested in computer vision, machine learning and robotics.</description>
     </item>
     
     <item>
@@ -284,8 +158,62 @@ and demonstrate the efficacy of our approach.&lt;/p&gt;
       <pubDate>Sun, 21 Aug 2016 00:00:00 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/people/julia/</guid>
-      <description>&lt;p&gt;Julia is a first-year PhD student in computer science. Her research interests are in robotics and human-robot interaction, in particular developing shared-control algorithms that make robots easier to teleoperate and leverage the complementary strengths of the human operator and the robot. She also works part-time for the Anita Borg Institute, a non-profit organization dedicated to connecting, supporting, and inspiring women in technology.&lt;/p&gt;
-</description>
+      <description>Julia is a first-year PhD student in computer science. Her research interests are in robotics and human-robot interaction, in particular developing shared-control algorithms that make robots easier to teleoperate and leverage the complementary strengths of the human operator and the robot. She also works part-time for the Anita Borg Institute, a non-profit organization dedicated to connecting, supporting, and inspiring women in technology.</description>
+    </item>
+    
+    <item>
+      <title>Vitchyr Pong</title>
+      <link>https://rpal.cs.cornell.edu/people/vitchyr/</link>
+      <pubDate>Tue, 26 Jan 2016 21:20:10 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/people/vitchyr/</guid>
+      <description>Undergraduate in ECE and CS, moved on to a PhD at UC Berkeley.</description>
+    </item>
+    
+    <item>
+      <title>Alex Volkov</title>
+      <link>https://rpal.cs.cornell.edu/people/alex/</link>
+      <pubDate>Tue, 26 Jan 2016 21:19:52 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/people/alex/</guid>
+      <description>ECE undergraduate, moved on to a Master&amp;rsquo;s at the CMU Robotics Institute.</description>
+    </item>
+    
+    <item>
+      <title>Wil Thomason</title>
+      <link>https://rpal.cs.cornell.edu/people/wil/</link>
+      <pubDate>Sun, 25 Jan 2015 16:12:51 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/people/wil/</guid>
+      <description>Wil is a second-year PhD student in computer science. He is interested in a broad range of topics in robotics and CS, including multi-agent planning, human-robot interaction (with a particular focus on language and gesture understanding), and machine learning for robotics.</description>
+    </item>
+    
+    <item>
+      <title>Minae Kwon</title>
+      <link>https://rpal.cs.cornell.edu/people/minae/</link>
+      <pubDate>Sun, 26 Jan 2014 21:20:05 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/people/minae/</guid>
+      <description>I’m interested in facilitating collaboration between robots and humans by computationally expressing findings from social and cognitive psychology to model human behavior and appropriately design robot behavior. Currently, I am working on how humans form expectations of social robots and how we can help people form more accurate mental models of them. When not doing research, I enjoy debating (competitively), watching movies, and traveling.</description>
+    </item>
+    
+    <item>
+      <title>Christoforos Mavrogiannis</title>
+      <link>https://rpal.cs.cornell.edu/people/chris/</link>
+      <pubDate>Sat, 25 Jan 2014 15:50:27 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/people/chris/</guid>
+      <description>Christoforos received a Diploma in Mechanical Engineering from the National Technical University of Athens, Greece in 2013. He is currently a PhD candidate in the Sibley School of Mechanical and Aerospace Engineering. His PhD research is focused on the design of navigation planning algorithms for robots operating in crowded environments. Inspired by insights from cognitive science and psychology, he employs tools from topology, motion planning and machine learning to address the problem of generating socially competent robot behaviors in pedestrian environments.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rpal.cs.cornell.edu/projects/blimp/splash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/projects/blimp/splash/</guid>
+      <description>Who We Are: We are a project team working to build an autonomous blimp capable of long-term independent flight. Our team is primarily student run under the advisement of Professor Ross Knepper. The team is organized into 3 primary sub-teams: hardware, simulation, and software. Areas of interest are high-level motion planning, circuit design, sensor fusion, dynamics modeling, power system design, and computer vision.
+What We’re Looking For: At this time we’re looking for students of all levels with interest and experience in any of the following areas:</description>
     </item>
     
   </channel>
