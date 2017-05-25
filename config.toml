@@ -40,3 +40,13 @@ pluralizelisttitles = false
     name = "Contact"
     url = "/contact/"
     weight = 6
+
+[[menu.main]]
+    name = "Code"
+    url = "https://github.com/cornell-rpal"
+    weight = 7
+
+[[menu.main]]
+    name = "Data"
+    url = "/data/"
+    weight = 8
