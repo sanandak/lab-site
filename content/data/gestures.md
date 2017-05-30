@@ -39,6 +39,15 @@ unfortunately not available for all trials.
 
 # Examples
 
+&nbsp; | **"Fold the two sides together like this"** | &nbsp;
+--------|----------|---------
+![Frame 1](/img/frame1.png)|![Frame 2](/img/frame2.png)|![Frame 3](/img/frame3.png)
+
+
+&nbsp; | **"Grab the corner and pull apart"** | &nbsp;
+--------|----------|---------
+![Frame 1](/img/frame1a.png)|![Frame 2](/img/frame2a.png)|![Frame 3](/img/frame3a.png)
+
 # Data Download
 
 You can download various forms of the dataset below.
@@ -54,4 +63,9 @@ You can download the raw data [here](/data/gestures/raw.tar.gz).
 
 # Data Tools
 
-Tools for working with the dataset will be forthcoming!
+**Visualization:** 
+[nite-skeleton-visualizer](https://github.com/Cornell-RPAL/nite-skeleton-visualizer)
+
+**Gesture Segmentation:** Forthcoming!
+
+**Audio Alignment:** Forthcoming!
