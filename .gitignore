@@ -2,6 +2,7 @@
 sites/*/*settings*.php
 
 # Ignore paths that contain generated content.
+public/
 files/
 sites/*/files
 sites/*/private
@@ -40,3 +41,5 @@ ssh/id_rsa*
 
 # macOS attribute store file
 .DS_Store
+
+*~

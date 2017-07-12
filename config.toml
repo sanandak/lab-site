@@ -1,12 +1,16 @@
-title = "Cornell RPAL"
-baseurl = "https://rpal.cs.cornell.edu/"
+title = "PSICE"
+baseurl = "http://www.psice.psu.edu/"
 languageCode = "en-us"
 theme = "ghostwriter"
 pluralizelisttitles = false
 
 [Params]
     intro = true
-    headline = "Robotic Personal Assistants Lab"
+    headline = "Ice and Climate (PSICE)"
+    twitter="//twitter.com/psice280"
+    gitlab="http://git.psu.edu/psice"
+    github="http://github.com/sanandak"
+    email="psice@psu.edu"
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
@@ -43,7 +47,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name = "Code"
-    url = "https://github.com/cornell-rpal"
+    url = "https://github.com/sanandak"
     weight = 7
 
 [[menu.main]]

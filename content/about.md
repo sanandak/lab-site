@@ -8,6 +8,4 @@ type = "about"
 
 +++
 
-The Robotic Personal Assistants Lab is focused on advancing the state of the art in human-robot interaction,
-robotic manipulation, automated assembly, and multi-agent planning and coordination. We work on projects fusing
-theoretical advances with empirically assessed implementations.
+Penn State Ice and Climate is an interdisciplinary group of researchers from across the university dedicated to a better understanding of the cryosphere.

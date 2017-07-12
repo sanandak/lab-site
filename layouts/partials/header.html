@@ -24,8 +24,13 @@
   <body>
     {{ template "_internal/google_analytics.html" . }}
 
+    <div>
+      <a href="http://www.psu.edu" style="display:inline-block; z-index:1;" onClick="window.location.href='http://google.at';"><object type="image/svg+xml" style="float:left; margin-top:0px; margin-left:10px; display:block;" data="{{ .Site.BaseURL }}img/logo.svg" width="200px"></object></a>
+      <h1 class="page-title" itemprop="name" style="z-index: -1; pointer-events: none; position:relative;text-align:center;margin-top:10px;">{{ .Site.Params.headline }}</h1>
+    </div>
+    
     <div id="wrapper">
-      <header class="site-header">
+      <header class="site-header" style="padding-top:0px;">
         <div class="container">
           <div class="site-title-wrapper">
             {{ with .Site.Params.twitter }}
@@ -71,14 +76,7 @@
       <div id="container">
         <div id="post-index" class="container" itemscope="" itemtype="https://schema.org/Blog">
           <header class="page-header">
-            <a href={{ .Site.BaseURL }} class="svg-wrapper">
-              <span class="site-logo">
-                <object type="image/svg+xml" data="{{ .Site.BaseURL }}img/logo.svg"></object>
-              </span>
-            </a>
-            <a href={{ .Site.BaseURL }}>
-              <h1 class="page-title" itemprop="name">{{ .Site.Params.headline }}</h1>
-            </a>
+
             <p>{{ .Site.Params.description }}</p>
             <ul class="site-nav">
               {{ partial "navigation.html" . }}

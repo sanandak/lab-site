@@ -1,0 +1,13 @@
+#+TITLE: Migrating To Hugo
+#+DATE: 2017-07-12T09:43:29-04:00
+#+DESCRIPTION: Migrating the PSICE website from Weebly to Hugo
+#+SLUG: migrating-to-hugo
+#+BANNER: 
+#+CATEGORIES: software
+#+TAGS: hugo
+#+DRAFT: false
+
+I am moving the PSICE site to a [[http://gohugo.io][Hugo]]-based system.  Hugo is a
+so-called "Static Site Generator" in which one writes the content as a
+text file and Hugo generates the HTML code to put on the server. 
+

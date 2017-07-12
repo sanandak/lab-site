@@ -3,25 +3,17 @@
 <div id="post-index" class="body-container">
   <h1 class="post-title"> People </h1>
 
-  <h2 class="section-title"> Principal Investigator </h2>
+  <h2 class="section-title"> Staff & Faculty </h2>
   <ol class="post-list">
     {{ $pag := where .Data.Pages "Type" "pi" }}
-    {{ range $pag }}
+    {{ range ($pag.ByParam "lastname") }}
     {{ partial "people-stub.html" . }}
     {{ end }}
   </ol>
 
-  <h2 class="section-title"> PhD Students </h2>
+  <h2 class="section-title"> Graduate Students </h2>
   <ol class="post-list">
-    {{ $pag := where .Data.Pages "Type" "phd" }}
-    {{ range sort $pag ".Title" }}
-    {{ partial "people-stub.html" . }}
-    {{ end }}
-  </ol>
-
-  <h2 class="section-title"> Masters Students </h2>
-  <ol class="post-list">
-    {{ $pag := where .Data.Pages "Type" "ms" }}
+    {{ $pag := where .Data.Pages "Type" "grad" }}
     {{ range sort $pag ".Title" }}
     {{ partial "people-stub.html" . }}
     {{ end }}
@@ -35,7 +27,7 @@
     {{ end }}
   </ol>
 
-  <h2 class="section-title"> Lab Alumni </h2>
+  <h2 class="section-title"> PSICE Alumni </h2>
   <ol class="post-list">
     {{ $pag := where .Data.Pages "Type" "alumni" }}
     {{ range sort $pag ".Title" }}

@@ -115,7 +115,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .site-title { float: left; font-size: 14px; font-weight: 600; margin: 0; text-transform: uppercase; }
 .site-title a { float: left; background: #b31b1b; color: #fefefe; padding: 5px 10px 6px; }
 .site-title a:hover { background: #303030; }
-.site-logo { line-height: .75; display: block; margin: auto; }
+.site-logo { line-height: 1.5; display: block; margin: auto; }
 .site-nav { list-style: none; margin: 28px 0 10px; padding: 0; }
 .site-nav-item { display: inline-block; font-size: 14px; font-weight: 700; margin: 0 10px; }
 .site-nav-item a:hover { color: #424242; }

@@ -2,7 +2,13 @@
   <a href="{{ .Permalink }}" itemprop="url">
     <h4 class="post-stub-title" itemprop="name">{{ .Title }}</h4>
     {{ if .Params.Image }}
-    <img class="right-content" src={{ .Site.BaseURL }}img/{{ .Params.Image }}>
+    <div>
+      <img class="right-content" style="margin-left: 10px;" src={{ .Site.BaseURL }}img/{{ .Params.Image }}>
+      <div style="font-size:small; width: 150px; margin-left:10px; text-align:right; display:inline-block; float:right;">
+	{{ if .Params.Position }}{{ .Params.Position }}<br>{{end}}
+	{{ if .Params.Room }}{{ .Params.Room }}<br>{{end}}
+	<span style="font-family:monospace;">{{ if .Params.Email }}email: {{ .Params.Email }}<br>{{end}}</span>
+    </div>
     {{ end }}
     {{ .Content }}
   </a>
