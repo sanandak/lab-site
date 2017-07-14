@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data on PSICE</title>
+    <link>http://sanandak.github.io/data/</link>
+    <description>Recent content in Data on PSICE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jan 2017 20:09:23 -0500</lastBuildDate>
+    
+	<atom:link href="http://sanandak.github.io/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Situated Gesture and Speech</title>
+      <link>http://sanandak.github.io/data/gestures/</link>
+      <pubDate>Wed, 25 Jan 2017 20:09:23 -0500</pubDate>
+      
+      <guid>http://sanandak.github.io/data/gestures/</guid>
+      <description>As a part of our work on unfamiliar gesture recognition, we encountered a need for a large, high-quality dataset of situated gesture and speech &amp;mdash; gestures and speech used at the same time by the same person to describe the same things. Such a dataset is central to our approach to zero-shot learning for gesture understanding (Thomason and Knepper, 2016). As we were unable to find a large dataset of this type, we collected this dataset during 2016 and 2017.</description>
+    </item>
+    
+  </channel>
+</rss>

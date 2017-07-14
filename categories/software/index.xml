@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on PSICE</title>
+    <link>http://sanandak.github.io/categories/software/</link>
+    <description>Recent content in Software on PSICE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jul 2017 09:43:29 -0400</lastBuildDate>
+    
+	<atom:link href="http://sanandak.github.io/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Migrating To Hugo</title>
+      <link>http://sanandak.github.io/news/migrating-to-hugo/</link>
+      <pubDate>Wed, 12 Jul 2017 09:43:29 -0400</pubDate>
+      
+      <guid>http://sanandak.github.io/news/migrating-to-hugo/</guid>
+      <description>I am moving the PSICE site to a Hugo-based system. Hugo is a so-called &#34;Static Site Generator&#34; in which one writes the content as a text file and Hugo generates the HTML code to put on the server. A reference to another page on the website is thus: Sridhar Anandakrishnan.</description>
+    </item>
+    
+  </channel>
+</rss>

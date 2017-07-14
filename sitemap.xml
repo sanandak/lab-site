@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://sanandak.github.io/pubs/2017/</loc>
+    <lastmod>2017-07-15T00:25:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/pubs/2016/</loc>
+    <lastmod>2017-07-14T00:25:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/people/don-voigt/</loc>
+    <lastmod>2017-07-12T16:37:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/people/maeva-pourpoint/</loc>
+    <lastmod>2017-07-12T16:35:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/people/emily-schwans/</loc>
+    <lastmod>2017-07-12T16:33:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/people/david-pollard/</loc>
+    <lastmod>2017-07-12T16:03:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/people/byron-parizek/</loc>
+    <lastmod>2017-07-12T15:59:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/people/brad/</loc>
+    <lastmod>2017-07-12T15:18:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/news/migrating-to-hugo/</loc>
+    <lastmod>2017-07-12T09:43:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/projects/social_nav/</loc>
+    <lastmod>2017-01-25T20:09:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/data/gestures/</loc>
+    <lastmod>2017-01-25T20:09:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/projects/gestures/</loc>
+    <lastmod>2017-01-25T20:09:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/projects/blimp/</loc>
+    <lastmod>2017-01-25T20:09:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/people/richard/</loc>
+    <lastmod>2017-01-25T16:12:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/people/sridhar/</loc>
+    <lastmod>2017-01-25T16:12:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/about/</loc>
+    <lastmod>2017-01-25T00:25:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/contact/</loc>
+    <lastmod>2017-01-25T00:25:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/projects/blimp/splash/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/data/</loc>
+    <lastmod>2017-01-25T20:09:23-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/tags/hugo/</loc>
+    <lastmod>2017-07-12T09:43:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/news/</loc>
+    <lastmod>2017-07-12T09:43:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/</loc>
+    <lastmod>2017-07-15T00:25:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/people/</loc>
+    <lastmod>2017-07-12T16:37:07-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/tags/people/</loc>
+    <lastmod>2017-07-12T16:37:07-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/projects/</loc>
+    <lastmod>2017-01-25T20:09:33-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/pubs/</loc>
+    <lastmod>2017-07-15T00:25:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/categories/software/</loc>
+    <lastmod>2017-07-12T09:43:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sanandak.github.io/tags/</loc>
+    <lastmod>2017-07-12T09:43:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
