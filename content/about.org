@@ -1,0 +1,28 @@
+#+DATE: 2017-01-25T00:25:59-05:00
+#+TITLE: About PSICE
+#+TAGS: 
+#+AUTHOR: 
+#+DESCRIPTION: Who we are and what we do
+#+TYPE: about
+
+Penn State Ice and Climate is an interdisciplinary group of
+researchers from across the university dedicated to a better
+understanding of the cryosphere.  We are a part of the
+[[http://eesi.psu.edu][Earth and Environmental Sciences Institute]], with members from the
+Departments of [[http://www.geosc.psu.edu][Geosciences]], [[http://www.ee.psu.edu][Electrical Engineering]], [[http://meteo.psu.edu][Meteorology]], and
+others. 
+
+Our mission is the educate the next generation of cryosphere
+scientists and  inform the public and other stakeholders in climate
+issues.  
+Our research mission is to develop the tools and theoretical
+framework to better project how climate change will affect ice sheets.
+and .
+
+
+  - Background information on climate change from the  [[https://www.nsf.gov/news/special_reports/climate/ice_background.jsp][NSF]] and from [[http://climate.nasa.gov][NASA]].
+  - ... and from the [[http://nas-sites.org/americasclimatechoices/events/a-discussion-on-climate-change-evidence-and-causes/][National Academy]] and the [[https://royalsociety.org/topics-policy/projects/climate-change-evidence-causes/][Royal Society]].
+  - [[http://www.sciencemag.org/news/2015/11/just-nudge-could-collapse-west-antarctic-ice-sheet-raise-sea-levels-3-meters][Science Magazine]] on threat of sea level from Thwaites Glacier in Antarctica.
+  - Research shows that [[http://blogs.agu.org/geospace/2017/04/26/sea-level-rising-faster-now-1990s-new-study-shows/][sea level]] is rising faster than in the 1990s.
+  - And a story in Rolling Stone on [[http://www.rollingstone.com/politics/features/the-doomsday-glacier-w481260][The Doomsday Glacier]] (Thwaites Glacier).
+
