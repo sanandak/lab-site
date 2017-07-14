@@ -6,10 +6,19 @@
     <description>Recent content in Tags on PSICE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jul 2017 09:43:29 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jan 2017 00:25:59 -0500</lastBuildDate>
     
 	<atom:link href="https://sanandak.github.io/lab-site/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://sanandak.github.io/lab-site/tags/</link>
+      <pubDate>Wed, 25 Jan 2017 00:25:59 -0500</pubDate>
+      
+      <guid>https://sanandak.github.io/lab-site/tags/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hugo</title>
