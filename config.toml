@@ -1,5 +1,5 @@
 title = "PSICE"
-baseurl = "http://www.psice.psu.edu/"
+baseurl = "http://sanandak.github.io/"
 languageCode = "en-us"
 theme = "ghostwriter"
 pluralizelisttitles = false
@@ -31,11 +31,6 @@ pluralizelisttitles = false
     weight = 3
 
 [[menu.main]]
-    name = "Research"
-    url = "/research/"
-    weight = 4
-
-[[menu.main]]
     name = "People"
     url = "/people/"
     weight = 5
@@ -46,11 +41,7 @@ pluralizelisttitles = false
     weight = 6
 
 [[menu.main]]
-    name = "Code"
-    url = "https://github.com/sanandak"
-    weight = 7
+    name = "Publications"
+    url = "/pubs/"
+    weight = 4
 
-[[menu.main]]
-    name = "Data"
-    url = "/data/"
-    weight = 8

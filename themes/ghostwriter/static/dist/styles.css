@@ -11,7 +11,7 @@ a { background-color: transparent; -webkit-text-decoration-skip: objects; }
 a:active, a:hover { outline-width: 0; }
 abbr[title] { border-bottom: none; text-decoration: underline; text-decoration: underline dotted; }
 b, strong { font-weight: inherit; }
-b, strong { font-weight: bolder; }
+b, strong { font-weight: bold; }
 code, kbd, samp { font-family: monospace, monospace; font-size: 1em; }
 dfn { font-style: italic; }
 mark { background-color: #ff0; color: #000; }
@@ -251,3 +251,8 @@ a.news-post { padding: 15px 20px; margin: 0 -20px; }
 a.news-post > h4 { margin: 0; }
 .news-detail { padding-bottom: 30px; }
 .text-center { text-align: center; }
+
+div.pubs p {line-height: 1.4;}
+
+a.svg { position: relative; display: inline-block;}
+a.svg:after {content:""; position:absolute; top:0; right:0; left:0; bottom:0;}

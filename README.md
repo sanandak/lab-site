@@ -1,4 +1,6 @@
-# The main RPAL external website
+# The main PSICE external website
+
+(this was copied from the RPAL setup)
 
 This repository holds the source and generated files for the lab's primary world-facing website.
 All lab members are encouraged to modify the sections of the site relevant to themselves and their
