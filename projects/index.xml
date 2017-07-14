@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on PSICE</title>
-    <link>http://sanandak.github.io/projects/</link>
+    <link>http://sanandak.github.io/lab-site/projects/</link>
     <description>Recent content in Projects on PSICE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Jan 2017 20:09:33 -0500</lastBuildDate>
     
-	<atom:link href="http://sanandak.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sanandak.github.io/lab-site/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Social Navigation</title>
-      <link>http://sanandak.github.io/projects/social_nav/</link>
+      <link>http://sanandak.github.io/lab-site/projects/social_nav/</link>
       <pubDate>Wed, 25 Jan 2017 20:09:33 -0500</pubDate>
       
-      <guid>http://sanandak.github.io/projects/social_nav/</guid>
+      <guid>http://sanandak.github.io/lab-site/projects/social_nav/</guid>
       <description>Despite the great progress in the field of robotic navigation over the past few decades, navigating a human environment remains a hard task for a robot, due to the lack of formal rules guiding traffic, the lack of explicit communication among agents and the unpredictability of human behavior. Existing approaches often result in robot motion that is hard to read, which causes unpredictable human reactions to which the robot in turn reacts to, contributing to an oscillatory joint behavior that hinders humans’ paths.</description>
     </item>
     
     <item>
       <title>Unfamiliar Gestures</title>
-      <link>http://sanandak.github.io/projects/gestures/</link>
+      <link>http://sanandak.github.io/lab-site/projects/gestures/</link>
       <pubDate>Wed, 25 Jan 2017 20:09:23 -0500</pubDate>
       
-      <guid>http://sanandak.github.io/projects/gestures/</guid>
+      <guid>http://sanandak.github.io/lab-site/projects/gestures/</guid>
       <description>Human communication is highly multimodal, including speech, gesture, gaze, facial expressions, and body language. Robots serving as human teammates must act on such multimodal communicative inputs from humans, even when the message may not be clear from any single modality. In this paper, we explore a method for achieving increased understanding of complex, situated communications by leveraging coordinated natural language, gesture, and context.
 Our work departs from the traditional model of gesture recognition in that the set of gestures it can recognize is not limited to the gestural lexicon used for its training.</description>
     </item>
     
     <item>
       <title>Solar Airship</title>
-      <link>http://sanandak.github.io/projects/blimp/</link>
+      <link>http://sanandak.github.io/lab-site/projects/blimp/</link>
       <pubDate>Wed, 25 Jan 2017 20:09:13 -0500</pubDate>
       
-      <guid>http://sanandak.github.io/projects/blimp/</guid>
+      <guid>http://sanandak.github.io/lab-site/projects/blimp/</guid>
       <description>Primary objectives are to (1) build a control system that enables persistent autonomy. (2) Develop a power system that is capable of operating the blimp and processing hardware using attached solar panels. (3) Develop computer vision algorithms to support research efforts, scientific observations of natural phenomena, and path planning activity. A sensor package will be designed with collaborators at the International Livestock Research Institute in Kenya for prediction of drought. Other future applications include surveillance of remote territory and disaster monitoring.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://sanandak.github.io/projects/blimp/splash/</link>
+      <link>http://sanandak.github.io/lab-site/projects/blimp/splash/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sanandak.github.io/projects/blimp/splash/</guid>
+      <guid>http://sanandak.github.io/lab-site/projects/blimp/splash/</guid>
       <description>Who We Are: We are a project team working to build an autonomous blimp capable of long-term independent flight. Our team is primarily student run under the advisement of Professor Ross Knepper. The team is organized into 3 primary sub-teams: hardware, simulation, and software. Areas of interest are high-level motion planning, circuit design, sensor fusion, dynamics modeling, power system design, and computer vision.
 What We’re Looking For: At this time we’re looking for students of all levels with interest and experience in any of the following areas:</description>
     </item>

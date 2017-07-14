@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on PSICE</title>
-    <link>http://sanandak.github.io/tags/</link>
+    <link>http://sanandak.github.io/lab-site/tags/</link>
     <description>Recent content in Tags on PSICE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Jul 2017 09:43:29 -0400</lastBuildDate>
     
-	<atom:link href="http://sanandak.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sanandak.github.io/lab-site/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo</title>
-      <link>http://sanandak.github.io/tags/hugo/</link>
+      <link>http://sanandak.github.io/lab-site/tags/hugo/</link>
       <pubDate>Wed, 12 Jul 2017 09:43:29 -0400</pubDate>
       
-      <guid>http://sanandak.github.io/tags/hugo/</guid>
+      <guid>http://sanandak.github.io/lab-site/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>http://sanandak.github.io/tags/people/</link>
+      <link>http://sanandak.github.io/lab-site/tags/people/</link>
       <pubDate>Wed, 12 Jul 2017 16:37:07 -0400</pubDate>
       
-      <guid>http://sanandak.github.io/tags/people/</guid>
+      <guid>http://sanandak.github.io/lab-site/tags/people/</guid>
       <description></description>
     </item>
     
