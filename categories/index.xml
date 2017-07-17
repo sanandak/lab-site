@@ -6,14 +6,24 @@
     <description>Recent content in Categories on PSICE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jul 2017 17:11:10 -0400</lastBuildDate>
     
 	<atom:link href="https://sanandak.github.io/lab-site/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title></title>
+      <link>https://sanandak.github.io/lab-site/categories/</link>
+      <pubDate>Sun, 16 Jul 2017 17:11:10 -0400</pubDate>
+      
+      <guid>https://sanandak.github.io/lab-site/categories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Software</title>
       <link>https://sanandak.github.io/lab-site/categories/software/</link>
-      <pubDate>Wed, 12 Jul 2017 09:43:29 -0400</pubDate>
+      <pubDate>Mon, 17 Jul 2017 13:45:25 -0400</pubDate>
       
       <guid>https://sanandak.github.io/lab-site/categories/software/</guid>
       <description></description>

@@ -6,10 +6,40 @@
     <description>Recent content on PSICE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jul 2017 00:25:51 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jul 2017 13:45:25 -0400</lastBuildDate>
     
 	<atom:link href="https://sanandak.github.io/lab-site/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo Pages (Part 2)</title>
+      <link>https://sanandak.github.io/lab-site/news/hugo-pages/</link>
+      <pubDate>Mon, 17 Jul 2017 13:45:25 -0400</pubDate>
+      
+      <guid>https://sanandak.github.io/lab-site/news/hugo-pages/</guid>
+      <description>See Part One of the Hugo series
+(alternatively, scroll to the bottom of the page and click on the Tagged: hugo link, which will show all the pages tagged hugo).
+Sections Each file or directory in /content is section. To customize the content, place a file in /layouts/section. The default for this theme (in the absence of a file in /layouts/section) is to simply make a list of all the pages in a directory.</description>
+    </item>
+    
+    <item>
+      <title>GMT</title>
+      <link>https://sanandak.github.io/lab-site/news/gmt/</link>
+      <pubDate>Sun, 16 Jul 2017 17:11:10 -0400</pubDate>
+      
+      <guid>https://sanandak.github.io/lab-site/news/gmt/</guid>
+      <description>Added a GMT script for Antarctic mapping 2poles plot along with some notes.</description>
+    </item>
+    
+    <item>
+      <title>GMT files</title>
+      <link>https://sanandak.github.io/lab-site/data/gmt/</link>
+      <pubDate>Sun, 16 Jul 2017 08:00:00 -0400</pubDate>
+      
+      <guid>https://sanandak.github.io/lab-site/data/gmt/</guid>
+      <description>The outline of the major ice shelves in Antarctica is missing from the GMT datasets. I have included them and made them available in add.tar.gz and greenland.dat.gz.
+For example, here is figure showing the Antarctic and Greenland ice sheets (the GMT bash script to generate this figure is 2poles.gmt here.  # ... some set up not shown # draw the world pscoast -R0/360/-90/90 -JG-75/41/4.5i -B45/30 -Dc -A10000 \ -G100/100/100 -X7c -Y10c -K -O &amp;gt;&amp;gt;$out gunzip -c greenland.</description>
+    </item>
     
     <item>
       <title>Some of our 2017 publications...</title>
@@ -25,10 +55,10 @@ Luthra, T., L. E. Peters, S.</description>
     <item>
       <title>Images of Glaciers</title>
       <link>https://sanandak.github.io/lab-site/projects/photos/</link>
-      <pubDate>Fri, 14 Jul 2017 15:45:22 -0400</pubDate>
+      <pubDate>Fri, 14 Jul 2017 16:07:30 -0400</pubDate>
       
       <guid>https://sanandak.github.io/lab-site/projects/photos/</guid>
-      <description>Here is a photo of the massive crack that eventually led to the formation of the massive iceberg that broke off from the Larsen C Ice Shelf:  Larsen C   </description>
+      <description>Photo of crack in the Larsen C Ice Shelf (credit: NASA):  </description>
     </item>
     
     <item>
@@ -97,49 +127,14 @@ Heeszel, D. S., D. A. Wiens, S.</description>
     </item>
     
     <item>
-      <title>Migrating To Hugo</title>
+      <title>Migrating To Hugo (Part 1)</title>
       <link>https://sanandak.github.io/lab-site/news/migrating-to-hugo/</link>
       <pubDate>Wed, 12 Jul 2017 09:43:29 -0400</pubDate>
       
       <guid>https://sanandak.github.io/lab-site/news/migrating-to-hugo/</guid>
-      <description>I am moving the PSICE site to a Hugo-based system. Hugo is a so-called &#34;Static Site Generator&#34; in which one writes the content as a text file and Hugo generates the HTML code to put on the server. A reference to another page on the website is thus: Sridhar Anandakrishnan.</description>
-    </item>
-    
-    <item>
-      <title>Social Navigation</title>
-      <link>https://sanandak.github.io/lab-site/projects/social_nav/</link>
-      <pubDate>Wed, 25 Jan 2017 20:09:33 -0500</pubDate>
-      
-      <guid>https://sanandak.github.io/lab-site/projects/social_nav/</guid>
-      <description>Despite the great progress in the field of robotic navigation over the past few decades, navigating a human environment remains a hard task for a robot, due to the lack of formal rules guiding traffic, the lack of explicit communication among agents and the unpredictability of human behavior. Existing approaches often result in robot motion that is hard to read, which causes unpredictable human reactions to which the robot in turn reacts to, contributing to an oscillatory joint behavior that hinders humans’ paths.</description>
-    </item>
-    
-    <item>
-      <title>Situated Gesture and Speech</title>
-      <link>https://sanandak.github.io/lab-site/data/gestures/</link>
-      <pubDate>Wed, 25 Jan 2017 20:09:23 -0500</pubDate>
-      
-      <guid>https://sanandak.github.io/lab-site/data/gestures/</guid>
-      <description>As a part of our work on unfamiliar gesture recognition, we encountered a need for a large, high-quality dataset of situated gesture and speech &amp;mdash; gestures and speech used at the same time by the same person to describe the same things. Such a dataset is central to our approach to zero-shot learning for gesture understanding (Thomason and Knepper, 2016). As we were unable to find a large dataset of this type, we collected this dataset during 2016 and 2017.</description>
-    </item>
-    
-    <item>
-      <title>Unfamiliar Gestures</title>
-      <link>https://sanandak.github.io/lab-site/projects/gestures/</link>
-      <pubDate>Wed, 25 Jan 2017 20:09:23 -0500</pubDate>
-      
-      <guid>https://sanandak.github.io/lab-site/projects/gestures/</guid>
-      <description>Human communication is highly multimodal, including speech, gesture, gaze, facial expressions, and body language. Robots serving as human teammates must act on such multimodal communicative inputs from humans, even when the message may not be clear from any single modality. In this paper, we explore a method for achieving increased understanding of complex, situated communications by leveraging coordinated natural language, gesture, and context.
-Our work departs from the traditional model of gesture recognition in that the set of gestures it can recognize is not limited to the gestural lexicon used for its training.</description>
-    </item>
-    
-    <item>
-      <title>Solar Airship</title>
-      <link>https://sanandak.github.io/lab-site/projects/blimp/</link>
-      <pubDate>Wed, 25 Jan 2017 20:09:13 -0500</pubDate>
-      
-      <guid>https://sanandak.github.io/lab-site/projects/blimp/</guid>
-      <description>Primary objectives are to (1) build a control system that enables persistent autonomy. (2) Develop a power system that is capable of operating the blimp and processing hardware using attached solar panels. (3) Develop computer vision algorithms to support research efforts, scientific observations of natural phenomena, and path planning activity. A sensor package will be designed with collaborators at the International Livestock Research Institute in Kenya for prediction of drought. Other future applications include surveillance of remote territory and disaster monitoring.</description>
+      <description>I am moving the PSICE site to a Hugo-based system. Hugo is a so-called &#34;Static Site Generator&#34; in which one writes the content as a text file and Hugo generates the HTML code to put on the server.
+Overview of the pages generated by Hugo The theme is stolen from RPAL at Cornell, who have kindly shared their setup. The look is driven by config.toml.
+## config.toml title = &amp;quot;PSICE&amp;quot; baseurl = &amp;quot;https://sanandak.</description>
     </item>
     
     <item>
@@ -167,26 +162,18 @@ Our work departs from the traditional model of gesture recognition in that the s
       
       <guid>https://sanandak.github.io/lab-site/about/</guid>
       <description>Penn State Ice and Climate is an interdisciplinary group of researchers from across the university dedicated to a better understanding of the cryosphere. We are a part of the Earth and Environmental Sciences Institute, with members from the Departments of Geosciences, Electrical Engineering, Meteorology, and others.
-Our mission is the educate the next generation of cryosphere scientists and inform the public and other stakeholders in climate issues. Our research mission is to develop the tools and theoretical framework to better project how climate change will affect ice sheets.</description>
+Our mission is the educate the next generation of cryosphere scientists and inform the public and other stakeholders on climate issues. Our research mission is to develop the tools and theoretical framework to better project how climate change will affect ice sheets.</description>
     </item>
     
     <item>
       <title>Contact Information</title>
       <link>https://sanandak.github.io/lab-site/contact/</link>
-      <pubDate>Wed, 25 Jan 2017 00:25:51 -0500</pubDate>
-      
-      <guid>https://sanandak.github.io/lab-site/contact/</guid>
-      <description>Contact us via email at psice@psu.edu</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://sanandak.github.io/lab-site/projects/blimp/splash/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sanandak.github.io/lab-site/projects/blimp/splash/</guid>
-      <description>Who We Are: We are a project team working to build an autonomous blimp capable of long-term independent flight. Our team is primarily student run under the advisement of Professor Ross Knepper. The team is organized into 3 primary sub-teams: hardware, simulation, and software. Areas of interest are high-level motion planning, circuit design, sensor fusion, dynamics modeling, power system design, and computer vision.
-What We’re Looking For: At this time we’re looking for students of all levels with interest and experience in any of the following areas:</description>
+      <guid>https://sanandak.github.io/lab-site/contact/</guid>
+      <description>Contact us via email at psice@psu.edu
+Here is a photo of the massive crack that eventually led to the formation of the massive iceberg that broke off from the Larsen C Ice Shelf:  Larsen C   credit: NASA
+----</description>
     </item>
     
   </channel>

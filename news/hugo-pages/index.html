@@ -3,9 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>PSICE &middot; </title>
-    <meta name="description" content="Who We Are: We are a project team working to build an autonomous blimp capable of long-term independent flight. Our team is primarily student run under the advisement of Professor Ross Knepper. The team is organized into 3 primary sub-teams: hardware, simulation, and software. Areas of interest are high-level motion planning, circuit design, sensor fusion, dynamics modeling, power system design, and computer vision.
-What We’re Looking For: At this time we’re looking for students of all levels with interest and experience in any of the following areas:">
+    <title>PSICE &middot; Hugo Pages (Part 2)</title>
+    <meta name="description" content="How the sections are generated ">
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     <meta name="generator" content="Hugo 0.25.1" />
@@ -71,27 +70,31 @@ What We’re Looking For: At this time we’re looking for students of all level
             <ul class="site-nav">
               
     <li class="site-nav-item">
-        <a title="Home" href="/lab-site/">Home</a>
+        <a title="Home" href="https://sanandak.github.io/lab-site/">Home</a>
     </li>
 
     <li class="site-nav-item">
-        <a title="News" href="/lab-site/news/">News</a>
+        <a title="News" href="https://sanandak.github.io/lab-site/news/">News</a>
     </li>
 
     <li class="site-nav-item">
-        <a title="Projects" href="/lab-site/projects/">Projects</a>
+        <a title="Projects" href="https://sanandak.github.io/lab-site/projects/">Projects</a>
     </li>
 
     <li class="site-nav-item">
-        <a title="Publications" href="/lab-site/pubs/">Publications</a>
+        <a title="Publications" href="https://sanandak.github.io/lab-site/pubs/">Publications</a>
     </li>
 
     <li class="site-nav-item">
-        <a title="People" href="/lab-site/people/">People</a>
+        <a title="People" href="https://sanandak.github.io/lab-site/people/">People</a>
     </li>
 
     <li class="site-nav-item">
-        <a title="Contact" href="/lab-site/contact/">Contact</a>
+        <a title="Contact" href="https://sanandak.github.io/lab-site/contact/">Contact</a>
+    </li>
+
+    <li class="site-nav-item">
+        <a title="Data" href="https://sanandak.github.io/lab-site/data/">Data</a>
     </li>
 
             </ul>
@@ -101,41 +104,93 @@ What We’re Looking For: At this time we’re looking for students of all level
 <div class="container">
     <article class="post-container">
         <header class="post-header">
-    <h1 class="post-title"></h1>
+    <h1 class="post-title">Hugo Pages (Part 2)</h1>
+    
+        <p class="post-description">How the sections are generated </p>
     
 </header>
 
         <div class="post-content clearfix" itemprop="articleBody">
     
 
-    
+    <p><a href="https://sanandak.github.io/lab-site/news/migrating-to-hugo/" title="See Part One of the Hugo series">See Part One of the Hugo series</a></p>
 
-<h1 id="who-we-are">Who We Are:</h1>
+<p>(alternatively, scroll to the bottom of the page and click on the <code>Tagged: hugo</code> link, which will show all the pages tagged <code>hugo</code>).</p>
 
-<p>We are a project team working to build an autonomous blimp capable of long-term independent flight.
-Our team is primarily student run under the advisement of Professor Ross Knepper. The team is
-organized into 3 primary sub-teams: hardware, simulation, and software. Areas of interest are
-high-level motion planning, circuit design, sensor fusion, dynamics modeling, power system design,
-and computer vision.</p>
+<h1 id="sections">Sections</h1>
 
-<h1 id="what-we-re-looking-for">What We’re Looking For:</h1>
+<p>Each file or directory in <code>/content</code> is <em>section</em>.  To customize
+the content, place a file in <code>/layouts/section</code>.  The default for
+this theme (in the absence of a file in <code>/layouts/section</code>)  is to
+simply make a list of all the pages in a directory.  For most of 
+the sections, that's fine.</p>
 
-<p>At this time we’re looking for students of all levels with interest and experience in any of the following areas:</p>
+<p>For the <code>/news/</code> section I wanted to only display the most-recent 10
+news items, so that has a special template
+~/layouts/section/news.html~ .</p>
 
-<ul>
-<li>CAD</li>
-<li>Circuit design</li>
-<li>Software architecture and design</li>
-</ul>
+<p>For the <code>/people/</code> section I
+wanted to group people by their role: students or staff, so that has a
+template.</p>
 
-<p>We’re especially interested in <strong>Electrical Engineering</strong> students. There are also opportunities for
-M.Eng. students to design a project with the blimp team. Freshman are free to inquire but should be
-willing to devote time to bring their skills up to speed.</p>
+<p>Again, we generate the header (<code>header.html</code>) followed by the heading "Graduate Students," followed by a list,
+where each entry is formatted by <code>people-stub.html</code>.  There are two
+new things here:  (1) we choose only those pages that are of <code>Type</code> equal to <code>grad</code> (this is from the metadata in the
+front-matter), and (2) we sort those pages by lastname (another
+metadata tag in the front matter).</p>
 
-<h1 id="want-to-join">Want to Join?</h1>
+<p>Once we have disposed of the grad students, we do something
+similar for the staff, and so on.</p>
 
-<p>If you’re interested in joining, please send an email to <a href="mailto:cornell.blimp@gmail.com">cornell.blimp@gmail.com</a> with your name in
-the subject line.</p>
+<p>Without this template, the People page would simply have a list of
+all the files in <code>/content/people/</code>.</p>
+
+<pre><code class="language-html">
+{{ partial &quot;header.html&quot; . }}
+
+&lt;div id=&quot;post-index&quot; class=&quot;body-container&quot;&gt;
+  &lt;h1 class=&quot;post-title&quot;&gt; People &lt;/h1&gt;
+
+  &lt;h2 class=&quot;section-title&quot;&gt; Graduate Students &lt;/h2&gt;
+  &lt;ol class=&quot;post-list&quot;&gt;
+    {{ $pag := where .Data.Pages &quot;Type&quot; &quot;grad&quot; }}
+    {{ range ($pag.ByParam &quot;lastname&quot;) }}
+    {{ partial &quot;people-stub.html&quot; . }}
+    {{ end }}
+  &lt;/ol&gt;
+
+  &lt;h2 class=&quot;section-title&quot;&gt; Staff &amp; Faculty &lt;/h2&gt;
+  &lt;ol class=&quot;post-list&quot;&gt;
+    {{ $pag := where .Data.Pages &quot;Type&quot; &quot;pi&quot; }}
+    {{ range ($pag.ByParam &quot;lastname&quot;) }}
+    {{ partial &quot;people-stub.html&quot; . }}
+    {{ end }}
+  &lt;/ol&gt;
+
+  ...
+</code></pre>
+
+<p>Here is the front-matter and the first line of the content for my
+file (<code>/content/people/sridhar.org</code>):</p>
+
+<pre><code class="language-org">
+#+DATE: 2017-01-25T16:12:51-05:00
+#+TITLE: Sridhar Anandakrishnan
+#+TAGS: 
+#+DRAFT: false
+#+TYPE: pi
+#+LASTNAME: +anandakrishnan
+#+POSITION: Professor of Geosciences
+#+IMAGE: sridhar.jpg
+#+ROOM: 442 Deike Bldg.
+#+EMAIL: sxa17@...
+
+Sridhar is a Professor in the Department of Geosciences and an
+</code></pre>
+
+<p>The template <code>/layouts/section/people.html</code> uses the metadata tags <code>Type</code> and <code>Lastname</code> to group and sort the entries.
+The template <code>/layouts/partials//people-stub.html</code> uses the metadata tags (<code>image</code>, <code>room</code>, etc)
+to generate the page.</p>
 
 
     
@@ -145,10 +200,18 @@ the subject line.</p>
 
         <footer class="post-footer clearfix">
     
+        <p class="post-tags">
+            <span>Tagged:</span>
+            
+            
+                <a href="https://sanandak.github.io/lab-site/tags/hugo/">hugo</a>
+            
+        </p>
+    
 
     <div class="share">
         
-            <a class="icon-twitter" href="https://twitter.com/share?text=&url=https%3a%2f%2fsanandak.github.io%2flab-site%2fprojects%2fblimp%2fsplash%2f"
+            <a class="icon-twitter" href="https://twitter.com/share?text=Hugo%20Pages%20%28Part%202%29&url=https%3a%2f%2fsanandak.github.io%2flab-site%2fnews%2fhugo-pages%2f"
                 onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
                 <i class="fa fa-twitter"></i>
                 <span class="hidden">Twitter</span>
@@ -156,7 +219,7 @@ the subject line.</p>
         
 
         
-            <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fsanandak.github.io%2flab-site%2fprojects%2fblimp%2fsplash%2f"
+            <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fsanandak.github.io%2flab-site%2fnews%2fhugo-pages%2f"
                 onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
                 <i class="fa fa-facebook"></i>
                 <span class="hidden">Facebook</span>
@@ -164,7 +227,7 @@ the subject line.</p>
         
 
         
-            <a class="icon-google-plus" href="https://plus.google.com/share?url=https%3a%2f%2fsanandak.github.io%2flab-site%2fprojects%2fblimp%2fsplash%2f"
+            <a class="icon-google-plus" href="https://plus.google.com/share?url=https%3a%2f%2fsanandak.github.io%2flab-site%2fnews%2fhugo-pages%2f"
               onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
               <i class="fa fa-google-plus"></i>
                 <span class="hidden">Google+</span>

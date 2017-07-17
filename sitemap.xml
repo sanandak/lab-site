@@ -3,13 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sanandak.github.io/lab-site/news/hugo-pages/</loc>
+    <lastmod>2017-07-17T13:45:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sanandak.github.io/lab-site/news/gmt/</loc>
+    <lastmod>2017-07-16T17:11:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sanandak.github.io/lab-site/data/gmt/</loc>
+    <lastmod>2017-07-16T08:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sanandak.github.io/lab-site/pubs/2017/</loc>
     <lastmod>2017-07-15T00:25:51-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://sanandak.github.io/lab-site/projects/photos/</loc>
-    <lastmod>2017-07-14T15:45:22-04:00</lastmod>
+    <lastmod>2017-07-14T16:07:30-04:00</lastmod>
   </url>
   
   <url>
@@ -53,26 +68,6 @@
   </url>
   
   <url>
-    <loc>https://sanandak.github.io/lab-site/projects/social_nav/</loc>
-    <lastmod>2017-01-25T20:09:33-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sanandak.github.io/lab-site/data/gestures/</loc>
-    <lastmod>2017-01-25T20:09:23-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sanandak.github.io/lab-site/projects/gestures/</loc>
-    <lastmod>2017-01-25T20:09:23-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sanandak.github.io/lab-site/projects/blimp/</loc>
-    <lastmod>2017-01-25T20:09:13-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sanandak.github.io/lab-site/people/richard/</loc>
     <lastmod>2017-01-25T16:12:51-05:00</lastmod>
   </url>
@@ -88,46 +83,48 @@
   </url>
   
   <url>
-    <loc>https://sanandak.github.io/lab-site/contact/</loc>
-    <lastmod>2017-01-25T00:25:51-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sanandak.github.io/lab-site/tags/</loc>
-    <lastmod>2017-01-25T00:25:59-05:00</lastmod>
+    <lastmod>2017-07-16T17:11:10-04:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sanandak.github.io/lab-site/projects/blimp/splash/</loc>
   </url>
   
   <url>
     <loc>https://sanandak.github.io/lab-site/categories/</loc>
+    <lastmod>2017-07-16T17:11:10-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://sanandak.github.io/lab-site/categories/</loc>
+    <lastmod>2017-07-16T17:11:10-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sanandak.github.io/lab-site/contact/</loc>
+  </url>
+  
+  <url>
     <loc>https://sanandak.github.io/lab-site/data/</loc>
-    <lastmod>2017-01-25T20:09:23-05:00</lastmod>
+    <lastmod>2017-07-16T08:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sanandak.github.io/lab-site/tags/hugo/</loc>
-    <lastmod>2017-07-12T09:43:29-04:00</lastmod>
+    <lastmod>2017-07-17T13:45:25-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sanandak.github.io/lab-site/news/</loc>
-    <lastmod>2017-07-12T09:43:29-04:00</lastmod>
+    <lastmod>2017-07-17T13:45:25-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sanandak.github.io/lab-site/</loc>
-    <lastmod>2017-07-15T00:25:51-05:00</lastmod>
+    <lastmod>2017-07-17T13:45:25-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -145,7 +142,7 @@
   
   <url>
     <loc>https://sanandak.github.io/lab-site/projects/</loc>
-    <lastmod>2017-07-14T15:45:22-04:00</lastmod>
+    <lastmod>2017-07-14T16:07:30-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -157,13 +154,13 @@
   
   <url>
     <loc>https://sanandak.github.io/lab-site/categories/software/</loc>
-    <lastmod>2017-07-12T09:43:29-04:00</lastmod>
+    <lastmod>2017-07-17T13:45:25-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sanandak.github.io/lab-site/tags/</loc>
-    <lastmod>2017-01-25T00:25:59-05:00</lastmod>
+    <lastmod>2017-07-16T17:11:10-04:00</lastmod>
     <priority>0</priority>
   </url>
   
