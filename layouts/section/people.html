@@ -3,18 +3,18 @@
 <div id="post-index" class="body-container">
   <h1 class="post-title"> People </h1>
 
-  <h2 class="section-title"> Staff & Faculty </h2>
+  <h2 class="section-title"> Graduate Students </h2>
   <ol class="post-list">
-    {{ $pag := where .Data.Pages "Type" "pi" }}
-    {{ range ($pag.ByParam "lastname") }}
+    {{ $pag := where .Data.Pages "Type" "grad" }}
+    {{ range ($pag.ByParam "lastname")  }}
     {{ partial "people-stub.html" . }}
     {{ end }}
   </ol>
 
-  <h2 class="section-title"> Graduate Students </h2>
+  <h2 class="section-title"> Staff & Faculty </h2>
   <ol class="post-list">
-    {{ $pag := where .Data.Pages "Type" "grad" }}
-    {{ range sort $pag ".Title" }}
+    {{ $pag := where .Data.Pages "Type" "pi" }}
+    {{ range ($pag.ByParam "lastname") }}
     {{ partial "people-stub.html" . }}
     {{ end }}
   </ol>

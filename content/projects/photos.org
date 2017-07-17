@@ -1,0 +1,18 @@
+#+TITLE: Images of Glaciers
+#+DATE: 2017-07-14T16:07:30-04:00
+#+DESCRIPTION: 
+#+SLUG: photos
+#+BANNER: 
+#+CATEGORIES: 
+#+TAGS: 
+#+DRAFT: false
+
+Photo of crack in the Larsen C Ice Shelf (credit:  <a
+href="https://www.nasa.gov/image-feature/rift-in-antarcticas-larsen-c-ice-shelf">NASA</a>):
+{{< figure src="/img/larsen-c-crack.jpg">}}
+
+-----
+
+
+
+

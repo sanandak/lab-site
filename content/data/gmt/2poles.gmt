@@ -1,0 +1,38 @@
+#!/bin/sh                     
+REGION=
+BTICKINFO=
+out=`basename $0 .gmt`.ps
+#
+# Dummy start - with a timestamp that has the filename.  
+# Remove -U... if you don't want it
+# Add -P for portrait plot here.
+#
+pwd | psxy -JX1 -R0/1/0/1 -X0 -Y0 -H1 -K -P -U/0.25/0.25"`pwd`/$0" > $out
+
+#
+# GMTCOMMAND ARGS [-R$REGION -B$BTICKINFO] ... -K -O >>$out
+#
+# <<<<Real stuff here...
+
+pscoast -R0/360/-90/90 -JG-75/41/4.5i -B45/30 -Dc -A10000 -G100/100/100 -X7c -Y10c -K -O >>$out
+gunzip -c State_Country_Boundaries/Europe-non-EU/greenland.dat.gz | \
+psxy  -JG -R -G0/100/240 -K -O >>$out
+
+pscoast -R0/360/-90/90 -JG-75/-41/4.5i -B45/30 -Dc -A10000 -G100/100/100 -X-5c -Y-8c -K -O >>$out
+gunzip -c ADDant.txt.gz | psxy -JG -R  \
+  -G0/100/240 -K -O >> $out
+#pscoast -JA0/-90/7 -R135/205/-85/-75 -G10/200/100 -Di -W -K -O >> $out
+#gunzip -c ADDris.txt.gz | psxy -JG -R -M -K -O >> $out
+#gunzip -c ADDfris.txt.gz | psxy -JG -R  -M -K -O >> $out
+#gunzip -c ADDotheris.txt.gz | psxy -JG -R   -M -K -O >> $out
+#gunzip -c  ADDfrisisl.txt.gz | psxy -JG -R   -M -K -O >> $out
+#gunzip -c ADDrisisl.txt.gz | psxy -JG -R  -M -K -O >> $out
+
+# >>>>Dummy end
+#
+pwd | psxy -JX -R -h1 -O >> $out
+
+ps2pdf $out
+pdfcrop --margins 5 `basename $out .ps`.pdf
+mv `basename $out .ps`-crop.pdf `basename $out .ps`.pdf
+

@@ -9,9 +9,6 @@
         {{ $pag := .Paginate (where .Data.Pages "Type" "news") }}
         {{ range $pag.Pages }}
             {{ partial "news-stub.html" . }}
-            <div class="news-detail">
-              {{ .Content }}
-            </div>
         {{ end }}
     </ol>
 

@@ -3,6 +3,7 @@ baseurl = "https://sanandak.github.io/lab-site/"
 languageCode = "en-us"
 theme = "ghostwriter"
 pluralizelisttitles = false
+canonifyURLs = true
 
 [Params]
     intro = true
@@ -31,6 +32,11 @@ pluralizelisttitles = false
     weight = 3
 
 [[menu.main]]
+    name = "Publications"
+    url = "/pubs/"
+    weight = 4
+
+[[menu.main]]
     name = "People"
     url = "/people/"
     weight = 5
@@ -40,8 +46,9 @@ pluralizelisttitles = false
     url = "/contact/"
     weight = 6
 
+
 [[menu.main]]
-    name = "Publications"
-    url = "/pubs/"
-    weight = 4
+    name = "Data"
+    url = "/data/"
+    weight = 7
 

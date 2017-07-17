@@ -13,11 +13,10 @@ Departments of [[http://www.geosc.psu.edu][Geosciences]], [[http://www.ee.psu.ed
 others. 
 
 Our mission is the educate the next generation of cryosphere
-scientists and  inform the public and other stakeholders in climate
+scientists and  inform the public and other stakeholders on climate
 issues.  
 Our research mission is to develop the tools and theoretical
 framework to better project how climate change will affect ice sheets.
-and .
 
 
   - Background information on climate change from the  [[https://www.nsf.gov/news/special_reports/climate/ice_background.jsp][NSF]] and from [[http://climate.nasa.gov][NASA]].

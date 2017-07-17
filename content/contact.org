@@ -1,0 +1,15 @@
+#+TITLE: Contact Information
+#+DATE:2017-01-25T00:25:51-05:00
+
+Contact us via email at [[mailto:psice@psu.edu][psice@psu.edu]]
+
+-----
+
+Here is a photo of the massive crack that eventually led to the
+formation of the massive iceberg that broke off from the Larsen C Ice
+Shelf: {{< figure src="/img/larsen-c-crack.jpg" title="Larsen C" >}}
+<a
+href="https://www.nasa.gov/image-feature/rift-in-antarcticas-larsen-c-ice-shelf">credit:
+NASA</a>
+
+----

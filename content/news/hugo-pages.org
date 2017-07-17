@@ -1,0 +1,88 @@
+#+TITLE: Hugo Pages (Part 2)
+#+DATE: 2017-07-17T13:45:25-04:00
+#+DESCRIPTION: How the sections are generated 
+#+SLUG: hugo-pages
+#+CATEGORIES: software
+#+TAGS: hugo
+#+BANNER: 
+#+DRAFT: false
+
+[[{{< ref "news/migrating-to-hugo.org" >}}][See Part One of the Hugo series]]
+
+(alternatively, scroll to the bottom of the page and click on the ~Tagged: hugo~ link, which will show all the pages tagged ~hugo~).
+
+* Sections
+
+Each file or directory in ~/content~ is /section/.  To customize
+the content, place a file in ~/layouts/section~.  The default for
+this theme (in the absence of a file in ~/layouts/section~)  is to
+simply make a list of all the pages in a directory.  For most of 
+the sections, that's fine.  
+
+For the ~/news/~ section I wanted to only display the most-recent 10
+news items, so that has a special template
+~/layouts/section/news.html~ .
+
+For the ~/people/~ section I
+wanted to group people by their role: students or staff, so that has a
+template.
+
+Again, we generate the header (~header.html~) followed by the heading "Graduate Students," followed by a list,
+where each entry is formatted by ~people-stub.html~.  There are two
+new things here:  (1) we choose only those pages that are of ~Type~ equal to ~grad~ (this is from the metadata in the
+front-matter), and (2) we sort those pages by lastname (another
+metadata tag in the front matter).
+
+Once we have disposed of the grad students, we do something
+similar for the staff, and so on.
+
+Without this template, the People page would simply have a list of
+all the files in ~/content/people/~.
+
+
+#+BEGIN_EXAMPLE html
+{{ partial "header.html" . }}
+
+<div id="post-index" class="body-container">
+  <h1 class="post-title"> People </h1>
+
+  <h2 class="section-title"> Graduate Students </h2>
+  <ol class="post-list">
+    {{ $pag := where .Data.Pages "Type" "grad" }}
+    {{ range ($pag.ByParam "lastname") }}
+    {{ partial "people-stub.html" . }}
+    {{ end }}
+  </ol>
+
+  <h2 class="section-title"> Staff & Faculty </h2>
+  <ol class="post-list">
+    {{ $pag := where .Data.Pages "Type" "pi" }}
+    {{ range ($pag.ByParam "lastname") }}
+    {{ partial "people-stub.html" . }}
+    {{ end }}
+  </ol>
+
+  ...
+#+END_EXAMPLE
+
+
+Here is the front-matter and the first line of the content for my
+file (~/content/people/sridhar.org~):
+#+BEGIN_SRC org
+#+DATE: 2017-01-25T16:12:51-05:00
+#+TITLE: Sridhar Anandakrishnan
+#+TAGS: 
+#+DRAFT: false
+#+TYPE: pi
+#+LASTNAME: +anandakrishnan
+#+POSITION: Professor of Geosciences
+#+IMAGE: sridhar.jpg
+#+ROOM: 442 Deike Bldg.
+#+EMAIL: sxa17@...
+
+Sridhar is a Professor in the Department of Geosciences and an
+#+END_SRC
+
+The template ~/layouts/section/people.html~ uses the metadata tags ~Type~ and ~Lastname~ to group and sort the entries.
+The template ~/layouts/partials//people-stub.html~ uses the metadata tags (~image~, ~room~, etc)
+to generate the page.
