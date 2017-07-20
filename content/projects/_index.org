@@ -1,0 +1,4 @@
+#+TITLE: Projects
+#+DATE: 2017-07-20T13:00:00-04:00
+
+{{< figure src="/img/qgis_basemap.png" caption="Map showing areas of current research.  The colors on the inset map are ice flow speed (non-linear scale) ranging from 3 m/y (purple) to 60 m/y (yellow) to 300 m/y (red) to 1000 m/y (brown).">}}

@@ -13,6 +13,12 @@ href="https://www.nasa.gov/image-feature/rift-in-antarcticas-larsen-c-ice-shelf"
 
 -----
 
+NASA ASTER image of Erebus Ice Tongue, which flows down from Ross
+Island (credit: <a
+href="https://earthobservatory.nasa.gov/IOTD/view.php?id=4965">NASA
+Earth Observatory</a>
+
+{{< figure src="/img/aster_erebus_30nov01_15m.jpg" >}}
 
 
 

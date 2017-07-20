@@ -1,5 +1,5 @@
 title = "PSICE"
-baseurl = "https://sanandak.github.io/lab-site/"
+baseurl = "http://www.psice.psu.edu"
 languageCode = "en-us"
 theme = "ghostwriter"
 pluralizelisttitles = false
