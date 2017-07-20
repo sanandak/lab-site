@@ -1,0 +1,15 @@
+#+TITLE: Knut Christianson
+#DATE: 2017-07-18T10:14:15-04:00
+#+TAGS: people
+#+AUTHOR:
+#+DESCRIPTION:
+#+POSITION: Assistant Professor
+#+ROOM:
+#+EMAIL: knut@uw.edu
+#+TYPE: alumni
+#+IMAGE: penguin.jpg
+#+LASTNAME: christianson
+
+Knut is at the  University of Washington in the Department of Earth and
+Space Sciences.  His research focuses on integrating field and remote sensing data of ice sheets into models to improve simulations of past and future climate change. His models ultimately allow implementation of sensible climate change mitigation strategies.
+

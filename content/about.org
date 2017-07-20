@@ -12,6 +12,11 @@ understanding of the cryosphere.  We are a part of the
 Departments of [[http://www.geosc.psu.edu][Geosciences]], [[http://www.ee.psu.edu][Electrical Engineering]], [[http://meteo.psu.edu][Meteorology]], and
 others. 
 
+PSICE folks are conducting field work and  research in many parts of
+Antarctica.  The highlighted boxes show some of those areas.  See the [[/projects][Projects]] page for more 
+information. [fn:1]
+{{< figure src="/img/qgis_basemap.png" >}}
+
 Our mission is the educate the next generation of cryosphere
 scientists and  inform the public and other stakeholders on climate
 issues.  
@@ -24,4 +29,11 @@ framework to better project how climate change will affect ice sheets.
   - [[http://www.sciencemag.org/news/2015/11/just-nudge-could-collapse-west-antarctic-ice-sheet-raise-sea-levels-3-meters][Science Magazine]] on threat of sea level from Thwaites Glacier in Antarctica.
   - Research shows that [[http://blogs.agu.org/geospace/2017/04/26/sea-level-rising-faster-now-1990s-new-study-shows/][sea level]] is rising faster than in the 1990s.
   - And a story in Rolling Stone on [[http://www.rollingstone.com/politics/features/the-doomsday-glacier-w481260][The Doomsday Glacier]] (Thwaites Glacier).
+
+
+
+
+[fn:1] The highlighted boxes are shown with ice flow speed in color. The purple colors show areas where the flow of the ice is less than 3 m/yr.  The yellow colors show regions where the flow speed is 60 m/yr, and the red colors are for areas with speeds of 300 m/yr.  The brown colors are for areas with speeds greater than 1000 m/yr.
+
+
 

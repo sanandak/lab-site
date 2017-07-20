@@ -7,7 +7,11 @@ Contact us via email at [[mailto:psice@psu.edu][psice@psu.edu]]
 
 Here is a photo of the massive crack that eventually led to the
 formation of the massive iceberg that broke off from the Larsen C Ice
-Shelf: {{< figure src="/img/larsen-c-crack.jpg" title="Larsen C" >}}
+Shelf.  Scale is difficult to measure (the photo was taken from an
+airplane, and there are no known features---buildings, trees, roads---
+nearby).  NASA estimates that the crack is 100 m (300 ft) in width.
+
+ {{< figure src="/img/larsen-c-crack.jpg" title="Larsen C" >}}
 <a
 href="https://www.nasa.gov/image-feature/rift-in-antarcticas-larsen-c-ice-shelf">credit:
 NASA</a>

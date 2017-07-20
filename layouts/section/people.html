@@ -19,13 +19,17 @@
     {{ end }}
   </ol>
 
+  {{ $ugs := (where .Data.Pages "Type" "ugrad") }}
+  {{ $ugcnt := len $ugs }}
+  {{ if ge $ugcnt 1 }}
   <h2 class="section-title"> Undergraduates </h2>
   <ol class="post-list">
     {{ $pag := where .Data.Pages "Type" "ugrad" }}
-    {{ range sort $pag ".Title" }}
+    {{ range ($pag.ByParam "lastname") }}
     {{ partial "people-stub.html" . }}
     {{ end }}
   </ol>
+  {{ end }}
 
   <h2 class="section-title"> PSICE Alumni </h2>
   <ol class="post-list">

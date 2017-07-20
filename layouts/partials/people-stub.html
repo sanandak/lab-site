@@ -1,6 +1,7 @@
-<li class="nomove blurb-container" itemprop="blogPost" itemscope="" itemtype="https://schema.org/BlogPosting">
+<li itemprop="blogPost" itemscope="" itemtype="https://schema.org/BlogPosting">
   <a href="{{ .Permalink }}" itemprop="url">
     <h4 class="post-stub-title" itemprop="name">{{ .Title }}</h4>
+  </a>
     {{ if .Params.Image }}
     <div>
       <img class="right-content" style="margin-left: 10px;" src={{ .Site.BaseURL }}img/{{ .Params.Image }}>
@@ -11,6 +12,5 @@
     </div>
     {{ end }}
     {{ .Content }}
-  </a>
 </li>
 

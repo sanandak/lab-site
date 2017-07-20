@@ -1,10 +1,10 @@
 #+TITLE: GMT
-#+DATE: 2017-07-16T17:11:10-04:00
+#+DATE: 2017-07-18T17:11:10-04:00
 #+DESCRIPTION: 
 #+SLUG: GMT
 #+BANNER: 
-#+CATEGORIES: 
-#+TAGS: 
+#+CATEGORIES: software
+#+TAGS: GMT
 #+DRAFT: false
 
 Added a GMT script for Antarctic mapping [[{{< ref "data/gmt/index.org" >}}][2poles plot]] along with some notes.

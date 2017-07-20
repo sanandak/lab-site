@@ -1,0 +1,14 @@
+#+TITLE: Byron Parizek
+#+DATE: 2017-07-12T15:59:22-04:00
+#+TAGS: [people]
+#+AUTHOR: 
+#+DESCRIPTION: 
+#+POSITION: Associate Professor
+#+ROOM: 517A Deike (UP), 181 Smeal (Dubois)
+#+EMAIL: parizek@...
+#+TYPE: pi
+#+IMAGE: penguin.jpg
+#+LASTNAME: +parizek
+
+
+Byron is a PSICE alum, an Associate Professor at [[http://dubois.psu.edu][Penn State DuBois]], and is a member of the Department of Geosciences Graduate Faculty. He teaches undergraduate courses in Mathematics, Earth Sciences, and Computer Sciences. His NSF- and NASA-funded projects focus on numerical modeling of ice-sheet dynamics and related Earth-system processes. When not working with students and colleagues, he enjoys quality time with his family, coaching alpine ski racing, playing in the wilds of PA (e.g., hiking, fishing, hunting, camping, biking, paddling, etc.), traveling, and volunteering at his Church.

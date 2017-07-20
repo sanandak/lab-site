@@ -1,0 +1,13 @@
+#+TITLE: Maeva Pourpoint
+#+DATE: 2017-07-12T16:35:46-04:00
+#+TAGS: [people]
+#+AUTHOR: 
+#+DESCRIPTION: 
+#+POSITION: PhD Student
+#+ROOM: 
+#+EMAIL: mup23@...
+#+TYPE: grad
+#+IMAGE: penguin.jpg
+#+LASTNAME: pourpoint
+
+Maeva is a fourth year PhD student, who comes to us from an engineering background. She is interested in seismic tomography as well as location and source parameterization of seismic events. She is currently working with regional and teleseismic events recorded by the GLISN network to invert for the crustal and upper mantle structure beneath Greenland. Some of the goals of this project are to constrain the source of a high geothermal heat flux observed in northeast Greenland, provide valuable information about the geology within Greenland’s continental margin and obtain relatively accurate velocity and density profiles of Greenland's lithosphere that could be used to invert other dataset such as gravity data. 

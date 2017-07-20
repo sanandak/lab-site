@@ -1,0 +1,12 @@
+#+TITLE: {{ replace .TranslationBaseName "-" " " | title }}
+#DATE: {{ .Date }}
+#+TAGS: people
+#+AUTHOR:
+#+DESCRIPTION:
+#+POSITION: Dr. Professor...
+#+ROOM:
+#+EMAIL: xyz@...
+#+TYPE: pi | grad| ugrad | alumni
+#+IMAGE: penguin.jpg
+#+LASTNAME:
+

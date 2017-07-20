@@ -1,0 +1,22 @@
+#+TITLE: Richard Alley
+#+DATE: 2017-01-25T16:12:51-05:00
+#+TAGS: people
+#+TYPE: pi
+#+AUTHOR: 
+#+DESCRIPTION: 
+#+POSITION: Evan Pugh Professor of Geosciences
+#+ROOM: 517B Deike Bldg.
+#+EMAIL: rba6@...
+#+LASTNAME: +alley
+#+IMAGE: richard.jpg
+
+Richard is an [[https://www.research.psu.edu/ovpr/faculty-honors/evan-pugh][Evan Pugh Professor]] of the Pennsylvania State
+University, as well as a Professor in the Department of Geosciences.
+Richard is a glaciologist with training in geology and materials
+science from Ohio State and Wisconsin. He studies the flow and
+stability of ice sheets, their climate records, and the way they
+interact with the landscape. He used to spend a lot of time on ice
+sheets; now, he cheers for students going to the field and stays home
+to teach, and communicate with the public and policymakers. He likes
+to bicycle and play soccer, and spend time with his family.
+

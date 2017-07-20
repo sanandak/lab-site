@@ -1,0 +1,12 @@
+#+TITLE: {{ replace .TranslationBaseName "-" " " | title }}
+#+DATE: {{ .Date }}
+#+DESCRIPTION: 
+#+SLUG: {{ .TranslationBaseName }}
+#+BANNER: 
+#+CATEGORIES: 
+#+TAGS: 
+#+DRAFT: true
+
+
+
+

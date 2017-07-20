@@ -1,0 +1,11 @@
+#+TITLE: North East Greenland Ice Stream (NEGIS)
+#+DATE: 2017-07-18T08:04:50-04:00
+#+DESCRIPTION: 
+#+SLUG: negis
+#+BANNER: 
+#+CATEGORIES: research
+#+TAGS: negis
+#+DRAFT: false
+
+The North East Greenland Ice Stream is (oddly enough) in NE Greenland
+and flows to the NE and out to 
