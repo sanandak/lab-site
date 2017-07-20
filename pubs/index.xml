@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pubs on PSICE</title>
-    <link>https://sanandak.github.io/lab-site/pubs/</link>
+    <link>http://www.psice.psu.edu/pubs/</link>
     <description>Recent content in Pubs on PSICE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Jul 2017 00:25:51 -0500</lastBuildDate>
     
-	<atom:link href="https://sanandak.github.io/lab-site/pubs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.psice.psu.edu/pubs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Some of our 2017 publications...</title>
-      <link>https://sanandak.github.io/lab-site/pubs/2017/</link>
+      <link>http://www.psice.psu.edu/pubs/2017/</link>
       <pubDate>Sat, 15 Jul 2017 00:25:51 -0500</pubDate>
       
-      <guid>https://sanandak.github.io/lab-site/pubs/2017/</guid>
+      <guid>http://www.psice.psu.edu/pubs/2017/</guid>
       <description>2017 Chai, C., C. Ammon, S. Anandakrishnan, C. Ramirez, and A. Nyblade(2017), Estimating subglacial structure using P-wave receiver functions, Geophysical Journal International, 209 (2), 1064–1079.
 Kluskiewicz, D., E. D. Waddington, S. Anandakrishnan, D. E. Voigt, K. Matsuoka, and M. P. McCarthy (2017), Sonic methods for measuring crystal orientation fabric in ice, and results from the west antarctic ice sheet (wais) divide, Journal of Glaciology, 1–15.
 Luthra, T., L. E. Peters, S.</description>
@@ -24,10 +24,10 @@ Luthra, T., L. E. Peters, S.</description>
     
     <item>
       <title>Some of our 2016 publications...</title>
-      <link>https://sanandak.github.io/lab-site/pubs/2016/</link>
+      <link>http://www.psice.psu.edu/pubs/2016/</link>
       <pubDate>Fri, 14 Jul 2017 00:25:51 -0500</pubDate>
       
-      <guid>https://sanandak.github.io/lab-site/pubs/2016/</guid>
+      <guid>http://www.psice.psu.edu/pubs/2016/</guid>
       <description>2016 Christianson, K., R. W. Jacobel, H. J. Horgan, R. B. Alley, S. Anandakrishnan, D. M. Holland, and K. J. DallaSanta (2016a), Basal conditions at the grounding zone of Whillans Ice Stream, West Antarctica, from ice-penetrating radar, Journal of Geophysical Research: Earth Surface, 121 (11), 1954–1983.
 Christianson, K. et al. (2016b), Sensitivity of pine island glacier to observed ocean forcing, Geophysical Research Letters, 43 (20).
 Heeszel, D. S., D. A. Wiens, S.</description>

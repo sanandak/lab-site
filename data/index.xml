@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data on PSICE</title>
-    <link>https://sanandak.github.io/lab-site/data/</link>
+    <link>http://www.psice.psu.edu/data/</link>
     <description>Recent content in Data on PSICE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Jul 2017 08:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://sanandak.github.io/lab-site/data/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.psice.psu.edu/data/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GMT files</title>
-      <link>https://sanandak.github.io/lab-site/data/gmt/</link>
+      <link>http://www.psice.psu.edu/data/gmt/</link>
       <pubDate>Sun, 16 Jul 2017 08:00:00 -0400</pubDate>
       
-      <guid>https://sanandak.github.io/lab-site/data/gmt/</guid>
+      <guid>http://www.psice.psu.edu/data/gmt/</guid>
       <description>The outline of the major ice shelves in Antarctica is missing from the GMT datasets. I have included them and made them available in add.tar.gz and greenland.dat.gz.
 For example, here is figure showing the Antarctic and Greenland ice sheets (the GMT bash script to generate this figure is 2poles.gmt here.  # ... some set up not shown # draw the world pscoast -R0/360/-90/90 -JG-75/41/4.5i -B45/30 -Dc -A10000 \ -G100/100/100 -X7c -Y10c -K -O &amp;gt;&amp;gt;$out gunzip -c greenland.</description>
     </item>

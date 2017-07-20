@@ -2,41 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on PSICE</title>
-    <link>https://sanandak.github.io/lab-site/projects/</link>
+    <link>http://www.psice.psu.edu/projects/</link>
     <description>Recent content in Projects on PSICE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jul 2017 08:04:50 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2017 13:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://sanandak.github.io/lab-site/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.psice.psu.edu/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>North East Greenland Ice Stream (NEGIS)</title>
-      <link>https://sanandak.github.io/lab-site/projects/negis/</link>
+      <link>http://www.psice.psu.edu/projects/negis/</link>
       <pubDate>Tue, 18 Jul 2017 08:04:50 -0400</pubDate>
       
-      <guid>https://sanandak.github.io/lab-site/projects/negis/</guid>
+      <guid>http://www.psice.psu.edu/projects/negis/</guid>
       <description>The North East Greenland Ice Stream is (oddly enough) in NE Greenland and flows to the NE and out to</description>
     </item>
     
     <item>
       <title>Thwaites Glacier, West Antarctica</title>
-      <link>https://sanandak.github.io/lab-site/projects/thwaites/</link>
+      <link>http://www.psice.psu.edu/projects/thwaites/</link>
       <pubDate>Tue, 18 Jul 2017 08:04:50 -0400</pubDate>
       
-      <guid>https://sanandak.github.io/lab-site/projects/thwaites/</guid>
+      <guid>http://www.psice.psu.edu/projects/thwaites/</guid>
       <description>Thwaites Glacier is one of the largest glaciers in Antarctica. Like many glaciers in West Antarctica, it is grounded below sea level and the bed becomes deeper farther from the coast (a reverse bed slope). What that means is is that Thwaites is vulnerable to rapid /grounding-line retreat/ in response to a warming ocean.
 We are conducting numerical modeling, satellite and airborne remote sensing data analysis, ground-based geophysical measurements to better project Thwaites Glacier&#39;s potential contribution to sea level rise over the coming decades and centuries.</description>
     </item>
     
     <item>
       <title>Images of Glaciers</title>
-      <link>https://sanandak.github.io/lab-site/projects/photos/</link>
+      <link>http://www.psice.psu.edu/projects/photos/</link>
       <pubDate>Fri, 14 Jul 2017 16:07:30 -0400</pubDate>
       
-      <guid>https://sanandak.github.io/lab-site/projects/photos/</guid>
-      <description>Photo of crack in the Larsen C Ice Shelf (credit: NASA):  </description>
+      <guid>http://www.psice.psu.edu/projects/photos/</guid>
+      <description>Photo of crack in the Larsen C Ice Shelf (credit: NASA):  NASA ASTER image of Erebus Ice Tongue, which flows down from Ross Island (credit: NASA Earth Observatory
+ </description>
     </item>
     
   </channel>
