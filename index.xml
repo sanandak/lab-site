@@ -6,10 +6,38 @@
     <description>Recent content on PSICE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jul 2017 13:45:25 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 17:11:10 -0400</lastBuildDate>
     
 	<atom:link href="https://sanandak.github.io/lab-site/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GMT</title>
+      <link>https://sanandak.github.io/lab-site/news/gmt/</link>
+      <pubDate>Tue, 18 Jul 2017 17:11:10 -0400</pubDate>
+      
+      <guid>https://sanandak.github.io/lab-site/news/gmt/</guid>
+      <description>Added a GMT script for Antarctic mapping 2poles plot along with some notes.</description>
+    </item>
+    
+    <item>
+      <title>North East Greenland Ice Stream (NEGIS)</title>
+      <link>https://sanandak.github.io/lab-site/projects/negis/</link>
+      <pubDate>Tue, 18 Jul 2017 08:04:50 -0400</pubDate>
+      
+      <guid>https://sanandak.github.io/lab-site/projects/negis/</guid>
+      <description>The North East Greenland Ice Stream is (oddly enough) in NE Greenland and flows to the NE and out to</description>
+    </item>
+    
+    <item>
+      <title>Thwaites Glacier, West Antarctica</title>
+      <link>https://sanandak.github.io/lab-site/projects/thwaites/</link>
+      <pubDate>Tue, 18 Jul 2017 08:04:50 -0400</pubDate>
+      
+      <guid>https://sanandak.github.io/lab-site/projects/thwaites/</guid>
+      <description>Thwaites Glacier is one of the largest glaciers in Antarctica. Like many glaciers in West Antarctica, it is grounded below sea level and the bed becomes deeper farther from the coast (a reverse bed slope). What that means is is that Thwaites is vulnerable to rapid /grounding-line retreat/ in response to a warming ocean.
+We are conducting numerical modeling, satellite and airborne remote sensing data analysis, ground-based geophysical measurements to better project Thwaites Glacier&#39;s potential contribution to sea level rise over the coming decades and centuries.</description>
+    </item>
     
     <item>
       <title>Hugo Pages (Part 2)</title>
@@ -20,15 +48,6 @@
       <description>See Part One of the Hugo series
 (alternatively, scroll to the bottom of the page and click on the Tagged: hugo link, which will show all the pages tagged hugo).
 Sections Each file or directory in /content is section. To customize the content, place a file in /layouts/section. The default for this theme (in the absence of a file in /layouts/section) is to simply make a list of all the pages in a directory.</description>
-    </item>
-    
-    <item>
-      <title>GMT</title>
-      <link>https://sanandak.github.io/lab-site/news/gmt/</link>
-      <pubDate>Sun, 16 Jul 2017 17:11:10 -0400</pubDate>
-      
-      <guid>https://sanandak.github.io/lab-site/news/gmt/</guid>
-      <description>Added a GMT script for Antarctic mapping 2poles plot along with some notes.</description>
     </item>
     
     <item>
@@ -78,7 +97,7 @@ Heeszel, D. S., D. A. Wiens, S.</description>
       <pubDate>Wed, 12 Jul 2017 16:37:07 -0400</pubDate>
       
       <guid>https://sanandak.github.io/lab-site/people/don-voigt/</guid>
-      <description>Don is a Senior Research Assistant in Geosciences. His background is in Mineralogy with training at Old Dominion University and Penn State. With multiple years in Antarctica and Greenland on more projects than he can remember, Don landed at the WAIS Divide Ice Core Project as Chief Scientist for the 2011&amp;ndash;12 and 2012&amp;ndash;13 field seasons. On the science side, Don studies the c-axis fabric of the ice as part of the study of the physical properties of the WAIS Divide core.</description>
+      <description>Don is a Senior Research Assistant in Geosciences. His background is in Mineralogy with training at Old Dominion University and Penn State. With multiple years in Antarctica and Greenland on more projects than he can remember, Don landed at the WAIS Divide Ice Core Project as Chief Scientist for the 2011--12 and 2012--13 field seasons. On the science side, Don studies the c-axis fabric of the ice as part of the study of the physical properties of the WAIS Divide core.</description>
     </item>
     
     <item>
@@ -87,7 +106,7 @@ Heeszel, D. S., D. A. Wiens, S.</description>
       <pubDate>Wed, 12 Jul 2017 16:35:46 -0400</pubDate>
       
       <guid>https://sanandak.github.io/lab-site/people/maeva-pourpoint/</guid>
-      <description>Maeva is a fourth year PhD student, who comes to us from an engineering background. She is interested in seismic tomography as well as location and source parameterization of seismic events. She is currently working with regional and teleseismic events recorded by the GLISN network to invert for the crustal and upper mantle structure beneath Greenland. Some of the goals of this project are to constrain the source of a high geothermal heat flux observed in northeast Greenland, provide valuable information about the geology within Greenland’s continental margin and obtain relatively accurate velocity and density profiles of Greenland&amp;rsquo;s lithosphere that could be used to invert other dataset such as gravity data.</description>
+      <description>Maeva is a fourth year PhD student, who comes to us from an engineering background. She is interested in seismic tomography as well as location and source parameterization of seismic events. She is currently working with regional and teleseismic events recorded by the GLISN network to invert for the crustal and upper mantle structure beneath Greenland. Some of the goals of this project are to constrain the source of a high geothermal heat flux observed in northeast Greenland, provide valuable information about the geology within Greenland’s continental margin and obtain relatively accurate velocity and density profiles of Greenland&#39;s lithosphere that could be used to invert other dataset such as gravity data.</description>
     </item>
     
     <item>
@@ -105,7 +124,7 @@ Heeszel, D. S., D. A. Wiens, S.</description>
       <pubDate>Wed, 12 Jul 2017 16:03:41 -0400</pubDate>
       
       <guid>https://sanandak.github.io/lab-site/people/david-pollard/</guid>
-      <description>Dave is interested in numerical modeling of the Earth&amp;rsquo;s climate, including 3-D atmospheric and ocean dynamics, ice sheets and vegetation. He works mostly on paleoclimates, long-term ice sheet variations, and past vegetation-climate feedbacks. He has been at Penn State since 1997, when he moved from the National Center for Atmospheric Research after helping to develop the GENESIS Global Climate Model. Recently he has worked more on ice sheet models, coupling them with global and regional climate models and applying them to Antarctica.</description>
+      <description>Dave is interested in numerical modeling of the Earth&#39;s climate, including 3-D atmospheric and ocean dynamics, ice sheets and vegetation. He works mostly on paleoclimates, long-term ice sheet variations, and past vegetation-climate feedbacks. He has been at Penn State since 1997, when he moved from the National Center for Atmospheric Research after helping to develop the GENESIS Global Climate Model. Recently he has worked more on ice sheet models, coupling them with global and regional climate models and applying them to Antarctica.</description>
     </item>
     
     <item>
@@ -123,7 +142,7 @@ Heeszel, D. S., D. A. Wiens, S.</description>
       <pubDate>Wed, 12 Jul 2017 15:18:50 -0400</pubDate>
       
       <guid>https://sanandak.github.io/lab-site/people/brad/</guid>
-      <description>Brad is the administrative support coordinator for PSICE, specializing in research and budget administration. He has worked in the research administration field since 2010 and earned the title &amp;ldquo;Certified Research Administrator&amp;rdquo; from the Research Administrators Certification Council in 2013. He learned much of what he knows from his retired mentor, Deb Detwiler.</description>
+      <description>Brad is the administrative support coordinator for PSICE, specializing in research and budget administration. He has worked in the research administration field since 2010 and earned the title Certified Research Administrator from the Research Administrators Certification Council in 2013. He learned much of what he knows from his retired mentor, Deb Detwiler.</description>
     </item>
     
     <item>
@@ -162,7 +181,7 @@ Overview of the pages generated by Hugo The theme is stolen from RPAL at Cornell
       
       <guid>https://sanandak.github.io/lab-site/about/</guid>
       <description>Penn State Ice and Climate is an interdisciplinary group of researchers from across the university dedicated to a better understanding of the cryosphere. We are a part of the Earth and Environmental Sciences Institute, with members from the Departments of Geosciences, Electrical Engineering, Meteorology, and others.
-Our mission is the educate the next generation of cryosphere scientists and inform the public and other stakeholders on climate issues. Our research mission is to develop the tools and theoretical framework to better project how climate change will affect ice sheets.</description>
+PSICE folks are conducting field work and research in many parts of Antarctica. The highlighted boxes show some of those areas. See the Projects page for more information.</description>
     </item>
     
     <item>
@@ -172,8 +191,17 @@ Our mission is the educate the next generation of cryosphere scientists and info
       
       <guid>https://sanandak.github.io/lab-site/contact/</guid>
       <description>Contact us via email at psice@psu.edu
-Here is a photo of the massive crack that eventually led to the formation of the massive iceberg that broke off from the Larsen C Ice Shelf:  Larsen C   credit: NASA
-----</description>
+Here is a photo of the massive crack that eventually led to the formation of the massive iceberg that broke off from the Larsen C Ice Shelf. Scale is difficult to measure (the photo was taken from an airplane, and there are no known features---buildings, trees, roads--- nearby). NASA estimates that the crack is 100 m (300 ft) in width.
+  Larsen C   credit: NASA</description>
+    </item>
+    
+    <item>
+      <title>Knut Christianson</title>
+      <link>https://sanandak.github.io/lab-site/people/knut/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanandak.github.io/lab-site/people/knut/</guid>
+      <description>Knut is at the University of Washington in the Department of Earth and Space Sciences. His research focuses on integrating field and remote sensing data of ice sheets into models to improve simulations of past and future climate change. His models ultimately allow implementation of sensible climate change mitigation strategies.</description>
     </item>
     
   </channel>

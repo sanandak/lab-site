@@ -6,10 +6,19 @@
     <description>Recent content in News on PSICE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jul 2017 13:45:25 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 17:11:10 -0400</lastBuildDate>
     
 	<atom:link href="https://sanandak.github.io/lab-site/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GMT</title>
+      <link>https://sanandak.github.io/lab-site/news/gmt/</link>
+      <pubDate>Tue, 18 Jul 2017 17:11:10 -0400</pubDate>
+      
+      <guid>https://sanandak.github.io/lab-site/news/gmt/</guid>
+      <description>Added a GMT script for Antarctic mapping 2poles plot along with some notes.</description>
+    </item>
     
     <item>
       <title>Hugo Pages (Part 2)</title>
@@ -20,15 +29,6 @@
       <description>See Part One of the Hugo series
 (alternatively, scroll to the bottom of the page and click on the Tagged: hugo link, which will show all the pages tagged hugo).
 Sections Each file or directory in /content is section. To customize the content, place a file in /layouts/section. The default for this theme (in the absence of a file in /layouts/section) is to simply make a list of all the pages in a directory.</description>
-    </item>
-    
-    <item>
-      <title>GMT</title>
-      <link>https://sanandak.github.io/lab-site/news/gmt/</link>
-      <pubDate>Sun, 16 Jul 2017 17:11:10 -0400</pubDate>
-      
-      <guid>https://sanandak.github.io/lab-site/news/gmt/</guid>
-      <description>Added a GMT script for Antarctic mapping 2poles plot along with some notes.</description>
     </item>
     
     <item>

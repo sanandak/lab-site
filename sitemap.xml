@@ -3,13 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sanandak.github.io/lab-site/news/hugo-pages/</loc>
-    <lastmod>2017-07-17T13:45:25-04:00</lastmod>
+    <loc>https://sanandak.github.io/lab-site/news/gmt/</loc>
+    <lastmod>2017-07-18T17:11:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sanandak.github.io/lab-site/news/gmt/</loc>
-    <lastmod>2017-07-16T17:11:10-04:00</lastmod>
+    <loc>https://sanandak.github.io/lab-site/projects/negis/</loc>
+    <lastmod>2017-07-18T08:04:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sanandak.github.io/lab-site/projects/thwaites/</loc>
+    <lastmod>2017-07-18T08:04:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sanandak.github.io/lab-site/news/hugo-pages/</loc>
+    <lastmod>2017-07-17T13:45:25-04:00</lastmod>
   </url>
   
   <url>
@@ -84,19 +94,19 @@
   
   <url>
     <loc>https://sanandak.github.io/lab-site/tags/</loc>
-    <lastmod>2017-07-16T17:11:10-04:00</lastmod>
+    <lastmod>2017-07-14T16:07:30-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sanandak.github.io/lab-site/categories/</loc>
-    <lastmod>2017-07-16T17:11:10-04:00</lastmod>
+    <lastmod>2017-07-14T16:07:30-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sanandak.github.io/lab-site/categories/</loc>
-    <lastmod>2017-07-16T17:11:10-04:00</lastmod>
+    <lastmod>2017-07-14T16:07:30-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -111,20 +121,36 @@
   </url>
   
   <url>
+    <loc>https://sanandak.github.io/lab-site/tags/gmt/</loc>
+    <lastmod>2017-07-18T17:11:10-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sanandak.github.io/lab-site/tags/hugo/</loc>
     <lastmod>2017-07-17T13:45:25-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://sanandak.github.io/lab-site/people/knut/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sanandak.github.io/lab-site/tags/negis/</loc>
+    <lastmod>2017-07-18T08:04:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sanandak.github.io/lab-site/news/</loc>
-    <lastmod>2017-07-17T13:45:25-04:00</lastmod>
+    <lastmod>2017-07-18T17:11:10-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sanandak.github.io/lab-site/</loc>
-    <lastmod>2017-07-17T13:45:25-04:00</lastmod>
+    <lastmod>2017-07-18T17:11:10-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -142,7 +168,7 @@
   
   <url>
     <loc>https://sanandak.github.io/lab-site/projects/</loc>
-    <lastmod>2017-07-14T16:07:30-04:00</lastmod>
+    <lastmod>2017-07-18T08:04:50-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -153,14 +179,26 @@
   </url>
   
   <url>
+    <loc>https://sanandak.github.io/lab-site/categories/research/</loc>
+    <lastmod>2017-07-18T08:04:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sanandak.github.io/lab-site/categories/software/</loc>
-    <lastmod>2017-07-17T13:45:25-04:00</lastmod>
+    <lastmod>2017-07-18T17:11:10-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sanandak.github.io/lab-site/tags/</loc>
-    <lastmod>2017-07-16T17:11:10-04:00</lastmod>
+    <lastmod>2017-07-14T16:07:30-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sanandak.github.io/lab-site/tags/thwaites/</loc>
+    <lastmod>2017-07-18T08:04:50-04:00</lastmod>
     <priority>0</priority>
   </url>
   

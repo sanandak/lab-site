@@ -6,7 +6,7 @@
     <description>Recent content in Tags on PSICE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jul 2017 17:11:10 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jul 2017 16:07:30 -0400</lastBuildDate>
     
 	<atom:link href="https://sanandak.github.io/lab-site/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title></title>
       <link>https://sanandak.github.io/lab-site/tags/</link>
-      <pubDate>Sun, 16 Jul 2017 17:11:10 -0400</pubDate>
+      <pubDate>Fri, 14 Jul 2017 16:07:30 -0400</pubDate>
       
       <guid>https://sanandak.github.io/lab-site/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gmt</title>
+      <link>https://sanandak.github.io/lab-site/tags/gmt/</link>
+      <pubDate>Tue, 18 Jul 2017 17:11:10 -0400</pubDate>
+      
+      <guid>https://sanandak.github.io/lab-site/tags/gmt/</guid>
       <description></description>
     </item>
     
@@ -30,11 +39,29 @@
     </item>
     
     <item>
+      <title>Negis</title>
+      <link>https://sanandak.github.io/lab-site/tags/negis/</link>
+      <pubDate>Tue, 18 Jul 2017 08:04:50 -0400</pubDate>
+      
+      <guid>https://sanandak.github.io/lab-site/tags/negis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>People</title>
       <link>https://sanandak.github.io/lab-site/tags/people/</link>
       <pubDate>Wed, 12 Jul 2017 16:37:07 -0400</pubDate>
       
       <guid>https://sanandak.github.io/lab-site/tags/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thwaites</title>
+      <link>https://sanandak.github.io/lab-site/tags/thwaites/</link>
+      <pubDate>Tue, 18 Jul 2017 08:04:50 -0400</pubDate>
+      
+      <guid>https://sanandak.github.io/lab-site/tags/thwaites/</guid>
       <description></description>
     </item>
     

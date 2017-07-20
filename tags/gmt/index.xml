@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gmt on PSICE</title>
+    <link>https://sanandak.github.io/lab-site/tags/gmt/</link>
+    <description>Recent content in Gmt on PSICE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jul 2017 17:11:10 -0400</lastBuildDate>
+    
+	<atom:link href="https://sanandak.github.io/lab-site/tags/gmt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GMT</title>
+      <link>https://sanandak.github.io/lab-site/news/gmt/</link>
+      <pubDate>Tue, 18 Jul 2017 17:11:10 -0400</pubDate>
+      
+      <guid>https://sanandak.github.io/lab-site/news/gmt/</guid>
+      <description>Added a GMT script for Antarctic mapping 2poles plot along with some notes.</description>
+    </item>
+    
+  </channel>
+</rss>
