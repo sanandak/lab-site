@@ -3,7 +3,7 @@ baseurl = "http://www.psice.psu.edu"
 languageCode = "en-us"
 theme = "ghostwriter"
 pluralizelisttitles = false
-canonifyURLs = true
+canonifyURLs = false
 
 [Params]
     intro = true
