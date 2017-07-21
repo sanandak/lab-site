@@ -12,9 +12,30 @@ understanding of the cryosphere.  We are a part of the
 Departments of [[http://www.geosc.psu.edu][Geosciences]], [[http://www.ee.psu.edu][Electrical Engineering]], [[http://meteo.psu.edu][Meteorology]], and
 others. 
 
-PSICE folks are conducting field work and  research in many parts of
-Antarctica.  The highlighted boxes show some of those areas.  See the [[/projects][Projects]] page for more 
-information. [fn:1]
+<div style="float:left;padding:10px;border-radius:10px;border:1px solid black;">
+<div style="float:right;margin-right:5px">
+{{< figure src="/img/2poles_sm.png" >}}
+</div>
+
+The cryosphere is defined as the part of the Earth where water exists
+as ice.  The PSICE group is particularly interested in glaciers and
+ice sheets.  The two largest extant ice sheets on Earth are the
+Greenland and Antarctic Ice Sheets, shown here in blue, and to scale.
+
+Ice sheets are part of the global /hydrologic cycle/, in which water
+evaporates from the oceans, falls as snow on the ice sheets, is 
+compressed over time to form ice, and eventually flows to the ocean and melts.
+
+The /balance/ between snowfall on the ice sheets and water returned to the ocean 
+each year is what controls sea level.  The flow of ice is key to this process.
+</div>
+
+PSICE folks are conducting field work, modeling, and laboratory
+research in many parts of Antarctica and Greenland to understand ice
+flow in order to better project sea level in the coming decades.  The
+highlighted boxes show some of those areas.  See the [[/projects][Projects]] page for
+more information. [fn:1]
+
 {{< figure src="/img/qgis_basemap.png" >}}
 
 Our mission is the educate the next generation of cryosphere

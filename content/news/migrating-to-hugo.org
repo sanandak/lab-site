@@ -19,7 +19,7 @@ look is driven by ~config.toml~.
 ## config.toml 
 
 title = "PSICE"
-baseurl = "https://sanandak.github.io/lab-site/"
+baseurl = "https://www.psice.psu.edu//"
 languageCode = "en-us"
 theme = "ghostwriter"
 # ...removed some lines

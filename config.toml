@@ -1,9 +1,9 @@
 title = "PSICE"
-baseurl = "http://www.psice.psu.edu"
+baseurl = "http://www.psice.psu.edu/"
 languageCode = "en-us"
 theme = "ghostwriter"
 pluralizelisttitles = false
-canonifyURLs = false
+canonifyURLs = true
 
 [Params]
     intro = true
