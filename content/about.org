@@ -12,8 +12,8 @@ understanding of the cryosphere.  We are a part of the
 Departments of [[http://www.geosc.psu.edu][Geosciences]], [[http://www.ee.psu.edu][Electrical Engineering]], [[http://meteo.psu.edu][Meteorology]], and
 others. 
 
-<div style="float:left;padding:10px;border-radius:10px;border:1px solid black;">
-<div style="float:right;margin-right:5px">
+<div style="float:left;padding-left:10px;border-radius:10px;border:1px solid black;">
+<div style="float:right">
 {{< figure src="/img/2poles_sm.png" >}}
 </div>
 

@@ -2,3 +2,7 @@
 #+DATE: 2017-07-20T13:00:00-04:00
 
 {{< figure src="/img/qgis_basemap.png" caption="Map showing areas of current research.  The colors on the inset map are ice flow speed (non-linear scale) ranging from 3 m/y (purple) to 60 m/y (yellow) to 300 m/y (red) to 1000 m/y (brown).">}}
+
+This map was made with [[http://www.qgis.org/][QGIS]] and the [[http://quantarctica.npolar.no/][Quantarctica]] package, which includes many scientific datasets for Antarctica including ice flow speeds, topography, and outlines.  The scale for the basemap (3000 km) is on the basemap itself, and the scale for the four inset maps is the same (200 km) and is shown on the bottom left (Thwaites Glacier inset).
+
+

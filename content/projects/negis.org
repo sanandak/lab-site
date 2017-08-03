@@ -7,5 +7,18 @@
 #+TAGS: negis
 #+DRAFT: false
 
-The North East Greenland Ice Stream is (oddly enough) in NE Greenland
-and flows to the NE and out to 
+<div style="float:left;padding-left:10px;border-radius:10px;">
+<div style="float:right">
+{{< figure src="/img/Greenland_NEGIS_sm.png" >}}
+</div>
+
+The North East Greenland Ice Stream (NEGIS) is, unsurpisingly enough,
+in NE Greenland, flows to the NE and out to the ocean.  NEGIS is
+unusual among Greenland's glacier in that it originates far in the
+interior of the ice sheet and doesn't have a clearly delineated trough
+through which it flows.  The NEGIS grounding line is vulnerable to
+melt and retreat due to ocean warming, and the question PSICE is
+studying is when and to what degree the interior of the ice stream
+will be affected by the coastal changes.
+
+

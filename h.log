@@ -1,0 +1,35 @@
+WARN 2017/08/03 09:30:50 No translation bundle found for default language "en"
+WARN 2017/08/03 09:30:50 Translation func for language en not found, use default.
+WARN 2017/08/03 09:30:50 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+LOG:   2017/08/03 09:30:51 Started building sites ...
+WARN 2017/08/03 09:30:53 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2017/08/03 09:30:53 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2017/08/03 09:30:53 Built site for language en:
+LOG:   2017/08/03 09:30:53 0 draft content
+LOG:   2017/08/03 09:30:53 0 future content
+LOG:   2017/08/03 09:30:53 0 expired content
+LOG:   2017/08/03 09:30:53 20 regular pages created
+LOG:   2017/08/03 09:30:53 34 other pages created
+LOG:   2017/08/03 09:30:53 4 non-page files copied
+LOG:   2017/08/03 09:30:53 14 paginator pages created
+LOG:   2017/08/03 09:30:53 3 categories created
+LOG:   2017/08/03 09:30:53 6 tags created
+LOG:   2017/08/03 09:30:53 total in 1192 ms
+WARN 2017/08/03 09:30:53 Skip i18nDir: lstat /Users/sak/Dropbox/GitHub/lab-site/i18n: no such file or directory
+WARN 2017/08/03 09:30:53 Skip i18nDir: lstat /Users/sak/Dropbox/GitHub/lab-site/i18n: no such file or directory
+LOG:   2017/08/03 09:31:03 
+Change detected, rebuilding site
+LOG:   2017/08/03 09:31:03 2017-08-03 09:31 -0400
+WARN 2017/08/03 09:31:03 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/category.terms.en.html.html taxonomy/category.terms.html.html taxonomy/category.terms.en.html taxonomy/category.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.html.html theme/taxonomy/category.terms.en.html theme/taxonomy/category.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+WARN 2017/08/03 09:31:03 [en] Unable to locate layout for "taxonomyTerm": [taxonomy/tag.terms.en.html.html taxonomy/tag.terms.html.html taxonomy/tag.terms.en.html taxonomy/tag.terms.html _default/terms.en.html.html _default/terms.html.html _default/terms.en.html _default/terms.html indexes/indexes.en.html.html indexes/indexes.html.html indexes/indexes.en.html indexes/indexes.html theme/taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.html theme/_default/terms.en.html.html theme/_default/terms.html.html theme/_default/terms.en.html theme/_default/terms.html theme/indexes/indexes.en.html.html theme/indexes/indexes.html.html theme/indexes/indexes.en.html theme/indexes/indexes.html]
+LOG:   2017/08/03 09:31:03 Built site for language en:
+LOG:   2017/08/03 09:31:03 0 draft content
+LOG:   2017/08/03 09:31:03 0 future content
+LOG:   2017/08/03 09:31:03 0 expired content
+LOG:   2017/08/03 09:31:03 20 regular pages created
+LOG:   2017/08/03 09:31:03 34 other pages created
+LOG:   2017/08/03 09:31:03 4 non-page files copied
+LOG:   2017/08/03 09:31:03 14 paginator pages created
+LOG:   2017/08/03 09:31:03 6 tags created
+LOG:   2017/08/03 09:31:03 3 categories created
+LOG:   2017/08/03 09:31:03 total in 19 ms
